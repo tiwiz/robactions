@@ -291,4 +291,4 @@ fun String.removeWordsOtherThanColors(): String =
 val data = Scraper().fetchData()
 val mapper: ObjectMapper = ObjectMapper().registerModule(KotlinModule())
 
-mapper.writeValue(File("output.json"), data)
+mapper.writeValue(File("lights.json"), data)
