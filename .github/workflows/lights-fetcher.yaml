@@ -1,8 +1,9 @@
-name: Start
+name: Fetch Lights
+
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+  schedule:
+  - cron: "5 6 * * *"
 
 jobs:
   auto-setup:
@@ -10,8 +11,6 @@ jobs:
       run:
         shell: bash -i {0}
     runs-on: ubuntu-latest
-
-    if: github.event.repository.name != 'start-android'
 
     steps:
       - name: Checkout Repo
