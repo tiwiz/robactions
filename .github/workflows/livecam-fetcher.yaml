@@ -33,7 +33,6 @@ jobs:
       # Commit modified files
       - name: Commit files
         run: |
-          rm -r project-templates
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
