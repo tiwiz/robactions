@@ -1,17 +1,18 @@
 #!/usr/bin/env kscript
 
 @file:DependsOn("com.fasterxml.jackson.module:jackson-module-kotlin:2.12.2")
-import com.fasterxml.jackson.annotation.JsonAutoDetect
+
 import com.fasterxml.jackson.annotation.JsonProperty
-import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.databind.introspect.VisibilityChecker
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import java.io.File
+import java.time.LocalDateTime
 
 data class Configuration(
     @JsonProperty("history_languages")
-    val history : List<String>
+    val history: List<String>,
+    @JsonProperty("last_updated")
+    val lastUpdated: String = LocalDateTime.now().toString()
 )
 
 val historyDir = File("history/")
@@ -34,7 +35,8 @@ if (configurationFile.exists()) {
     configurationFile.delete()
 }
 
-val objectMapper = ObjectMapper().registerModule(KotlinModule())
+val objectMapper: ObjectMapper =
+    ObjectMapper().registerModule(KotlinModule())
 
 objectMapper.writerWithDefaultPrettyPrinter()
     .writeValue(File("configuration.json"), configuration)
