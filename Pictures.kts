@@ -86,12 +86,12 @@ if (file.exists()) {
 
     if (oldData != newImages) {
         file.delete()
-        mapper.writeValue(file, Storage(oldData))
+        mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(oldData))
         println("Upgrading content with new pictures")
     }
 } else {
     println("Creating new file livecams.json")
-    mapper.writeValue(file, Storage(newImages))
+    mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(newImages))
 }
 
 
