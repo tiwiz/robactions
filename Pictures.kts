@@ -12,6 +12,7 @@ import com.fasterxml.jackson.module.kotlin.KotlinModule
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import java.io.File
+import java.time.LocalDateTime
 
 val EARTH_CAM_URL =
     "https://www.earthcam.com/cams/common/gethofitems.php?camera=208d600d317dc6ae2fb4bd0ca3d4746c&length=25"
@@ -69,6 +70,7 @@ fun Image.livecam() =
     )
 
 val file = File("livecams.json")
+val log = File("livecams.log")
 
 fun String.fromJson() = mapper.readValue(file, Response::class.java)
 
@@ -76,6 +78,12 @@ fun String.fromFile() = mapper.readValue(file, Storage::class.java)
 
 val newImages = getImages().images.map { it.livecam() }
 
+fun log(message: String) {
+
+    log.printWriter().use { writer ->
+        writer.println("$message@${LocalDateTime.now()}")
+    }
+}
 if (file.exists()) {
     val json = file.readText()
 
@@ -88,10 +96,15 @@ if (file.exists()) {
         file.delete()
         mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(oldData))
         println("Upgrading content with new pictures")
+        log("New data added (${oldData.size - newImages.size} images)")
+    } else {
+        println("No new images")
+        log("No new images")
     }
 } else {
     println("Creating new file livecams.json")
     mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(newImages))
+    log("New data added (${newImages.size} images)")
 }
 
 
