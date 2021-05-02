@@ -29,7 +29,7 @@ jobs:
         run: sdk install kscript
 
       - name: Run script
-        run: kscript Configuration.kts
+        run: kscript Languages.kts
 
       # Commit modified files
       - name: Commit files
