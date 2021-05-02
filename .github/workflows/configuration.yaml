@@ -1,0 +1,46 @@
+name: Write configuration
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+    - 'history/**'
+
+jobs:
+  auto-setup:
+    defaults:
+      run:
+        shell: bash -i {0}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # otherwise, you could failed to push refs to dest repo
+
+      - name: Install sdkman
+        run: curl -s "https://get.sdkman.io" | bash
+
+      - name: Install kotlin
+        run: sdk install kotlin
+
+      - name: Install kscript
+        run: sdk install kscript
+
+      - name: Run script
+        run: kscript Configuration.kts
+
+      # Commit modified files
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update lights data"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
