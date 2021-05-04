@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Magenta COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUxIlQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-04/white%20lights%203.jpg?itok=lgPI5cbZ",
     "color" : "Celebratory Lighting",
@@ -32,5 +32,5 @@
     "date" : "2021-05-18T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF00FF" ]
 }
