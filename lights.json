@@ -30,7 +30,7 @@
     "color" : "Violet/White",
     "reason" : "New York University's 2021 Commencement",
     "date" : "2021-05-18T00:00:00Z",
-    "colorHex" : [ ]
+    "colorHex" : [ "#EE82EE", "#FFFFFF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
