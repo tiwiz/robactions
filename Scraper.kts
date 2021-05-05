@@ -285,6 +285,7 @@ fun String.removeWordsOtherThanColors(): String =
         .replace("-", "_")
         .replace(",", "_")
         .replace("&", "_")
+        .replace("/","_")
         .replace("\\s+", "_")
         .replace(" ", "")
 
