@@ -1,24 +1,28 @@
 #!/usr/bin/env kscript
 
-@file:DependsOn("it.skrape:skrapeit:1.1.1")
+@file:DependsOn("org.jsoup:jsoup:1.13.1")
 @file:DependsOn("com.fasterxml.jackson.module:jackson-module-kotlin:2.12.3")
+@file:DependsOn("it.skrape:skrapeit:1.1.1")
 
-import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.module.kotlin.KotlinModule
-import it.skrape.core.htmlDocument
-import it.skrape.fetcher.HttpFetcher
-import it.skrape.fetcher.extract
-import it.skrape.fetcher.skrape
-import it.skrape.selects.attribute
-import it.skrape.selects.html5.div
-import java.io.File
+import org.jsoup.Jsoup
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.ZoneOffset
 import java.time.format.DateTimeFormatter
 import java.util.*
-
-val ROOT = "https://www.esbnyc.com"
+import com.fasterxml.jackson.annotation.JsonProperty
+import com.fasterxml.jackson.databind.ObjectMapper
+import com.fasterxml.jackson.module.kotlin.KotlinModule
+import com.fasterxml.jackson.module.kotlin.readValue
+import it.skrape.core.htmlDocument
+import it.skrape.fetcher.HttpFetcher
+import it.skrape.fetcher.extract
+import it.skrape.fetcher.extractIt
+import it.skrape.fetcher.skrape
+import it.skrape.selects.html5.div
+import java.io.File
 
 data class DayLight(
     val image: String,
@@ -35,13 +39,87 @@ data class Lights(
     var colorHex: Array<String>? = null
 )
 
-fun String.format(): String {
-    val message = replace(" ", "")
+val ROOT = "https://www.esbnyc.com"
 
-    return if (message.all { it.isUpperCase() } && contains(" ")) {
-        split(" ").joinToString(" ") { it.toLowerCase().capitalize() }
-    } else {
-        this
+fun LocalDateTime.midnight(): LocalDateTime =
+    withHour(0)
+        .withMinute(0)
+        .withSecond(0)
+        .withNano(1)
+
+val dateFormat = DateTimeFormatter.ofPattern("uuuu-MM-dd'T'HH:mm:ssX")
+
+fun String.toISO8601(): String =
+    LocalDate.parse(this, DateTimeFormatter.ISO_DATE)
+        .atStartOfDay()
+        .toISO8601()
+
+fun LocalDateTime.toISO8601(): String = atOffset(ZoneOffset.UTC).format(dateFormat)
+
+fun Document.todayLights(): Pair<String, String> =
+    todayBackground(this) to todayColor(this)
+
+fun todayBackground(doc: Document): String =
+    doc.select("div.background-image-wrapper")
+        .attr("style")
+        .split("url(")
+        .last()
+        .replace(")", "")
+
+fun todayColor(doc: Document): String =
+    doc.select("div.is-today")
+        .select("div.info")
+        .select("h3")
+        .html()
+
+fun Document.otherLights(): List<DayLight> =
+    select("div.view-content > div").map { it.extractDayData() }
+
+fun Element.extractDayData(): DayLight {
+    val date = date()
+
+    val (color, reason, picture) = with(colorElement()) {
+        Triple(color(), reason(), picture())
+    }
+
+    return DayLight(
+        image = picture,
+        color = color.format(),
+        reason = reason,
+        date = date,
+        colorHex = color.toColorArray()
+    )
+}
+
+fun Element.date(): String = select("article.lse")
+    .attr("data-date")
+    .toISO8601()
+
+fun Element.colorElement(): Element = select("div.field_light").first()
+
+fun Element.color(): String = select("div > h3 > div").text()
+
+fun Element.reason(): String = select("div.clearfix.text-formatted.field_description > p").text()
+
+fun Element.picture(): String =
+    "$ROOT${select("div.media-image > img").attr("src")}"
+
+class Scraper {
+
+    fun fetchData(): Lights {
+        val (picture, color) = Jsoup.connect("https://www.esbnyc.com/about/tower-lights")
+            ?.get()
+            ?.todayLights() ?: "" to ""
+
+        val days = Jsoup.connect("https://www.esbnyc.com/about/tower-lights/calendar")?.get()
+            ?.otherLights() ?: emptyList()
+
+        return Lights(
+            todayColor = color.format(),
+            picture = picture,
+            calendar = days,
+            colorHex = color.toColorArray()
+        )
     }
 }
 
@@ -189,6 +267,16 @@ val htmlColors = hashMapOf(
     "MediumVioletRed".toUpperCase(Locale.getDefault()) to "#C71585"
 )
 
+fun String.format(): String {
+    val message = replace(" ", "")
+
+    return if (message.all { it.isUpperCase() } && contains(" ")) {
+        split(" ").joinToString(" ") { it.toLowerCase().capitalize() }
+    } else {
+        this
+    }
+}
+
 fun String.toColorArray(): Array<String> =
     removeWordsOtherThanColors()
         .split("_")
@@ -207,86 +295,7 @@ fun String.removeWordsOtherThanColors(): String =
         .replace("\\s+", "_")
         .replace(" ", "")
 
-val dateFormat = DateTimeFormatter.ofPattern("uuuu-MM-dd'T'HH:mm:ssX")
-
-fun String.toISO8601(): String =
-    LocalDate.parse(this, DateTimeFormatter.ISO_DATE)
-        .atStartOfDay()
-        .toISO8601()
-
-fun LocalDateTime.toISO8601(): String = atOffset(ZoneOffset.UTC).format(dateFormat)
-
-
-fun fetchTodayData(): Pair<String, String> =
-    skrape(HttpFetcher) {
-        request { url = "https://www.esbnyc.com/about/tower-lights" }
-
-        extract {
-            htmlDocument {
-                findFirst(".background-image-wrapper") {
-                    attribute("style")
-                        .split("url(")
-                        .last()
-                        .replace(")", "")
-                } to findFirst(".is-today") {
-                    div(".info") {
-                        findFirst("h3").ownText
-                    }
-                }
-            }
-        }
-
-    }
-
-fun fetchCalendar(): List<DayLight> =
-    skrape(HttpFetcher) {
-        request { url = "https://www.esbnyc.com/about/tower-lights/calendar" }
-        val items = mutableListOf<DayLight>()
-        extract {
-            htmlDocument {
-                findAll(".view-content > div") {
-                    forEach { div ->
-                        val date = div.children.filter { it.hasClass("lse") }
-                            .attribute("data-date")
-
-                        val colorElement = div.findFirst("div.field_light")
-
-                        val color = colorElement.findFirst("div > h3 > div").ownText
-
-                        val reason = colorElement.findFirst("div.clearfix.text-formatted.field_description > p").ownText
-
-                        val picture = ROOT + colorElement.findFirst("div.media-image > img").attribute("src")
-
-                        items.add(
-                            DayLight(
-                                image = picture,
-                                color = color.format(),
-                                reason = reason,
-                                date = date.toISO8601(),
-                                colorHex = color.toColorArray()
-                            )
-                        )
-                    }
-                }
-            }
-        }
-
-        items
-    }
-
-fun fetchData(): Lights {
-    val (background, color) = fetchTodayData()
-    val items = fetchCalendar()
-
-    return Lights(
-        todayColor = color.format(),
-        picture = background,
-        calendar = items,
-        colorHex = color.toColorArray()
-    )
-}
-
-val data = fetchData()
+val data = Scraper2().fetchData()
 val mapper: ObjectMapper = ObjectMapper().registerModule(KotlinModule())
 
 mapper.writerWithDefaultPrettyPrinter().writeValue(File("lights.json"), data)
