@@ -60,6 +60,14 @@
     "description" : "Image from Apr 30, 2021 at 8:26 AM  Temp: 62°F, RH: 57.60%, Dew Point: 47 °F",
     "timestamp" : "1619785596"
   }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/04/1619815790476_16.jpg",
+    "description" : "Greetings from Max Amsterdamhttps://myearthcam.com/macxri",
+    "timestamp" : "1619815790"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1620473275282_94.jpg",
+    "description" : "Image from May 08, 2021 at 7:27 AM  Temp: 50°F, RH: 74.10%, Dew Point: 42 °F",
+    "timestamp" : "1620473275"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1620384132186_15.jpg",
     "description" : "Image from May 07, 2021 at 6:42 AM  Temp: 49°F, RH:  %, Dew Point: 32 °F",
     "timestamp" : "1620384132"
@@ -155,9 +163,5 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/04/1619818858241_51.jpg",
     "description" : "Image from Apr 30, 2021 at 5:40 PM Temp: 66°F, RH: 29.20%, Dew Point: 33 °F",
     "timestamp" : "1619818857"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/04/1619815790476_16.jpg",
-    "description" : "Greetings from Max Amsterdamhttps://myearthcam.com/macxri",
-    "timestamp" : "1619815790"
   } ]
 }
