@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Teal COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUxJeQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-04/white%20lights%203.jpg?itok=lgPI5cbZ",
     "color" : "Celebratory Lighting",
@@ -26,11 +26,17 @@
     "date" : "2021-05-11T00:00:00Z",
     "colorHex" : [ "#008080" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxaZQAT.jpg?itok=2wqTtfHo",
+    "color" : "Blue, White and Yellow",
+    "reason" : "In Partnership with the Fire Department of New York City in honor of EMS Week",
+    "date" : "2021-05-16T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF", "#FFFF00" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUx5hQAD.jpg?itok=yMPKW36P",
     "color" : "Violet/White",
     "reason" : "New York University's 2021 Commencement",
     "date" : "2021-05-18T00:00:00Z",
     "colorHex" : [ "#EE82EE", "#FFFFFF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008080" ]
 }
