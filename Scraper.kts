@@ -9,6 +9,7 @@ import it.skrape.core.htmlDocument
 import it.skrape.fetcher.HttpFetcher
 import it.skrape.fetcher.extract
 import it.skrape.fetcher.skrape
+import it.skrape.selects.ElementNotFoundException
 import it.skrape.selects.attribute
 import it.skrape.selects.html5.div
 import java.io.File
@@ -253,7 +254,11 @@ fun fetchCalendar(): List<DayLight> =
 
                         val color = colorElement.findFirst("div > h3 > div").ownText
 
-                        val reason = colorElement.findFirst("div.clearfix.text-formatted.field_description > p").ownText
+                        val reason = try {
+                            colorElement.findFirst("div.clearfix.text-formatted.field_description > p").ownText
+                        } catch (e: ElementNotFoundException) {
+                            ""
+                        }
 
                         val picture = ROOT + colorElement.findFirst("div.media-image > img").attribute("src")
 
