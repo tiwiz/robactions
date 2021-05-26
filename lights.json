@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUxycQAD.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-04/white%20lights%203.jpg?itok=lgPI5cbZ",
     "color" : "Celebratory Lighting",
@@ -56,6 +56,18 @@
     "date" : "2021-05-18T00:00:00Z",
     "colorHex" : [ "#EE82EE", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxyhQAD.jpg?itok=PRMOr-Pb",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks' NBA Home Playoff Game",
+    "date" : "2021-05-23T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxycQAD.jpg?itok=ztNI3GWk",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks' NBA Home Playoff Game",
+    "date" : "2021-05-26T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxjwQAD.jpg?itok=DnmisKuY",
     "color" : "Red, White and Blue",
     "reason" : "In honor of Memorial Day",
@@ -80,5 +92,5 @@
     "date" : "2021-05-31T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
