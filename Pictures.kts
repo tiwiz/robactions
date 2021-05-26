@@ -78,12 +78,16 @@ fun String.fromFile() = mapper.readValue(file, Storage::class.java)
 
 val newImages = getImages().images.map { it.livecam() }
 
+fun List<Livecam>.prepare() =
+    takeLast(50).sortedByDescending { it.timestamp.toLong() }
+
 fun log(message: String) {
 
     log.printWriter().use { writer ->
         writer.println("$message@${LocalDateTime.now()}")
     }
 }
+
 if (file.exists()) {
     val json = file.readText()
 
@@ -94,7 +98,7 @@ if (file.exists()) {
 
     if (oldData != newImages) {
         file.delete()
-        mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(oldData))
+        mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(oldData.prepare()))
         println("Upgrading content with new pictures")
         log("New data added (${oldData.size - newImages.size} images)")
     } else {
@@ -103,7 +107,7 @@ if (file.exists()) {
     }
 } else {
     println("Creating new file livecams.json")
-    mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(newImages))
+    mapper.writerWithDefaultPrettyPrinter().writeValue(file, Storage(newImages.prepare()))
     log("New data added (${newImages.size} images)")
 }
 
