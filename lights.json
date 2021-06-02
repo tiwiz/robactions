@@ -1,96 +1,42 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUxyhQAD.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-04/white%20lights%203.jpg?itok=lgPI5cbZ",
-    "color" : "Celebratory Lighting",
-    "reason" : "White Sparklie with a '90' Rotating in the Mast - in Celebration of the Empire State Building's 90th Anniversary",
-    "date" : "2021-05-01T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxIlQAL.jpg?itok=PpkMqpke",
-    "color" : "Magenta",
-    "reason" : "In Partnership with EF Educational Tours in Celebration of Teacher Appreciation Week",
-    "date" : "2021-05-04T00:00:00Z",
-    "colorHex" : [ "#FF00FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxIRQA1.jpg?itok=yPuoa5fX",
-    "color" : "Blue and Yellow",
-    "reason" : "In Honor of Europe Day",
-    "date" : "2021-05-09T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxJeQAL.jpg?itok=zOrPix67",
-    "color" : "Teal",
-    "reason" : "In Honor of Food Allergy Awareness Week",
-    "date" : "2021-05-11T00:00:00Z",
-    "colorHex" : [ "#008080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxk6QAD.jpg?itok=z_Dsu2l-",
-    "color" : "Green",
-    "reason" : "In honor of Eid Al-Fitr",
-    "date" : "2021-05-12T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxkGQAT.jpg?itok=HuADIMfE",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Islanders first game in the Stanley Cup Playoffs",
-    "date" : "2021-05-15T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxaZQAT.jpg?itok=2wqTtfHo",
-    "color" : "Blue, White and Yellow",
-    "reason" : "In Partnership with the Fire Department of New York City in honor of EMS Week",
-    "date" : "2021-05-16T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxmwQAD.jpg?itok=QSp-IQ2q",
-    "color" : "Filming",
-    "reason" : "",
-    "date" : "2021-05-17T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUx5hQAD.jpg?itok=yMPKW36P",
-    "color" : "Violet/White",
-    "reason" : "New York University's 2021 Commencement",
-    "date" : "2021-05-18T00:00:00Z",
-    "colorHex" : [ "#EE82EE", "#FFFFFF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyDcQAL.jpg?itok=xuET5qeK",
+    "color" : "Black & White",
+    "reason" : "In Celebration of the Brooklyn Nets' Playoff Game",
+    "date" : "2021-06-01T00:00:00Z",
+    "colorHex" : [ "#000000", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxyhQAD.jpg?itok=PRMOr-Pb",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the New York Knicks' NBA Home Playoff Game",
-    "date" : "2021-05-23T00:00:00Z",
+    "date" : "2021-06-02T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxycQAD.jpg?itok=ztNI3GWk",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Knicks' NBA Home Playoff Game",
-    "date" : "2021-05-26T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUy2tQAD.jpg?itok=l_fFWR7A",
+    "color" : "Orange",
+    "reason" : "In Partnership with Everytown for Gun Safety Support Fund in honor of National Gun Violence Awareness Day",
+    "date" : "2021-06-04T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxjwQAD.jpg?itok=DnmisKuY",
-    "color" : "Red, White and Blue",
-    "reason" : "In honor of Memorial Day",
-    "date" : "2021-05-28T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxJoQAL.jpg?itok=REDvazAX",
+    "color" : "Red and White",
+    "reason" : "In Celebration of FC Bayern Munich's Historic Season",
+    "date" : "2021-06-09T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxjxQAD.jpg?itok=-sRZVeEw",
-    "color" : "Red, White and Blue",
-    "reason" : "In honor of Memorial Day",
-    "date" : "2021-05-29T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxGkQAL.jpg?itok=2z2YO6sE",
+    "color" : "Purple and Gold",
+    "reason" : "In Honor of the Westminster Kennel Club Dog Show",
+    "date" : "2021-06-13T00:00:00Z",
+    "colorHex" : [ "#800080", "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxjyQAD.jpg?itok=4S3KfaHl",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUy9aQAD.jpg?itok=aMsCk_N4",
     "color" : "Red, White and Blue",
-    "reason" : "In honor of Memorial Day",
-    "date" : "2021-05-30T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxk1QAD.jpg?itok=bvXyC-Ej",
-    "color" : "Red, White and Blue",
-    "reason" : "In honor of Memorial Day",
-    "date" : "2021-05-31T00:00:00Z",
+    "reason" : "7:30 pm - 10:00 pm: TV Shoot",
+    "date" : "2021-06-17T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
