@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1623318554258_85.jpg",
+    "description" : "Image from Jun 10, 2021 at 5:49 AM  Temp: 74°F, RH: 64.00%, Dew Point: 61 °F",
+    "timestamp" : "1623318554"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1623289116292_18.jpg",
     "description" : "Image from Jun 09, 2021 at 9:38 PM",
     "timestamp" : "1623289116"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1623023600354_80.jpg",
     "description" : "Image from Jun 06, 2021 at 7:53 PM",
     "timestamp" : "1623023600"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1622974402213_31.jpg",
-    "description" : "Image from Jun 06, 2021 at 6:13 AM  Temp: 70°F, RH: 81.50%, Dew Point: 64 °F",
-    "timestamp" : "1622974402"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
