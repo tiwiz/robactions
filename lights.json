@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red and White COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUxJoQAL.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyDcQAL.jpg?itok=xuET5qeK",
     "color" : "Black & White",
@@ -37,6 +37,12 @@
     "reason" : "7:30 pm - 10:00 pm: TV Shoot",
     "date" : "2021-06-17T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUySwQAL.jpg?itok=ZWo3FQOI",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of the Primary Elections",
+    "date" : "2021-06-21T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
