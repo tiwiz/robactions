@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White and Blue COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUy9aQAD.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyDcQAL.jpg?itok=xuET5qeK",
     "color" : "Black & White",
@@ -44,6 +44,12 @@
     "date" : "2021-06-17T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyjPQAT.jpg?itok=fBQnBFSX",
+    "color" : "Red, Black and Green",
+    "reason" : "In Honor of Juneteenth",
+    "date" : "2021-06-19T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-06/a1r4P00000BUySwQAL.jpg?itok=mN3dIFRo",
     "color" : "BLUE, WHITE AND GOLD",
     "reason" : "In Honor of the Primary Elections",
@@ -56,5 +62,5 @@
     "date" : "2021-06-27T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
