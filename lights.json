@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "BLUE, WHITE AND GOLD COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2021-06/a1r4P00000BUySwQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyDcQAL.jpg?itok=xuET5qeK",
     "color" : "Black & White",
@@ -62,5 +62,5 @@
     "date" : "2021-06-27T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
