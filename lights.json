@@ -2,65 +2,17 @@
   "todayColor" : "Signature White Color",
   "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyDcQAL.jpg?itok=xuET5qeK",
-    "color" : "Black & White",
-    "reason" : "In Celebration of the Brooklyn Nets' Playoff Game",
-    "date" : "2021-06-01T00:00:00Z",
-    "colorHex" : [ "#000000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxyhQAD.jpg?itok=PRMOr-Pb",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Knicks' NBA Home Playoff Game",
-    "date" : "2021-06-02T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUy2tQAD.jpg?itok=l_fFWR7A",
-    "color" : "Orange",
-    "reason" : "In Partnership with Everytown for Gun Safety Support Fund in honor of National Gun Violence Awareness Day",
-    "date" : "2021-06-04T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxJoQAL.jpg?itok=REDvazAX",
-    "color" : "Red and White",
-    "reason" : "In Celebration of FC Bayern Munich's Historic Season",
-    "date" : "2021-06-09T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUxGkQAL.jpg?itok=2z2YO6sE",
-    "color" : "Purple and Gold",
-    "reason" : "In Honor of the Westminster Kennel Club Dog Show",
-    "date" : "2021-06-13T00:00:00Z",
-    "colorHex" : [ "#800080", "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyhmQAD.jpg?itok=PfFFQnbB",
-    "color" : "Blue, White, Gold Dynamic Lighting",
-    "reason" : "In Celebration of 70 Percent of Adult Vaccinations in New York State",
-    "date" : "2021-06-15T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUy9aQAD.jpg?itok=aMsCk_N4",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUzDrQAL.jpg?itok=KBCr2F-Z",
     "color" : "Red, White and Blue",
-    "reason" : "7:30 pm - 10:00 pm: TV Shoot",
-    "date" : "2021-06-17T00:00:00Z",
+    "reason" : "In Honor of Independence Day",
+    "date" : "2021-07-03T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyjPQAT.jpg?itok=fBQnBFSX",
-    "color" : "Red, Black and Green",
-    "reason" : "In Honor of Juneteenth",
-    "date" : "2021-06-19T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-06/a1r4P00000BUySwQAL.jpg?itok=mN3dIFRo",
-    "color" : "BLUE, WHITE AND GOLD",
-    "reason" : "In Honor of the Primary Elections",
-    "date" : "2021-06-21T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUyifQAD.jpg?itok=7H8YCN7o",
-    "color" : "Colors of the Inclusive Flag",
-    "reason" : "In Celebration of NYC Pride",
-    "date" : "2021-06-27T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUzDwQAL.jpg?itok=c_IjGWQM",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Independence Day",
+    "date" : "2021-07-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
