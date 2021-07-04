@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625389289450_55.jpg",
+    "description" : "Image from Jul 04, 2021 at 5:01 AM  Temp: 60F, RH: 87%, Dew Point: 56F, Sky: Overcast, Wind: 3.5mph ENE",
+    "timestamp" : "1625389289"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625315502877_32.jpg",
     "description" : "Image from Jul 03, 2021 at 8:31 AM  Temp: 61F, RH: 97%, Dew Point: 60F, Sky: Light Rain Mist, Wind: 10.4mph NNE Rain: undefinedin",
     "timestamp" : "1625315502"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1624495773466_99.jpg",
     "description" : "Image from Jun 23, 2021 at 8:49 PM",
     "timestamp" : "1624495773"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/06/1624495242300_32.jpg",
-    "description" : "Image from Jun 23, 2021 at 8:40 PM",
-    "timestamp" : "1624495242"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
