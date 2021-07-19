@@ -1,5 +1,13 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1626690666137_4.jpg",
+    "description" : "Image from Jul 19, 2021 at 6:30 AM  Temp: 73F, RH: 76%, Dew Point: 65F, Sky: Nearby Shower(s), Wind: 9.2mph W",
+    "timestamp" : "1626690666"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1626690648190_57.jpg",
+    "description" : "Image from Jul 19, 2021 at 6:30 AM  Temp: 73F, RH: 76%, Dew Point: 65F, Sky: Overcast, Wind: 10.4mph WSW",
+    "timestamp" : "1626690648"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1626687862482_77.jpg",
     "description" : "Image from Jul 19, 2021 at 5:44 AM  Temp: 73F, RH: 76%, Dew Point: 65F, Sky: Overcast, Wind: 10.4mph WSW",
     "timestamp" : "1626687862"
@@ -91,14 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625653252290_84.jpg",
     "description" : "Image from Jul 07, 2021 at 6:20 AM  Temp: 72F, RH: 94%, Dew Point: 70F, Sky: Scattered Clouds, Wind: 5.8mph SW",
     "timestamp" : "1625653252"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625652937992_92.jpg",
-    "description" : "Image from Jul 07, 2021 at 6:15 AM  Temp: 72F, RH: 94%, Dew Point: 70F, Sky: Scattered Clouds, Wind: 5.8mph SW",
-    "timestamp" : "1625652937"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625652723839_57.jpg",
-    "description" : "Image from Jul 07, 2021 at 6:11 AM  Temp: 72F, RH: 94%, Dew Point: 70F, Sky: Scattered Clouds, Wind: 5.8mph SW",
-    "timestamp" : "1625652723"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
