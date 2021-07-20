@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1626777597399_82.jpg",
+    "description" : "Image from Jul 20, 2021 at 6:39 AM  Temp: 73F, RH: 79%, Dew Point: 66F, Sky: A Few Clouds, Wind: 5.8mph NW",
+    "timestamp" : "1626777597"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1626690666137_4.jpg",
     "description" : "Image from Jul 19, 2021 at 6:30 AM  Temp: 73F, RH: 76%, Dew Point: 65F, Sky: Nearby Shower(s), Wind: 9.2mph W",
     "timestamp" : "1626690666"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625661895335_58.jpg",
     "description" : "Image from Jul 07, 2021 at 8:44 AM  Temp: 76F, RH: 82%, Dew Point: 70F, Sky: A Few Clouds, Wind: 8.1mph WSW",
     "timestamp" : "1625661895"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/07/1625653252290_84.jpg",
-    "description" : "Image from Jul 07, 2021 at 6:20 AM  Temp: 72F, RH: 94%, Dew Point: 70F, Sky: Scattered Clouds, Wind: 5.8mph SW",
-    "timestamp" : "1625653252"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
