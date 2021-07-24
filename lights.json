@@ -13,6 +13,12 @@
     "reason" : "In Honor of Independence Day",
     "date" : "2021-07-04T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000Dyx4iQAB.jpg?itok=Qh9RwBaa",
+    "color" : "Rotating Colors of Participating Nations' Flags",
+    "reason" : "In Honor of Nations Competing in Summer 2021 Olympics",
+    "date" : "2021-07-23T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
