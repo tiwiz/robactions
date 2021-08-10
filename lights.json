@@ -2,6 +2,12 @@
   "todayColor" : "Signature White Color",
   "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000DyxdJQAR.jpg?itok=QEVeOzzn",
+    "color" : "Red, White and Blue Sparkle",
+    "reason" : "To Welcome Home the Athletes Who Competed in the Games in Tokyo",
+    "date" : "2021-08-12T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000DyxAWQAZ.jpg?itok=rik3Qx6W",
     "color" : "Green, White and Orange",
     "reason" : "In Celebration of India Day",
