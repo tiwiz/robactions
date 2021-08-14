@@ -13,6 +13,12 @@
     "reason" : "In Celebration of India Day",
     "date" : "2021-08-15T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvKQAW.jpg?itok=6mEZ3CsU",
+    "color" : "Purple",
+    "reason" : "In Partnership with the International Paralympic Committee in Honor of WeThe15 Campaign",
+    "date" : "2021-08-19T00:00:00Z",
+    "colorHex" : [ "#800080" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
