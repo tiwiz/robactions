@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2021-08/PGA%20Tour.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000DyxdJQAR.jpg?itok=QEVeOzzn",
     "color" : "Red, White and Blue Sparkle",
@@ -14,11 +14,17 @@
     "date" : "2021-08-15T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-08/PGA%20Tour.jpg?itok=rrCimaNQ",
+    "color" : "Green",
+    "reason" : "In Honor of the PGA Tour's Northern Trust Tournament",
+    "date" : "2021-08-18T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvKQAW.jpg?itok=6mEZ3CsU",
     "color" : "Purple",
     "reason" : "In Partnership with the International Paralympic Committee in Honor of WeThe15 Campaign",
     "date" : "2021-08-19T00:00:00Z",
     "colorHex" : [ "#800080" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000" ]
 }
