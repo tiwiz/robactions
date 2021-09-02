@@ -1,5 +1,17 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/09/1630581126875_33.jpg",
+    "description" : "Image from Sep 02, 2021 at 7:12 AM  Temp: 61F, RH: 90%, Dew Point: 58F, Sky: Overcast, Wind: 21.9mph NNW",
+    "timestamp" : "1630581126"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/09/1630581104539_54.jpg",
+    "description" : "Image from Sep 02, 2021 at 7:11 AM  Temp: 61F, RH: 90%, Dew Point: 58F, Sky: Overcast, Wind: 21.9mph NNW",
+    "timestamp" : "1630581104"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/09/1630579341859_11.jpg",
+    "description" : "Image from Sep 02, 2021 at 6:42 AM  Temp: 61F, RH: 90%, Dew Point: 58F, Sky: Overcast, Wind: 21.9mph NNW",
+    "timestamp" : "1630579341"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/08/1630231857259_38.jpg",
     "description" : "Image from Aug 29, 2021 at 6:10 AM  Temp: 67F, RH: 79%, Dew Point: 60F, Sky: Overcast, Wind: 10.4mph NE",
     "timestamp" : "1630231857"
@@ -87,18 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/08/1628504798237_95.jpg",
     "description" : "Image from Aug 09, 2021 at 6:26 AM  Temp: 71F, RH: 97%, Dew Point: 70F, Sky: Overcast, Wind: 10.4mph N Rain: 0 in",
     "timestamp" : "1628504798"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/08/1628465991532_32.jpg",
-    "description" : "Image from Aug 08, 2021 at 7:39 PM  Temp: 66F, RH: 97%, Dew Point: 65F, Sky: Light Rain Mist, Wind: 15mph N Rain: 0 in",
-    "timestamp" : "1628465991"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/08/1628249439689_97.jpg",
-    "description" : "Image from Aug 06, 2021 at 7:30 AM  Temp: 69F, RH: 84%, Dew Point: 64F, Sky: Clear, Wind: 8.1mph WSW",
-    "timestamp" : "1628249439"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/08/1628245604299_69.jpg",
-    "description" : "Image from Aug 06, 2021 at 6:26 AM  Temp: 69F, RH: 84%, Dew Point: 64F, Sky: Clear, Wind: 8.1mph WSW",
-    "timestamp" : "1628245604"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
