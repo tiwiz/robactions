@@ -2,35 +2,53 @@
   "todayColor" : "Signature White Color",
   "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000DyxdJQAR.jpg?itok=QEVeOzzn",
-    "color" : "Red, White and Blue Sparkle",
-    "reason" : "To Welcome Home the Athletes Who Competed in the Games in Tokyo",
-    "date" : "2021-08-12T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxVQAW.jpg?itok=MzmwK7U-",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day",
+    "date" : "2021-09-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000DyxAWQAZ.jpg?itok=rik3Qx6W",
-    "color" : "Green, White and Orange",
-    "reason" : "In Celebration of India Day",
-    "date" : "2021-08-15T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxRQAW.jpg?itok=r36yUviB",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day",
+    "date" : "2021-09-05T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-08/PGA%20Tour.jpg?itok=rrCimaNQ",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxaQAG.jpg?itok=cWJj1IHK",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor Labor Day",
+    "date" : "2021-09-06T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUzIIQA1.jpg?itok=6Zpz42sZ",
+    "color" : "Mint",
+    "reason" : "In Partnership with IMG in Honor of New York Fashion Week: The Shows Presented by Afterpay",
+    "date" : "2021-09-09T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxQQAW.jpg?itok=7CtrycTY",
+    "color" : "Split Lighting",
+    "reason" : "In Honor of the New York Subway Series",
+    "date" : "2021-09-10T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvUQAW.jpg?itok=RVaDyIv1",
+    "color" : "Blue",
+    "reason" : "In Partnership with 911 Memorial & Museum in Honor of the Citywide Commemoration: Tribute in Lights",
+    "date" : "2021-09-11T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TG50QAG.jpg?itok=a6440I02",
+    "color" : "Green, White, and Red",
+    "reason" : "In Partnership with the Mexican Cultural Institute of New York in Honor of Mexican Independence Day",
+    "date" : "2021-09-15T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFFFF", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGHGQA4.jpg?itok=scw8b2jv",
     "color" : "Green",
-    "reason" : "In Honor of the PGA Tour's Northern Trust Tournament",
-    "date" : "2021-08-18T00:00:00Z",
+    "reason" : "In Celebration of the NY Jets' 2021 Home Opener",
+    "date" : "2021-09-18T00:00:00Z",
     "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvKQAW.jpg?itok=6mEZ3CsU",
-    "color" : "Purple",
-    "reason" : "In Partnership with the International Paralympic Committee in Honor of WeThe15 Campaign",
-    "date" : "2021-08-19T00:00:00Z",
-    "colorHex" : [ "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGGSQA4.jpg?itok=aPxv24WU",
-    "color" : "Red",
-    "reason" : "In Partnership with The Broadway League in Honor of the 'This is Broadway' campaign and the Return of Broadway",
-    "date" : "2021-08-30T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
