@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Mint COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P00000BUzIIQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxVQAW.jpg?itok=MzmwK7U-",
     "color" : "Red, White and Blue",
@@ -19,6 +19,12 @@
     "reason" : "In Honor Labor Day",
     "date" : "2021-09-06T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGMpQAO.jpg?itok=7VTw_Vnr",
+    "color" : "Blue",
+    "reason" : "In Celebration of Blues' Clues 25th Anniversary",
+    "date" : "2021-09-08T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUzIIQA1.jpg?itok=6Zpz42sZ",
     "color" : "Mint",
@@ -50,5 +56,5 @@
     "date" : "2021-09-18T00:00:00Z",
     "colorHex" : [ "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
