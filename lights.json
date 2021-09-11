@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Split Lighting COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TFxQQAW.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TFvUQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxVQAW.jpg?itok=MzmwK7U-",
     "color" : "Red, White and Blue",
@@ -56,5 +56,5 @@
     "date" : "2021-09-18T00:00:00Z",
     "colorHex" : [ "#008000" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#0000FF" ]
 }
