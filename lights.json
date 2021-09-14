@@ -44,7 +44,7 @@
     "date" : "2021-09-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TG50QAG.jpg?itok=a6440I02",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-09/Mexican%20Cultural%20Institute%20of%20NY%20-%209-15-2021.jpg?itok=YPWgEf7A",
     "color" : "Green, White, and Red",
     "reason" : "In Partnership with the Mexican Cultural Institute of New York in Honor of Mexican Independence Day",
     "date" : "2021-09-15T00:00:00Z",
@@ -54,6 +54,12 @@
     "color" : "Green",
     "reason" : "In Celebration of the NY Jets' 2021 Home Opener",
     "date" : "2021-09-18T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TG1DQAW_0.jpg?itok=nJz11zg3",
+    "color" : "Green",
+    "reason" : "In Partnership with City Harvest in honor of City Harvest Hunger Action Month Launch",
+    "date" : "2021-09-22T00:00:00Z",
     "colorHex" : [ "#008000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
