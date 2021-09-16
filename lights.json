@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green, White, and Red COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2021-09/Mexican%20Cultural%20Institute%20of%20NY%20-%209-15-2021.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxVQAW.jpg?itok=MzmwK7U-",
     "color" : "Red, White and Blue",
@@ -62,5 +62,5 @@
     "date" : "2021-09-22T00:00:00Z",
     "colorHex" : [ "#008000" ]
   } ],
-  "colorHex" : [ "#008000", "#FFFFFF", "#FF0000" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
