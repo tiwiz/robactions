@@ -1,72 +1,42 @@
 {
-  "todayColor" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGiCQAW.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxVQAW.jpg?itok=MzmwK7U-",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Labor Day",
-    "date" : "2021-09-04T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxRQAW.jpg?itok=r36yUviB",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Labor Day",
-    "date" : "2021-09-05T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxaQAG.jpg?itok=cWJj1IHK",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor Labor Day",
-    "date" : "2021-09-06T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGMpQAO.jpg?itok=7VTw_Vnr",
-    "color" : "Blue",
-    "reason" : "In Celebration of Blues' Clues 25th Anniversary",
-    "date" : "2021-09-08T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000BUzIIQA1.jpg?itok=6Zpz42sZ",
-    "color" : "Mint",
-    "reason" : "In Partnership with IMG in Honor of New York Fashion Week: The Shows Presented by Afterpay",
-    "date" : "2021-09-09T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
+    "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
+    "reason" : "In Partnership with Estee Lauder in Honor of the Breast Cancer Awareness Campaign",
+    "date" : "2021-10-01T00:00:00Z",
     "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFxQQAW.jpg?itok=7CtrycTY",
-    "color" : "Split Lighting",
-    "reason" : "In Honor of the New York Subway Series",
-    "date" : "2021-09-10T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGg6QAG.jpg?itok=bW2jx-XK",
+    "color" : "Blue and Red",
+    "reason" : "In Partnership with the New York Police and Fire Widows' & Children's Benefit Fund in Honor of Answer the Call Day",
+    "date" : "2021-10-07T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FF0000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvUQAW.jpg?itok=RVaDyIv1",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmEQAW.jpg?itok=VdxfPEQH",
     "color" : "Blue",
-    "reason" : "In Partnership with 911 Memorial & Museum in Honor of the Citywide Commemoration: Tribute in Lights",
-    "date" : "2021-09-11T00:00:00Z",
+    "reason" : "In Honor of the New York Police Foundation's 50th Anniversary Gala",
+    "date" : "2021-10-07T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-09/Mexican%20Cultural%20Institute%20of%20NY%20-%209-15-2021.jpg?itok=YPWgEf7A",
-    "color" : "Green, White, and Red",
-    "reason" : "In Partnership with the Mexican Cultural Institute of New York in Honor of Mexican Independence Day",
-    "date" : "2021-09-15T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFFFF", "#FF0000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmJQAW.jpg?itok=YdYA9mJB",
+    "color" : "Red, White, and Green",
+    "reason" : "In Honor of Columbus Day",
+    "date" : "2021-10-11T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGHGQA4.jpg?itok=scw8b2jv",
-    "color" : "Green",
-    "reason" : "In Celebration of the NY Jets' 2021 Home Opener",
-    "date" : "2021-09-18T00:00:00Z",
-    "colorHex" : [ "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvZQAW.jpg?itok=vK5Ymw7E",
+    "color" : "Yellow and Blue",
+    "reason" : "In Partnership with Afterschool Alliance in Honor of Lights on Afterschool",
+    "date" : "2021-10-28T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGluQAG.jpg?itok=OeZ4nlfS",
-    "color" : "Green",
-    "reason" : "In Honor of Climate Week NYC",
-    "date" : "2021-09-20T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TG1DQAW_0.jpg?itok=nJz11zg3",
-    "color" : "Green",
-    "reason" : "In Partnership with City Harvest in honor of City Harvest Hunger Action Month Launch",
-    "date" : "2021-09-22T00:00:00Z",
-    "colorHex" : [ "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmOQAW.jpg?itok=VDK6PMqs",
+    "color" : "Haunting display of pumpkins, witches and ghosts in the mast along with flashing lights",
+    "reason" : "In Celebration of Halloween",
+    "date" : "2021-10-31T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
