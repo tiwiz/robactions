@@ -20,11 +20,29 @@
     "date" : "2021-10-07T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsRQAW.jpg?itok=Xqlg1wXY",
+    "color" : "Red",
+    "reason" : "In Celebration of NYC Comic-Con",
+    "date" : "2021-10-08T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmJQAW.jpg?itok=YdYA9mJB",
     "color" : "Red, White, and Green",
     "reason" : "In Honor of Columbus Day",
     "date" : "2021-10-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsMQAW.jpg?itok=vHWsnEpy",
+    "color" : "Green",
+    "reason" : "In Honor of Robin Hood Foundation's Annual Benefit",
+    "date" : "2021-10-20T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGt0QAG.jpg?itok=bKKZtsNt",
+    "color" : "Red and White",
+    "reason" : "In Honor of the Annual Empire State Building Run-Up Presented by Turkish Airlines",
+    "date" : "2021-10-26T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TFvZQAW.jpg?itok=vK5Ymw7E",
     "color" : "Yellow and Blue",
