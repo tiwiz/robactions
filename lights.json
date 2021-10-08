@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Red COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGg6QAG.jpg",
+  "todayColor" : "Red COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGsRQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -11,7 +11,7 @@
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGg6QAG.jpg?itok=bW2jx-XK",
     "color" : "Blue and Red",
     "reason" : "In Partnership with the New York Police and Fire Widows' & Children's Benefit Fund in Honor of Answer the Call Day",
-    "date" : "2021-10-07T00:00:00Z",
+    "date" : "2021-10-06T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FF0000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmEQAW.jpg?itok=VdxfPEQH",
@@ -28,7 +28,7 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmJQAW.jpg?itok=YdYA9mJB",
     "color" : "Red, White, and Green",
-    "reason" : "In Honor of Columbus Day",
+    "reason" : "In Honor of",
     "date" : "2021-10-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
@@ -56,5 +56,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF", "#FF0000" ]
+  "colorHex" : [ "#FF0000" ]
 }
