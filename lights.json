@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGsRQAW.jpg",
+  "todayColor" : "Blue, White and Red COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGtZQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -25,6 +25,12 @@
     "reason" : "In Celebration of NYC Comic-Con",
     "date" : "2021-10-08T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGtZQAW.jpg?itok=M4nTsY7g",
+    "color" : "Blue, White and Red",
+    "reason" : "in celebration of FOX News Channel's 25 Year Anniversary",
+    "date" : "2021-10-09T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGmJQAW.jpg?itok=YdYA9mJB",
     "color" : "Red, White, and Green",
@@ -56,5 +62,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000" ]
+  "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
 }
