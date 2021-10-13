@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Cyan and Fuschia COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGsvQAG_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -38,6 +38,12 @@
     "date" : "2021-10-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsvQAG_0.jpg?itok=UmWe1ESP",
+    "color" : "Cyan and Fuschia",
+    "reason" : "In Honor of Bravo TV's Project Runway Season 10 Premiere",
+    "date" : "2021-10-13T00:00:00Z",
+    "colorHex" : [ "#00FFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsMQAW.jpg?itok=vHWsnEpy",
     "color" : "Green",
     "reason" : "In Honor of Robin Hood Foundation's Annual Benefit",
@@ -62,5 +68,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#00FFFF" ]
 }
