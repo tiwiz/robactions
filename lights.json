@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Cyan and Fuschia COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGsvQAG_0.jpg",
+  "todayColor" : "Red, White, and Blue from 7:30 pm to 8:30 pm COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGucQAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -38,11 +38,23 @@
     "date" : "2021-10-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsvQAG_0.jpg?itok=UmWe1ESP",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-10/fbcb332b-dc84-41fc-932e-72d752fcba43.jpg?itok=Z0DOzamc",
     "color" : "Cyan and Fuschia",
-    "reason" : "In Honor of Bravo TV's Project Runway Season 10 Premiere",
+    "reason" : "",
     "date" : "2021-10-13T00:00:00Z",
     "colorHex" : [ "#00FFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGucQAG.jpg?itok=1_gcO9y1",
+    "color" : "Red, White, and Blue from 7:30 pm to 8:30 pm",
+    "reason" : "In Celebration of the New York Rangers' Home Opener",
+    "date" : "2021-10-14T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGvuQAG.jpg?itok=d3MWPAYZ",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks 75th Anniversary Season and Opening Night",
+    "date" : "2021-10-19T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGsMQAW.jpg?itok=vHWsnEpy",
     "color" : "Green",
@@ -68,5 +80,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#00FFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF" ]
 }
