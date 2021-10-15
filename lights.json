@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White, and Blue from 7:30 pm to 8:30 pm COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGucQAG.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -80,5 +80,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
