@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGsMQAW.jpg",
+  "todayColor" : "Purple COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGxWQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGiCQAW.jpg?itok=4GdGj7In",
     "color" : "Pink with a Scrolling Breast Cancer Ribbon in the Mast",
@@ -62,6 +62,12 @@
     "date" : "2021-10-20T00:00:00Z",
     "colorHex" : [ "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGxWQAW.jpg?itok=NHqGgbQ2",
+    "color" : "Purple",
+    "reason" : "In Partnership with Sally Hansen and GLAAD in Honor of Spirit Day",
+    "date" : "2021-10-21T00:00:00Z",
+    "colorHex" : [ "#800080" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGt0QAG.jpg?itok=bKKZtsNt",
     "color" : "Red and White",
     "reason" : "In Honor of the Annual Empire State Building Run-Up Presented by Turkish Airlines",
@@ -86,5 +92,5 @@
     "date" : "2021-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#008000" ]
+  "colorHex" : [ "#800080" ]
 }
