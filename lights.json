@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TGvaQAG.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH4SQAW.jpg?itok=vpwXzTfT",
     "color" : "Red, White and Blue",
@@ -20,6 +20,12 @@
     "date" : "2021-11-05T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCqQAO.jpg?itok=ZC7SBVP6",
+    "color" : "Blue, White and Red",
+    "reason" : "In Celebration of the Return of International Travel in Partnership with British Airways",
+    "date" : "2021-11-08T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH0pQAG.jpg?itok=Fp0neIub",
     "color" : "Red and Green",
     "reason" : "In Honor of the Opening Night of the 2021 Christmas Spectacular Starring the Radio City Rockettes",
@@ -31,6 +37,18 @@
     "reason" : "In Honor of Veteran's Day",
     "date" : "2021-11-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCvQAO.jpg?itok=kW_sKx4t",
+    "color" : "Fall Colors",
+    "reason" : "In Celebration of Thanksgiving",
+    "date" : "2021-11-25T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THD0QAO.jpg?itok=RBU-UHaw",
+    "color" : "Fall Colors",
+    "reason" : "In Celebration of Thanksgiving",
+    "date" : "2021-11-26T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
