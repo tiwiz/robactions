@@ -38,6 +38,12 @@
     "date" : "2021-11-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THHjQAO.jpg?itok=KGhWFv6H",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders Home Opener",
+    "date" : "2021-11-20T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCvQAO.jpg?itok=kW_sKx4t",
     "color" : "Fall Colors",
     "reason" : "In Celebration of Thanksgiving",
