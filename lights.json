@@ -38,6 +38,12 @@
     "date" : "2021-11-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THI3QAO.jpg?itok=vnDQq9bd",
+    "color" : "Blue",
+    "reason" : "In Partnership with Blue Man Group New York in Honor of their 30th Anniversary",
+    "date" : "2021-11-17T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THHjQAO.jpg?itok=KGhWFv6H",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the New York Islanders Home Opener",
