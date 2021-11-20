@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THHjQAO.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH4SQAW.jpg?itok=vpwXzTfT",
     "color" : "Red, White and Blue",
@@ -50,6 +50,18 @@
     "date" : "2021-11-20T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THIrQAO.jpg?itok=s-KzhCXP",
+    "color" : "Lavender",
+    "reason" : "In Partnership with the National Hockey League in Honor of the Hockey Fights Cancer Campaign",
+    "date" : "2021-11-21T00:00:00Z",
+    "colorHex" : [ "#E6E6FA" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THKOQA4.jpg?itok=a8PlwCSP",
+    "color" : "Red and Purple",
+    "reason" : "In Partnership with the Lupus Research Alliance in Honor of the 2021 Annual Fundraiser",
+    "date" : "2021-11-22T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#800080" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCvQAO.jpg?itok=kW_sKx4t",
     "color" : "Fall Colors",
     "reason" : "In Celebration of Thanksgiving",
@@ -61,6 +73,24 @@
     "reason" : "In Celebration of Thanksgiving",
     "date" : "2021-11-26T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMFQA4.jpg?itok=h0ldin34",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-11-28T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMKQA4.jpg?itok=2ytK2rg7",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-11-29T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMLQA4.jpg?itok=GTdAqnNZ",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-11-30T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
