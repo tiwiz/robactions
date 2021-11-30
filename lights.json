@@ -1,6 +1,6 @@
 {
   "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THMKQA4.jpg",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THMLQA4_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH4SQAW.jpg?itok=vpwXzTfT",
     "color" : "Red, White and Blue",
@@ -74,19 +74,25 @@
     "date" : "2021-11-26T00:00:00Z",
     "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMFQA4.jpg?itok=h0ldin34",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMFQA4_0.jpg?itok=6N7E4Bwx",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Hanukkah",
     "date" : "2021-11-28T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMKQA4.jpg?itok=2ytK2rg7",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-11/ESB_BWRBB_0.jpg?itok=z8CBA7YZ",
+    "color" : "Blue, White and Red",
+    "reason" : "In Honor of New York Celebrating Josephine Baker's Entry into the Pantheon in Partnership with Consulat General de France a New York",
+    "date" : "2021-11-29T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMKQA4_0.jpg?itok=Rvg73MQl",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Hanukkah",
     "date" : "2021-11-29T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMLQA4.jpg?itok=GTdAqnNZ",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMLQA4_0.jpg?itok=_BQipMxO",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Hanukkah",
     "date" : "2021-11-30T00:00:00Z",
