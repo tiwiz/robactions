@@ -1,101 +1,47 @@
 {
   "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THMPQA4.jpg",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THMGQA4.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH4SQAW.jpg?itok=vpwXzTfT",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Election Night",
-    "date" : "2021-11-02T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMPQA4.jpg?itok=YsRPA6Ng",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-01T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH8UQAW.jpg?itok=ulssLRzY",
-    "color" : "Orange",
-    "reason" : "In Honor of Diwali",
-    "date" : "2021-11-04T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMGQA4.jpg?itok=Id3hQPds",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-02T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TGvaQAG.jpg?itok=rTY2ulSq",
-    "color" : "Red",
-    "reason" : "In Partnership with Clifford the Big Red Dog, Scholastic and Best Friends Animal Society in Celebration of the Friendship Between People and Animals",
-    "date" : "2021-11-05T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMUQA4.jpg?itok=S7jYi9uO",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-03T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCqQAO.jpg?itok=ZC7SBVP6",
-    "color" : "Blue, White and Red",
-    "reason" : "In Celebration of the Return of International Travel in Partnership with British Airways",
-    "date" : "2021-11-08T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMVQA4.jpg?itok=P4iRwOSW",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-04T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH0pQAG.jpg?itok=Fp0neIub",
-    "color" : "Red and Green",
-    "reason" : "In Honor of the Opening Night of the 2021 Christmas Spectacular Starring the Radio City Rockettes",
-    "date" : "2021-11-09T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMMQA4.jpg?itok=lZIhp56o",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-05T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH4XQAW.jpg?itok=flZoh9cd",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Veteran's Day",
-    "date" : "2021-11-11T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMZQA4.jpg?itok=k0ACRbbU",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Hanukkah",
+    "date" : "2021-12-06T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THI3QAO.jpg?itok=vnDQq9bd",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THKEQA4.jpg?itok=hgOelnBV",
     "color" : "Blue",
-    "reason" : "In Partnership with Blue Man Group New York in Honor of their 30th Anniversary",
-    "date" : "2021-11-17T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THHjQAO.jpg?itok=KGhWFv6H",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Islanders Home Opener",
-    "date" : "2021-11-20T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THIrQAO.jpg?itok=s-KzhCXP",
-    "color" : "Lavender",
-    "reason" : "In Partnership with the National Hockey League in Honor of the Hockey Fights Cancer Campaign",
-    "date" : "2021-11-21T00:00:00Z",
-    "colorHex" : [ "#E6E6FA" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THKOQA4.jpg?itok=a8PlwCSP",
-    "color" : "Red and Purple",
-    "reason" : "In Partnership with the Lupus Research Alliance in Honor of the 2021 Annual Fundraiser",
-    "date" : "2021-11-22T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THCvQAO.jpg?itok=kW_sKx4t",
-    "color" : "Fall Colors",
-    "reason" : "In Celebration of Thanksgiving",
-    "date" : "2021-11-25T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THD0QAO.jpg?itok=RBU-UHaw",
-    "color" : "Fall Colors",
-    "reason" : "In Celebration of Thanksgiving",
-    "date" : "2021-11-26T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMFQA4_0.jpg?itok=6N7E4Bwx",
-    "color" : "Blue and White with a Flickering Candle in the Mast",
-    "reason" : "In Celebration of Hanukkah",
-    "date" : "2021-11-28T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/2021-11/ESB_BWRBB_0.jpg?itok=z8CBA7YZ",
-    "color" : "Blue, White and Red",
-    "reason" : "In Honor of New York Celebrating Josephine Baker's Entry into the Pantheon in Partnership with Consulat General de France a New York",
-    "date" : "2021-11-29T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMKQA4_0.jpg?itok=Rvg73MQl",
-    "color" : "Blue and White with a Flickering Candle in the Mast",
-    "reason" : "In Celebration of Hanukkah",
-    "date" : "2021-11-29T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMLQA4_0.jpg?itok=_BQipMxO",
-    "color" : "Blue and White with a Flickering Candle in the Mast",
-    "reason" : "In Celebration of Hanukkah",
-    "date" : "2021-11-30T00:00:00Z",
+    "reason" : "In Partnership with the Diabetes Research Institute in Honor of the Empire Ball",
+    "date" : "2021-12-15T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   } ],
   "colorHex" : [ "#0000FF" ]
