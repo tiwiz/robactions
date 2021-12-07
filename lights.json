@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THMZQA4.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMPQA4.jpg?itok=YsRPA6Ng",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -32,10 +32,16 @@
     "date" : "2021-12-05T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMZQA4.jpg?itok=k0ACRbbU",
-    "color" : "Blue and White with a Flickering Candle in the Mast",
-    "reason" : "In Celebration of Hanukkah",
-    "date" : "2021-12-06T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THZJQA4.jpg?itok=MzKsUz9p",
+    "color" : "Cyan",
+    "reason" : "In Partnership with UNICEF in Honor of their 75th Anniversary",
+    "date" : "2021-12-10T00:00:00Z",
+    "colorHex" : [ "#00FFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TH0LQAW.jpg?itok=HY3UDaSD",
+    "color" : "Blue",
+    "reason" : "In Honor of Dear Evan Hansen's 5th Anniversary on Broadway",
+    "date" : "2021-12-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THKEQA4.jpg?itok=hgOelnBV",
@@ -43,6 +49,48 @@
     "reason" : "In Partnership with the Diabetes Research Institute in Honor of the Empire Ball",
     "date" : "2021-12-15T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeEQAW.jpg?itok=SPuabVLh",
+    "color" : "Red, Green and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-24T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeFQAW.jpg?itok=R424Ivn_",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-25T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeJQAW.jpg?itok=OELojnDp",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-26T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeGQAW.jpg?itok=WzZ-tvEQ",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-27T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeOQAW.jpg?itok=6uaujvRz",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-28T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeTQAW.jpg?itok=S20bdt9G",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-29T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THeYQAW.jpg?itok=38tRqMrs",
+    "color" : "Red, Green, and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2021-12-30T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
