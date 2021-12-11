@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Cyan COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THZJQA4.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TH0LQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMPQA4.jpg?itok=YsRPA6Ng",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -104,5 +104,5 @@
     "date" : "2021-12-30T00:00:00Z",
     "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
   } ],
-  "colorHex" : [ "#00FFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
