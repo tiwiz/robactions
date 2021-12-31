@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, Green, and Red and White Candy Cane COLOR",
-  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THeYQAW.jpg",
+  "todayColor" : "Festive Multi-Color Sparkling COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009THv0QAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THMPQA4.jpg?itok=YsRPA6Ng",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -116,5 +116,5 @@
     "date" : "2021-12-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  "colorHex" : [ ]
 }
