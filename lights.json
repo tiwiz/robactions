@@ -1,12 +1,36 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "https://www.esbnyc.com/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, Green and Red and White Candy Cane COLOR",
+  "picture" : "https://www.esbnyc.com/sites/default/files/a1r4P000009TI2zQAG.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI2uQAG.jpg?itok=dt2OeIeQ",
+    "color" : "Red, Green and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-01-03T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI2zQAG.jpg?itok=sZ_r-Yon",
+    "color" : "Red, Green and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-01-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI30QAG.jpg?itok=WLU4RsC9",
+    "color" : "Red, Green and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-01-05T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI34QAG.jpg?itok=Jat4dh-N",
+    "color" : "Red, Green and Red and White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-01-06T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THqZQAW.jpg?itok=JExOXwd5",
     "color" : "Orange & White",
     "reason" : "In Celebration of NBC TODAY Show's 70th Anniversary",
     "date" : "2022-01-13T00:00:00Z",
     "colorHex" : [ "#FFA500", "#FFFFFF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
 }
