@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Dark Blue, Light Blue and White COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TINJQA4.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI2uQAG.jpg?itok=dt2OeIeQ",
     "color" : "Red, Green and Red and White Candy Cane",
@@ -44,5 +44,5 @@
     "date" : "2022-01-18T00:00:00Z",
     "colorHex" : [ "#00008B", "#ADD8E6", "#FFFFFF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#00008B", "#ADD8E6", "#FFFFFF" ]
 }
