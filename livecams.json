@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/01/1643157576719_22.jpg",
+    "description" : "Image from Jan 25, 2022 at 7:39 PM",
+    "timestamp" : "1643157576"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/01/1643063026519_70.jpg",
     "description" : "Image from Jan 24, 2022 at 5:23 PM",
     "timestamp" : "1643063026"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/01/1642338423674_69.jpg",
     "description" : "Image from Jan 16, 2022 at 8:06 AM  Temp: 10F, RH: 61%, Dew Point: -1F, Sky: A Few Clouds, Wind: 8.1mph NE",
     "timestamp" : "1642338423"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/01/1642336314543_2.jpg",
-    "description" : "Image from Jan 16, 2022 at 7:31 AM  Temp: 10F, RH: 61%, Dew Point: -1F, Sky: A Few Clouds, Wind: 8.1mph NE",
-    "timestamp" : "1642336314"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
