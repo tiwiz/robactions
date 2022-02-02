@@ -2,53 +2,17 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI2uQAG.jpg?itok=dt2OeIeQ",
-    "color" : "Red, Green and Red and White Candy Cane",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2022-01-03T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJSQQA4.jpg?itok=upU7XQlS",
+    "color" : "Rotation of Participating Countries' Flags",
+    "reason" : "In Honor of the 2022 Winter Olympics",
+    "date" : "2022-02-04T00:00:00Z",
+    "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI2zQAG.jpg?itok=sZ_r-Yon",
-    "color" : "Red, Green and Red and White Candy Cane",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2022-01-04T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI30QAG.jpg?itok=WLU4RsC9",
-    "color" : "Red, Green and Red and White Candy Cane",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2022-01-05T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TI34QAG.jpg?itok=Jat4dh-N",
-    "color" : "Red, Green and Red and White Candy Cane",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2022-01-06T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THoEQAW.jpg?itok=zq_6-j6M",
-    "color" : "Gold and Black",
-    "reason" : "In Celebration of 2022 College Football National Championship",
-    "date" : "2022-01-10T00:00:00Z",
-    "colorHex" : [ "#FFD700", "#000000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009THqZQAW.jpg?itok=JExOXwd5",
-    "color" : "Orange & White",
-    "reason" : "In Celebration of NBC TODAY Show's 70th Anniversary",
-    "date" : "2022-01-13T00:00:00Z",
-    "colorHex" : [ "#FFA500", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TINJQA4.jpg?itok=lO2ykZkH",
-    "color" : "Dark Blue, Light Blue and White",
-    "reason" : "In Celebration of NYC & Company's Winter Outing",
-    "date" : "2022-01-18T00:00:00Z",
-    "colorHex" : [ "#00008B", "#ADD8E6", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TIyqQAG.jpg?itok=lOklY5bf",
-    "color" : "Red",
-    "reason" : "In Partnership with the Chinese Consulate General in New York in Celebration of Lunar New Year",
-    "date" : "2022-01-30T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJeVQAW.jpg?itok=r0-NJXsi",
+    "color" : "Blue & Green",
+    "reason" : "In Honor of NEDAwareness Week in Partnership with the National Eating Disorders Association",
+    "date" : "2022-02-21T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#008000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
