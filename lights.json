@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Rotation of Participating Countries' Flags COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TJSQQA4.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJSQQA4.jpg?itok=upU7XQlS",
     "color" : "Rotation of Participating Countries' Flags",
@@ -13,6 +13,12 @@
     "reason" : "In Honor of NEDAwareness Week in Partnership with the National Eating Disorders Association",
     "date" : "2022-02-21T00:00:00Z",
     "colorHex" : [ "#0000FF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJmGQAW.jpg?itok=pDSEZu-c",
+    "color" : "Black, Red and Green",
+    "reason" : "In Honor of Black History Month",
+    "date" : "2022-02-25T00:00:00Z",
+    "colorHex" : [ "#000000", "#FF0000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
