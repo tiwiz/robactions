@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Tiffany & Co. Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TJmkQAG.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJSQQA4.jpg?itok=upU7XQlS",
     "color" : "Rotation of Participating Countries' Flags",
@@ -20,6 +20,12 @@
     "date" : "2022-02-14T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TKJXQA4.jpg?itok=IPL0xSMT",
+    "color" : "Red, Yellow, and Blue",
+    "reason" : "In Partnership with Madison Square Garden in Celebration of the Return of Sesame Street Live! to Hulu Theater",
+    "date" : "2022-02-18T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TKBLQA4.jpg?itok=b_oLn4BE",
     "color" : "Red, White and Blue",
     "reason" : "In Honor of President's Day",
@@ -38,5 +44,5 @@
     "date" : "2022-02-25T00:00:00Z",
     "colorHex" : [ "#000000", "#FF0000", "#008000" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
