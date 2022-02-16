@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/02/1645013669571_12.jpg",
+    "description" : "Image from Feb 16, 2022 at 7:14 AM  Temp: 31F, RH: 64%, Dew Point: 20F, Sky: Scattered Clouds, Wind: 11.5mph S",
+    "timestamp" : "1645013669"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/02/1644965317717_6.jpg",
     "description" : "Image from Feb 15, 2022 at 5:48 PM",
     "timestamp" : "1644965317"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/02/1644023632866_97.jpg",
     "description" : "Image from Feb 04, 2022 at 8:13 PM",
     "timestamp" : "1644023632"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/02/1644023453890_40.jpg",
-    "description" : "Image from Feb 04, 2022 at 8:10 PM",
-    "timestamp" : "1644023453"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
