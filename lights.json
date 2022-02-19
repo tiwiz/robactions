@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, Yellow, and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TKJXQA4.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJSQQA4.jpg?itok=upU7XQlS",
     "color" : "Rotation of Participating Countries' Flags",
@@ -38,11 +38,23 @@
     "date" : "2022-02-22T00:00:00Z",
     "colorHex" : [ "#0000FF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TKZ7QAO.jpg?itok=1OW4-680",
+    "color" : "Navy Blue, White and Orange",
+    "reason" : "Private Lighting",
+    "date" : "2022-02-23T00:00:00Z",
+    "colorHex" : [ "#FFFFFF", "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJmGQAW.jpg?itok=pDSEZu-c",
     "color" : "Black, Red and Green",
     "reason" : "In Honor of Black History Month",
     "date" : "2022-02-25T00:00:00Z",
     "colorHex" : [ "#000000", "#FF0000", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TKqbQAG.jpg?itok=6R9NSFjC",
+    "color" : "Green, Purple, Blue, Pink",
+    "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
+    "date" : "2022-02-28T00:00:00Z",
+    "colorHex" : [ "#008000", "#800080", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFF00", "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
