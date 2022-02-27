@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green, Black, and Red COLOR",
-  "picture" : "/sites/default/files/2022-02/image001%20%2831%29%20%281%29.jpg",
+  "todayColor" : "Light Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TLBtQAO.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TJSQQA4.jpg?itok=upU7XQlS",
     "color" : "Rotation of Participating Countries' Flags",
@@ -68,5 +68,5 @@
     "date" : "2022-02-28T00:00:00Z",
     "colorHex" : [ "#008000", "#800080", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#008000", "#000000", "#FF0000" ]
+  "colorHex" : [ "#ADD8E6" ]
 }
