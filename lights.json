@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red & White COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TKmvQAG.jpg",
+  "todayColor" : "Split Lights for Championship Teams COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TLb6QAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLjzQAG.jpg?itok=r3of_Cws",
     "color" : "Blue and Yellow",
@@ -20,11 +20,23 @@
     "date" : "2022-03-11T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLb6QAG.jpg?itok=8MSVgF44",
+    "color" : "Split Lights for Championship Teams",
+    "reason" : "In Celebration of the BIG EAST Conference Men’s Basketball Tournament Championship Game",
+    "date" : "2022-03-12T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TML6QAO.jpg?itok=ZN02o5nb",
+    "color" : "Yellow & Blue",
+    "reason" : "In the Colors of the Ukrainian Flag",
+    "date" : "2022-03-13T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLbBQAW.jpg?itok=WI1Yhzch",
     "color" : "Dynamic Lighting with Green Sparkles and Fades with the Irish Flag in the Mast",
     "reason" : "In Honor of St. Patrick's Day",
     "date" : "2022-03-17T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  "colorHex" : [ ]
 }
