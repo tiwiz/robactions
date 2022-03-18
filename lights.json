@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Dynamic Lighting with Green Sparkles and Fades with the Irish Flag in the Mast COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TLbBQAW.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLjzQAG.jpg?itok=r3of_Cws",
     "color" : "Blue and Yellow",
@@ -37,6 +37,12 @@
     "reason" : "In Honor of St. Patrick's Day",
     "date" : "2022-03-17T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TMjOQAW.jpg?itok=i7JOrzX9",
+    "color" : "Lights Off 8:30 pm - 9:30 pm",
+    "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
+    "date" : "2022-03-26T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
