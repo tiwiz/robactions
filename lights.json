@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Lights Off 8:30 pm - 9:30 pm COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TMjOQAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLjzQAG.jpg?itok=r3of_Cws",
     "color" : "Blue and Yellow",
@@ -50,5 +50,5 @@
     "date" : "2022-03-26T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
