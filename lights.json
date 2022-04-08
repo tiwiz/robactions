@@ -2,6 +2,12 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YjYQAV.jpg?itok=iZa-zVc5",
+    "color" : "Blue",
+    "reason" : "In Honor of Global Meetings Industry Day",
+    "date" : "2022-04-07T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TLoEQAW.jpg?itok=gCaZi4KE",
     "color" : "Orange",
     "reason" : "In Celebration of the 2022 WNBA Draft",
