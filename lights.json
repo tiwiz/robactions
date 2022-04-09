@@ -43,6 +43,12 @@
     "reason" : "In Celebration of Earth Day",
     "date" : "2022-04-22T00:00:00Z",
     "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YZ1QAN.jpg?itok=L1cJmHPt",
+    "color" : "Blue and Orange",
+    "reason" : "In Honor of the New York Islanders' Alumni Celebration",
+    "date" : "2022-04-23T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
