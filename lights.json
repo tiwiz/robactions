@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Shimmering Blue and White Stripes – Sunset to 11:00 pm COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TNYUQA4.jpg",
+  "todayColor" : "Blue & Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TN9zQAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YjYQAV.jpg?itok=iZa-zVc5",
     "color" : "Blue",
@@ -25,6 +25,12 @@
     "reason" : "In Celebration of the NY Mets’ Home Opener",
     "date" : "2022-04-14T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YsiQAF.jpg?itok=6ciSFFaI",
+    "color" : "Blue with the #42 Rotating in the Mast",
+    "reason" : "In Honor of Jackie Robinson Day and the 75th Anniversary of Jackie's MLB Debut",
+    "date" : "2022-04-15T00:00:00Z",
+    "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TN5tQAG.jpg?itok=qWIP_q7D",
     "color" : "Pastels",
@@ -56,5 +62,5 @@
     "date" : "2022-04-27T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
