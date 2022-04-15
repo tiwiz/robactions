@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue & Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TN9zQAG.jpg",
+  "todayColor" : "Blue with the #42 Rotating in the Mast COLOR",
+  "picture" : "/sites/default/files/a1r4P00000C9YsiQAF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YjYQAV.jpg?itok=iZa-zVc5",
     "color" : "Blue",
@@ -62,5 +62,5 @@
     "date" : "2022-04-27T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFA500" ]
+  "colorHex" : [ ]
 }
