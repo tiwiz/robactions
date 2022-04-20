@@ -56,6 +56,12 @@
     "date" : "2022-04-23T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TNDbQAO.jpg?itok=rnRZW2sZ",
+    "color" : "Red, Purple, Green, Yellow, and White",
+    "reason" : "In Celebration of the Teletubbies' 25th Anniversary",
+    "date" : "2022-04-26T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#800080", "#008000", "#FFFF00", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YssQAF.jpg?itok=YFpwbAda",
     "color" : "Orange",
     "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
