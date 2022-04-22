@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "/sites/default/files/a1r4P000009TN5uQAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YjYQAV.jpg?itok=iZa-zVc5",
     "color" : "Blue",
@@ -44,6 +44,12 @@
     "date" : "2022-04-17T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9ZfsQAF.jpg?itok=Zm8GrxLK",
+    "color" : "Green Sparkle",
+    "reason" : "In Honor of the Launch of Empire Building Playbook",
+    "date" : "2022-04-21T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P000009TN5uQAG.jpg?itok=oPE0Uu4h",
     "color" : "Green",
     "reason" : "In Celebration of Earth Day",
@@ -67,6 +73,12 @@
     "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
     "date" : "2022-04-27T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9ZbNQAV.jpg?itok=VkBKlyZQ",
+    "color" : "Split: Puerto Rican Flag Colors & Irish Flag Colors",
+    "reason" : "In Honor of Taylor vs. Serrano at Madison Square Garden",
+    "date" : "2022-04-30T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000" ]
 }
