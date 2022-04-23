@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green COLOR",
-  "picture" : "/sites/default/files/a1r4P000009TN5uQAG.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P00000C9YZ1QAN.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/4_cols/public/a1r4P00000C9YjYQAV.jpg?itok=iZa-zVc5",
     "color" : "Blue",
@@ -80,5 +80,5 @@
     "date" : "2022-04-30T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#008000" ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
