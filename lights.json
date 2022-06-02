@@ -2,143 +2,29 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9adcQAB.jpg?itok=lLhSl2GY",
-    "color" : "Green",
-    "reason" : "In Honor of Eid Al Fitr",
-    "date" : "2022-05-01T00:00:00Z",
-    "colorHex" : [ "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNyQAJ.jpg?itok=7LA2HBsK",
+    "color" : "Orange",
+    "reason" : "In Partnership with Everytown for Gun Safety in Honor of National Gun Violence Awareness Day",
+    "date" : "2022-06-03T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9ZaoQAF.jpg?itok=NsAMZnR9",
-    "color" : "Multi-Color Sparkle",
-    "reason" : "In Celebration of Empire State Building's 91st Anniversary",
-    "date" : "2022-05-02T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCPp2QAH.jpg?itok=IS76OPoP",
+    "color" : "Purple and Gold",
+    "reason" : "In Celebration of the Queen's Platinum Jubilee",
+    "date" : "2022-06-04T00:00:00Z",
+    "colorHex" : [ "#800080", "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9adhQAB.jpg?itok=aMKl5811",
-    "color" : "Blue and Purple",
-    "reason" : "In Honor of Police Memorial Day",
-    "date" : "2022-05-03T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9ZOqQAN.jpg?itok=qLG36HFy",
-    "color" : "Magenta",
-    "reason" : "In Partnership with EF Educational Tours in Celebration of Teacher Appreciation Week",
-    "date" : "2022-05-04T00:00:00Z",
-    "colorHex" : [ "#FF00FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9anGQAR.jpg?itok=RBFKsVJg",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNtQAJ.jpg?itok=xcJFy1da",
     "color" : "Blue",
-    "reason" : "In Honor of The Weather Channel's 40th Anniversary",
-    "date" : "2022-05-05T00:00:00Z",
+    "reason" : "In Honor of the New York City Police Foundation's Annual Gala",
+    "date" : "2022-06-09T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9athQAB.jpg?itok=V0xH7VlO",
-    "color" : "Seafoam Green",
-    "reason" : "In Celebration of New York Liberty's Home Opener",
-    "date" : "2022-05-06T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNuQAJ.jpg?itok=uj6gf71h",
+    "color" : "Ruby Red and Rainbow",
+    "reason" : "In Partnership with the Stonewall Inn Gives Back Initiative in Celebration of Judy Garland's 100th Birthday",
+    "date" : "2022-06-10T00:00:00Z",
     "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9adXQAR.jpg?itok=d-9ZqRD9",
-    "color" : "Blue and Gold",
-    "reason" : "In Celebration of the City University of New York's 175th Anniversary",
-    "date" : "2022-05-07T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9ZWnQAN.jpg?itok=9E5GE2k9",
-    "color" : "Blue and Yellow",
-    "reason" : "In Honor of EU Day",
-    "date" : "2022-05-08T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009TLgOQAW.jpg?itok=sVm_P6cR",
-    "color" : "Green",
-    "reason" : "In Honor of Robin Hood's Annual Benefit",
-    "date" : "2022-05-09T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009TNUYQA4.jpg?itok=dNGT9z85",
-    "color" : "Teal",
-    "reason" : "In Partnership with Food Allergy Research and Education in Honor of Food Allergy Awareness Week",
-    "date" : "2022-05-10T00:00:00Z",
-    "colorHex" : [ "#008080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9atmQAB.jpg?itok=vp_OTAMN",
-    "color" : "Tangerine Orange",
-    "reason" : "In Partnership with The Trevor Project in Honor of LGBTQ Youth Mental Health Awareness",
-    "date" : "2022-05-12T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009TMbMQAW.jpg?itok=On01ozqz",
-    "color" : "Blue, White, Yellow with Red Siren Effect",
-    "reason" : "In Honor of EMS Week",
-    "date" : "2022-05-15T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9ajZQAR.jpg?itok=esp4nhYO",
-    "color" : "Green",
-    "reason" : "In Partnership with City Harvest in Honor of Share Lunch Fight Hunger",
-    "date" : "2022-05-16T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009TLGSQA4.jpg?itok=oiBUCYzG",
-    "color" : "Dynamic Violet and White",
-    "reason" : "In Celebration of New York University's Commencement",
-    "date" : "2022-05-17T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009TMXkQAO.jpg?itok=q7JbBk1T",
-    "color" : "Blue and White",
-    "reason" : "In Celebration of Columbia University's 2022 Commencement Ceremony",
-    "date" : "2022-05-18T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9YYwQAN.jpg?itok=9hcLQbAK",
-    "color" : "Dynamic Red and White with a Crown and '50' Rotating in the Mast",
-    "reason" : "In Honor of the Notorious B.I.G.'s 50th Birthday",
-    "date" : "2022-05-21T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9bhCQAR.jpg?itok=PrKCEfUX",
-    "color" : "Blue and Yellow",
-    "reason" : "In Honor of the Covenant House's 50th Anniversary",
-    "date" : "2022-05-23T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cEfQAJ.jpg?itok=IqQjbZhE",
-    "color" : "Red",
-    "reason" : "In Partnership with Comic Relief in Honor of Red Nose Day",
-    "date" : "2022-05-25T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cEpQAJ.jpg?itok=MTSRVKJK",
-    "color" : "Things are about to get stranger...",
-    "reason" : "",
-    "date" : "2022-05-26T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9bhHQAR.jpg?itok=RoZbLseC",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day Weekend",
-    "date" : "2022-05-27T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9bhMQAR.jpg?itok=exMD6dBF",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day Weekend",
-    "date" : "2022-05-28T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9bhRQAR.jpg?itok=aQ7-KaxJ",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day Weekend",
-    "date" : "2022-05-29T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9bhWQAR.jpg?itok=1MI-pTNB",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day Weekend",
-    "date" : "2022-05-30T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
