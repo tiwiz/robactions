@@ -1,5 +1,29 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654391161738_2.jpg",
+    "description" : "Image from Jun 04, 2022 at 9:05 PM",
+    "timestamp" : "1654391161"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654390740203_42.jpg",
+    "description" : "Image from Jun 04, 2022 at 8:58 PM",
+    "timestamp" : "1654390740"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654390241761_14.jpg",
+    "description" : "Image from Jun 04, 2022 at 8:50 PM",
+    "timestamp" : "1654390241"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654389824925_32.jpg",
+    "description" : "Image from Jun 04, 2022 at 8:43 PM",
+    "timestamp" : "1654389824"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654389807669_10.jpg",
+    "description" : "Image from Jun 04, 2022 at 8:43 PM",
+    "timestamp" : "1654389807"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654388635168_2.jpg",
+    "description" : "Image from Jun 04, 2022 at 8:23 PM",
+    "timestamp" : "1654388635"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/06/1654305292946_46.jpg",
     "description" : "Image from Jun 03, 2022 at 9:14 PM",
     "timestamp" : "1654305292"
@@ -75,30 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1653188246399_92.jpg",
     "description" : "Image from May 21, 2022 at 10:57 PM",
     "timestamp" : "1653188246"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652851596761_18.jpg",
-    "description" : "Empire State lights up to celebrate NYU grads of '20, '21, &amp; '22",
-    "timestamp" : "1652851596"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652850880526_83.jpg",
-    "description" : "",
-    "timestamp" : "1652850880"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652850880696_5.jpg",
-    "description" : "",
-    "timestamp" : "1652850880"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652781207777_57.jpg",
-    "description" : "Image from May 17, 2022 at 5:53 AM  Temp: 57F, RH: 68%, Dew Point: 46F, Sky: Clear Skies, Wind: 10.4mph W, PCPN: 0in",
-    "timestamp" : "1652781207"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652780085622_44.jpg",
-    "description" : "Image from May 17, 2022 at 5:34 AM  Temp: 57F, RH: 68%, Dew Point: 46F, Sky: Clear Skies, Wind: 10.4mph W, PCPN: 0in",
-    "timestamp" : "1652780085"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/05/1652780067579_25.jpg",
-    "description" : "Image from May 17, 2022 at 5:34 AM  Temp: 57F, RH: 68%, Dew Point: 46F, Sky: Clear Skies, Wind: 10.4mph W, PCPN: 0in",
-    "timestamp" : "1652780067"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
