@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000C9cNtQAJ.jpg",
+  "todayColor" : "Ruby Red and Rainbow COLOR",
+  "picture" : "/sites/default/files/a1r4P00000C9cNuQAJ.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNyQAJ.jpg?itok=7LA2HBsK",
     "color" : "Orange",
@@ -32,5 +32,5 @@
     "date" : "2022-06-10T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ ]
 }
