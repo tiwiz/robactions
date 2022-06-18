@@ -37,6 +37,12 @@
     "reason" : "In celebration of the Empire State Building being",
     "date" : "2022-06-15T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCQsLQAX.jpg?itok=zd1LqJqO",
+    "color" : "Green, Black and Red",
+    "reason" : "In Honor of Juneteenth",
+    "date" : "2022-06-19T00:00:00Z",
+    "colorHex" : [ "#008000", "#000000", "#FF0000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
