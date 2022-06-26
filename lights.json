@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Colors of the Inclusive Flag COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCRFSQA5.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNyQAJ.jpg?itok=7LA2HBsK",
     "color" : "Orange",
@@ -56,5 +56,5 @@
     "date" : "2022-06-26T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
