@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Pink COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCRYUQA5.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNyQAJ.jpg?itok=7LA2HBsK",
     "color" : "Orange",
@@ -55,6 +55,12 @@
     "reason" : "In Celebration of New York City Pride",
     "date" : "2022-06-26T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRYUQA5.jpg?itok=bhgHQW5P",
+    "color" : "Pink",
+    "reason" : "As a Symbol of Strength, Perseverance, and Hope in Partnership with Machine Gun Kelly and His New Documentary: 'Life in Pink'",
+    "date" : "2022-06-28T00:00:00Z",
+    "colorHex" : [ "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFC0CB" ]
 }
