@@ -1,66 +1,30 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White, and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCRgPQAX.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNyQAJ.jpg?itok=7LA2HBsK",
-    "color" : "Orange",
-    "reason" : "In Partnership with Everytown for Gun Safety in Honor of National Gun Violence Awareness Day",
-    "date" : "2022-06-03T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRgPQAX.jpg?itok=-dPRsukM",
+    "color" : "Red, White, and Blue",
+    "reason" : "In Honor of Independence Day",
+    "date" : "2022-07-02T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCPp2QAH.jpg?itok=IS76OPoP",
-    "color" : "Purple and Gold",
-    "reason" : "In Celebration of the Queen's Platinum Jubilee",
-    "date" : "2022-06-04T00:00:00Z",
-    "colorHex" : [ "#800080", "#FFD700" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRgUQAX.jpg?itok=7xyY2vVx",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Independence Day",
+    "date" : "2022-07-03T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2022-06/ALL%20ORANGE%20%281%29.jpg?itok=0h-zv7Ux",
-    "color" : "Orange",
-    "reason" : "In Honor of the Gift of Life Marrow Registry Gala",
-    "date" : "2022-06-08T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRltQAH.jpg?itok=AFwQh0T_",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Independence Day",
+    "date" : "2022-07-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNtQAJ.jpg?itok=xcJFy1da",
-    "color" : "Blue",
-    "reason" : "In Honor of the New York City Police Foundation's Annual Gala",
-    "date" : "2022-06-09T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000C9cNuQAJ.jpg?itok=uj6gf71h",
-    "color" : "Ruby Red and Rainbow",
-    "reason" : "In Partnership with the Stonewall Inn Gives Back Initiative in Celebration of Judy Garland's 100th Birthday",
-    "date" : "2022-06-10T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCQnvQAH.jpg?itok=Yd3V7l_V",
-    "color" : "Tripadvisor Green",
-    "reason" : "In celebration of the Empire State Building being",
-    "date" : "2022-06-15T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCQsLQAX.jpg?itok=zd1LqJqO",
-    "color" : "Green, Black and Red",
-    "reason" : "In Honor of Juneteenth",
-    "date" : "2022-06-19T00:00:00Z",
-    "colorHex" : [ "#008000", "#000000", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P000009THZEQA4.jpg?itok=7KUsRWex",
-    "color" : "Purple and Gold",
-    "reason" : "In Celebration of the Westminster Kennel Club Dog Show",
-    "date" : "2022-06-22T00:00:00Z",
-    "colorHex" : [ "#800080", "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRFSQA5.jpg?itok=XjmY3OLD",
-    "color" : "Colors of the Inclusive Flag",
-    "reason" : "In Celebration of New York City Pride",
-    "date" : "2022-06-26T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRYUQA5.jpg?itok=bhgHQW5P",
-    "color" : "Pink",
-    "reason" : "As a Symbol of Strength, Perseverance, and Hope in Partnership with Machine Gun Kelly and His New Documentary: 'Life in Pink'",
-    "date" : "2022-06-28T00:00:00Z",
-    "colorHex" : [ "#FFC0CB" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRgZQAX.jpg?itok=E1WeOwnh",
+    "color" : "Gold",
+    "reason" : "In Honor of the James Webb Space Telescope's First Science Images",
+    "date" : "2022-07-11T00:00:00Z",
+    "colorHex" : [ "#FFD700" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
