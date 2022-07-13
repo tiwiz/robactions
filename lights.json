@@ -25,6 +25,12 @@
     "reason" : "In Honor of the James Webb Space Telescope's First Science Images",
     "date" : "2022-07-11T00:00:00Z",
     "colorHex" : [ "#FFD700" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCQQoQAP.jpg?itok=l6SYfraw",
+    "color" : "Teal with a Pulsing Effect in the Mast & Fins",
+    "reason" : "In Celebration of the New York City E-Prix",
+    "date" : "2022-07-15T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
