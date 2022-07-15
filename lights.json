@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Teal with a Pulsing Effect in the Mast & Fins COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCQQoQAP.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCRgPQAX.jpg?itok=-dPRsukM",
     "color" : "Red, White, and Blue",
@@ -32,5 +32,5 @@
     "date" : "2022-07-15T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
