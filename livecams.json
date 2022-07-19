@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/07/1658224068496_84.jpg",
+    "description" : "Image from Jul 19, 2022 at 5:47 AM  Temp: 75F, RH: 74%, Dew Point: 66F, Sky: A Few Clouds, Wind: 12.7mph W, PCPN: 0in",
+    "timestamp" : "1658224068"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/07/1658192721485_92.jpg",
     "description" : "Image from Jul 18, 2022 at 9:05 PM  Temp: 79F, RH: 84%, Dew Point: 73F, Sky: A Few Clouds, Wind: 25.3mph S, PCPN: 0in",
     "timestamp" : "1658192721"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/07/1656930332875_5.jpg",
     "description" : "Image from Jul 04, 2022 at 6:25 AM  Temp: 66F, RH: 53%, Dew Point: 48F, Sky: Clear Skies, Wind: 8.1mph N, PCPN: 0in",
     "timestamp" : "1656930332"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/07/1656842075806_4.jpg",
-    "description" : "Image from Jul 03, 2022 at 5:54 AM  Temp: 79F, RH: 66%, Dew Point: 66F, Sky: A Few Clouds, Wind: 10.4mph WSW, PCPN: 0in",
-    "timestamp" : "1656842075"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
