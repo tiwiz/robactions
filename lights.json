@@ -31,6 +31,12 @@
     "reason" : "In Celebration of the New York City E-Prix",
     "date" : "2022-07-15T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2022-07/WWE.jpg?itok=fpCf0yS5",
+    "color" : "Teal, Orange, Yellow",
+    "reason" : "In honor of the WWE",
+    "date" : "2022-07-25T00:00:00Z",
+    "colorHex" : [ "#008080", "#FFA500", "#FFFF00" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
