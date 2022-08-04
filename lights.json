@@ -7,6 +7,36 @@
     "reason" : "In Tribute to Jerry Garcia's 80th Birthday",
     "date" : "2022-08-01T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCT5yQAH.jpg?itok=gLp861i0",
+    "color" : "Virtual Scoreboard Lighting",
+    "reason" : "In Partnership with the New York Mets",
+    "date" : "2022-08-05T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTyRQAX.jpg?itok=Xl0erPUk",
+    "color" : "Light Blue",
+    "reason" : "In Celebration of the Rock the Bells Festival",
+    "date" : "2022-08-06T00:00:00Z",
+    "colorHex" : [ "#ADD8E6" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU29QAH.jpg?itok=SZ7Kpz8M",
+    "color" : "Orange, White and Green",
+    "reason" : "In Honor of India Day",
+    "date" : "2022-08-15T00:00:00Z",
+    "colorHex" : [ "#FFA500", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU2EQAX.jpg?itok=4mnfvTly",
+    "color" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees",
+    "reason" : "In Honor of the 2022 Subway Series",
+    "date" : "2022-08-22T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU2JQAX.jpg?itok=LyF-nmyR",
+    "color" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees",
+    "reason" : "In Honor of the 2022 Subway Series",
+    "date" : "2022-08-23T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
