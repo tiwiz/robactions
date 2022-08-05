@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Virtual Scoreboard Lighting COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCT5yQAH.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTsnQAH.jpg?itok=MLYgsArw",
     "color" : "Tie-Dye",
@@ -38,5 +38,5 @@
     "date" : "2022-08-23T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
