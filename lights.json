@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCUy9QAH.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTsnQAH.jpg?itok=MLYgsArw",
     "color" : "Tie-Dye",
@@ -26,6 +26,12 @@
     "date" : "2022-08-15T00:00:00Z",
     "colorHex" : [ "#FFA500", "#FFFFFF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUy9QAH.jpg?itok=y1h9iqUy",
+    "color" : "Blue",
+    "reason" : "In Partnership with Disney+ in Celebration of Percy Jackson's Birthday",
+    "date" : "2022-08-18T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU2EQAX.jpg?itok=4mnfvTly",
     "color" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees",
     "reason" : "In Honor of the 2022 Subway Series",
@@ -38,5 +44,5 @@
     "date" : "2022-08-23T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
