@@ -1,6 +1,6 @@
 {
   "todayColor" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCU2EQAX.jpg",
+  "picture" : "/sites/default/files/a1r4P00000CCU2JQAX.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTsnQAH.jpg?itok=MLYgsArw",
     "color" : "Tie-Dye",
@@ -43,6 +43,12 @@
     "reason" : "In Honor of the 2022 Subway Series",
     "date" : "2022-08-23T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCV5dQAH.jpg?itok=Bh0sgHqi",
+    "color" : "Yellow and Blue",
+    "reason" : "In Honor of Ukrainian Independence Day in Partnership with the Consulate General of Ukraine in New York",
+    "date" : "2022-08-24T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
   } ],
   "colorHex" : [ ]
 }
