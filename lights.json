@@ -2,53 +2,53 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTsnQAH.jpg?itok=MLYgsArw",
-    "color" : "Tie-Dye",
-    "reason" : "In Tribute to Jerry Garcia's 80th Birthday",
-    "date" : "2022-08-01T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day",
+    "date" : "2022-09-03T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCT5yQAH.jpg?itok=gLp861i0",
-    "color" : "Virtual Scoreboard Lighting",
-    "reason" : "In Partnership with the New York Mets",
-    "date" : "2022-08-05T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMOQA5.jpg?itok=T-xxNpO-",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day",
+    "date" : "2022-09-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCTyRQAX.jpg?itok=Xl0erPUk",
-    "color" : "Light Blue",
-    "reason" : "In Celebration of the Rock the Bells Festival",
-    "date" : "2022-08-06T00:00:00Z",
-    "colorHex" : [ "#ADD8E6" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMTQA5.jpg?itok=BYMLhiy_",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day",
+    "date" : "2022-09-05T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU29QAH.jpg?itok=SZ7Kpz8M",
-    "color" : "Orange, White and Green",
-    "reason" : "In Honor of India Day",
-    "date" : "2022-08-15T00:00:00Z",
-    "colorHex" : [ "#FFA500", "#FFFFFF", "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVQOQA5.jpg?itok=XSX8Dd03",
+    "color" : "Royal Blue",
+    "reason" : "In Celebration of Thursday Night Football Kickoff in Partnership with Amazon Prime Video Sports and the NFL",
+    "date" : "2022-09-06T00:00:00Z",
+    "colorHex" : [ "#4169E1" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUy9QAH.jpg?itok=y1h9iqUy",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVLvQAP.jpg?itok=rTF2Yh_x",
+    "color" : "Green, Yellow and Blue",
+    "reason" : "In Celebration of Brazilian Independence Day in Partnership with the Consulate General of Brazil in New York",
+    "date" : "2022-09-07T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMEQA5.jpg?itok=rFTz8-Yc",
     "color" : "Blue",
-    "reason" : "In Partnership with Disney+ in Celebration of Percy Jackson's Birthday",
-    "date" : "2022-08-18T00:00:00Z",
+    "reason" : "In Memory of 9/11 in Partnership with the National September 11th Memorial & Museum",
+    "date" : "2022-09-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU2EQAX.jpg?itok=4mnfvTly",
-    "color" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees",
-    "reason" : "In Honor of the 2022 Subway Series",
-    "date" : "2022-08-22T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVr0QAH.jpg?itok=dCmm9vX2",
+    "color" : "Red, White, Green",
+    "reason" : "In Celebration of Mexican Independence Day in Partnership with the Mexican Cultural Institute of New York",
+    "date" : "2022-09-15T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCU2JQAX.jpg?itok=LyF-nmyR",
-    "color" : "Split Lights: Orange & Blue for New York Mets and Pinstripes for New York Yankees",
-    "reason" : "In Honor of the 2022 Subway Series",
-    "date" : "2022-08-23T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCV5dQAH.jpg?itok=Bh0sgHqi",
-    "color" : "Yellow and Blue",
-    "reason" : "In Honor of Ukrainian Independence Day in Partnership with the Consulate General of Ukraine in New York",
-    "date" : "2022-08-24T00:00:00Z",
-    "colorHex" : [ "#FFFF00", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCT63QAH.jpg?itok=cuXQ2FdA",
+    "color" : "Red",
+    "reason" : "In Partnership with Stevens Institute of Technology",
+    "date" : "2022-09-24T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
