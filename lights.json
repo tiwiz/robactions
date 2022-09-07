@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Royal Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCVQOQA5.jpg",
+  "todayColor" : "Green, Yellow and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCVLvQAP.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
     "color" : "Red, White and Blue",
@@ -50,5 +50,5 @@
     "date" : "2022-09-24T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#4169E1" ]
+  "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
 }
