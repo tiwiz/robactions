@@ -1,5 +1,13 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/09/1662720271347_81.jpg",
+    "description" : "Image from Sep 09, 2022 at 6:44 AM  Temp: 63F, RH: 83%, Dew Point: 57F, Sky: Clear Skies, Wind: 4.6mph NE, PCPN: 0in",
+    "timestamp" : "1662720271"
+  }, {
+    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/09/1662720000656_10.jpg",
+    "description" : "Image from Sep 09, 2022 at 6:39 AM  Temp: 63F, RH: 83%, Dew Point: 57F, Sky: Clear Skies, Wind: 4.6mph NE, PCPN: 0in",
+    "timestamp" : "1662720000"
+  }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/09/1662683462209_35.jpg",
     "description" : "Image from Sep 08, 2022 at 8:30 PM  Temp: 70F, RH: 65%, Dew Point: 57F, Sky: Clear Skies, Wind: 3.4mph SE, PCPN: 0in",
     "timestamp" : "1662683462"
@@ -91,14 +99,6 @@
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/08/1661596708701_3.jpg",
     "description" : "Image from Aug 27, 2022 at 6:38 AM  Temp: 79F, RH: 58%, Dew Point: 63F, Sky: Clear Skies, Wind: 5.7mph WNW, PCPN: 0in",
     "timestamp" : "1661596708"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/08/1661520312987_96.jpg",
-    "description" : "Image from Aug 26, 2022 at 9:25 AM  Temp: 79F, RH: 74%, Dew Point: 70F, Sky: Clear Skies, Wind: 0mph N, PCPN: 0in",
-    "timestamp" : "1661520312"
-  }, {
-    "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/08/1661423870843_85.jpg",
-    "description" : "Image from Aug 25, 2022 at 6:37 AM  Temp: 73F, RH: 65%, Dew Point: 61F, Sky: Clear Skies, Wind: 3.4mph WNW, PCPN: 0in",
-    "timestamp" : "1661423870"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
