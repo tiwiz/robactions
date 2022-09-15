@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White, Green COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCVr0QAH.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
     "color" : "Red, White and Blue",
@@ -50,6 +50,12 @@
     "date" : "2022-09-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWgzQAH.jpg?itok=D7VoaxcB",
+    "color" : "Green",
+    "reason" : "In Honor of NYC Climate Week in Partnership with NYC & Company and The Climate Group",
+    "date" : "2022-09-19T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWSZQA5.jpg?itok=WMtOVDiP",
     "color" : "Navy Blue and Blue",
     "reason" : "In Honor of the 2022 Clinton Global Imitative Meeting in Partnership with the Clinton Foundation",
@@ -62,5 +68,5 @@
     "date" : "2022-09-24T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
 }
