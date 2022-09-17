@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Giants Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCWrLQAX.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
     "color" : "Red, White and Blue",
@@ -50,6 +50,12 @@
     "date" : "2022-09-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWrLQAX.jpg?itok=wg1DWUM2",
+    "color" : "Giants Blue",
+    "reason" : "In Celebration of the New York Giants Home Opener",
+    "date" : "2022-09-17T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWgzQAH.jpg?itok=D7VoaxcB",
     "color" : "Green",
     "reason" : "In Honor of NYC Climate Week in Partnership with NYC & Company and The Climate Group",
@@ -68,5 +74,5 @@
     "date" : "2022-09-24T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
