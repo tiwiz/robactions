@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Navy Blue and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCWSZQA5.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
     "color" : "Red, White and Blue",
@@ -64,7 +64,7 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWSZQA5.jpg?itok=WMtOVDiP",
     "color" : "Navy Blue and Blue",
-    "reason" : "In Honor of the 2022 Clinton Global Imitative Meeting in Partnership with the Clinton Foundation",
+    "reason" : "In Honor of the 2022 Clinton Global Initiative Meeting in Partnership with the Clinton Foundation",
     "date" : "2022-09-20T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
@@ -74,5 +74,5 @@
     "date" : "2022-09-24T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
