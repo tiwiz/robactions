@@ -1,78 +1,60 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Light Pink and Dark Pink with a Scrolling Ribbon in the Mast COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCWguQAH.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMJQA5.jpg?itok=HyqMv7Ee",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Labor Day",
-    "date" : "2022-09-03T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWguQAH.jpg?itok=z06cwW-O",
+    "color" : "Light Pink and Dark Pink with a Scrolling Ribbon in the Mast",
+    "reason" : "In Partnership with Estee Lauder Companies' in Honor of the Breast Cancer Campaign",
+    "date" : "2022-10-03T00:00:00Z",
+    "colorHex" : [ "#FFB6C1" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMOQA5.jpg?itok=T-xxNpO-",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Labor Day",
-    "date" : "2022-09-04T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXaVQAX.jpg?itok=hIcwM0v8",
+    "color" : "Red and White",
+    "reason" : "In Honor of the Annual Empire State Building Run Up Sponsored by Turkish Airlines",
+    "date" : "2022-10-06T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMTQA5.jpg?itok=BYMLhiy_",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Labor Day",
-    "date" : "2022-09-05T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVQOQA5.jpg?itok=XSX8Dd03",
-    "color" : "Royal Blue",
-    "reason" : "In Celebration of Thursday Night Football Kickoff in Partnership with Amazon Prime Video Sports and the NFL",
-    "date" : "2022-09-06T00:00:00Z",
-    "colorHex" : [ "#4169E1" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVLvQAP.jpg?itok=rTF2Yh_x",
-    "color" : "Green, Yellow and Blue",
-    "reason" : "In Celebration of Brazilian Independence Day in Partnership with the Consulate General of Brazil in New York",
-    "date" : "2022-09-07T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWPKQA5.jpg?itok=6EP8M6ct",
-    "color" : "Purple and Silver Sparkle",
-    "reason" : "In honor of the Life and Legacy of Her Majesty, Queen Elizabeth II",
-    "date" : "2022-09-08T00:00:00Z",
-    "colorHex" : [ "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMEQA5.jpg?itok=rFTz8-Yc",
-    "color" : "Blue",
-    "reason" : "In Memory of 9/11 in Partnership with the National September 11th Memorial & Museum",
-    "date" : "2022-09-11T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCVr0QAH.jpg?itok=dCmm9vX2",
-    "color" : "Red, White, Green",
-    "reason" : "In Celebration of Mexican Independence Day in Partnership with the Mexican Cultural Institute of New York",
-    "date" : "2022-09-15T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWgkQAH.jpg?itok=HEFmScfC",
+    "color" : "Red, White, and Green",
+    "reason" : "In Honor of Indigenous People's Day",
+    "date" : "2022-10-10T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWrLQAX.jpg?itok=wg1DWUM2",
-    "color" : "Giants Blue",
-    "reason" : "In Celebration of the New York Giants Home Opener",
-    "date" : "2022-09-17T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXaaQAH.jpg?itok=4Ss427ix",
+    "color" : "Red, White, and Green",
+    "reason" : "In Honor of Indigenous People's Day",
+    "date" : "2022-10-10T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXafQAH.jpg?itok=HVoFmiV0",
+    "color" : "Red, White, and Blue",
+    "reason" : "In Celebration of the New York Rangers' Home Opener",
+    "date" : "2022-10-11T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWgpQAH.jpg?itok=alDQq-Oe",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders' Home Opener",
+    "date" : "2022-10-13T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMnQAP.jpg?itok=HQn-AukU",
+    "color" : "Yellow and Blue",
+    "reason" : "In Partnership with Afterschool Alliance in Honor of the Lights on Afterschool Campaign",
+    "date" : "2022-10-20T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXakQAH.jpg?itok=q8WTTu4G",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks' Home Opener",
+    "date" : "2022-10-21T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWglQAH.jpg?itok=xYyWzgDH",
+    "color" : "Spooky LED lighting effects featuring pumpkins, witches, and ghosts in the mast along with flashing lights",
+    "reason" : "In Celebration of Halloween",
+    "date" : "2022-10-31T00:00:00Z",
     "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWgzQAH.jpg?itok=D7VoaxcB",
-    "color" : "Green",
-    "reason" : "In Honor of NYC Climate Week in Partnership with NYC & Company and The Climate Group",
-    "date" : "2022-09-19T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWSZQA5.jpg?itok=WMtOVDiP",
-    "color" : "Navy Blue and Blue",
-    "reason" : "In Honor of the 2022 Clinton Global Initiative Meeting in Partnership with the Clinton Foundation",
-    "date" : "2022-09-20T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCT63QAH.jpg?itok=cuXQ2FdA",
-    "color" : "Red",
-    "reason" : "In Partnership with Stevens Institute of Technology",
-    "date" : "2022-09-24T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFB6C1" ]
 }
