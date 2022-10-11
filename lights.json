@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White, and Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCWgkQAH.jpg",
+  "todayColor" : "Red, White, and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCXafQAH.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWguQAH.jpg?itok=z06cwW-O",
     "color" : "Light Pink and Dark Pink with a Scrolling Ribbon in the Mast",
@@ -50,5 +50,5 @@
     "date" : "2022-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
