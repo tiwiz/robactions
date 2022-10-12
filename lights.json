@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White, and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCXafQAH.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWguQAH.jpg?itok=z06cwW-O",
     "color" : "Light Pink and Dark Pink with a Scrolling Ribbon in the Mast",
@@ -32,6 +32,18 @@
     "date" : "2022-10-13T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXxHQAX.jpg?itok=tYwkp3DS",
+    "color" : "Rotation of Countries' Flags that Celebrate Hispanic Heritage Month",
+    "reason" : "In Honor of Hispanic Heritage Month",
+    "date" : "2022-10-14T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCXxMQAX.jpg?itok=jJ49W3TT",
+    "color" : "Purple",
+    "reason" : "In Partnership with Coty Sally Hansen and GLAAD in Honor of Spirit Day",
+    "date" : "2022-10-19T00:00:00Z",
+    "colorHex" : [ "#800080" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUMnQAP.jpg?itok=HQn-AukU",
     "color" : "Yellow and Blue",
     "reason" : "In Partnership with Afterschool Alliance in Honor of the Lights on Afterschool Campaign",
@@ -50,5 +62,5 @@
     "date" : "2022-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
