@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCWgpQAH.jpg",
+  "todayColor" : "Rotation of Countries' Flags that Celebrate Hispanic Heritage Month COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCXxHQAX.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCWguQAH.jpg?itok=z06cwW-O",
     "color" : "Light Pink and Dark Pink with a Scrolling Ribbon in the Mast",
@@ -62,5 +62,5 @@
     "date" : "2022-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFA500" ]
+  "colorHex" : [ ]
 }
