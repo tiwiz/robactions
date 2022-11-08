@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCZ8DQAX.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUM9QAP.jpg?itok=jMONvfXQ",
     "color" : "Teal",
@@ -37,6 +37,18 @@
     "reason" : "In Partnership with Chief Executives for Corporate Purpose in Honor of CECP 17th Annual Board of Boards",
     "date" : "2022-11-14T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYspQAH.jpg?itok=LqR49Fux",
+    "color" : "Starbucks Green",
+    "reason" : "In Celebration of Starbucks Reserve’s Grand Opening at the Empire State Building",
+    "date" : "2022-11-16T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCa3fQAD.jpg?itok=CxO9-X1p",
+    "color" : "Red and Green",
+    "reason" : "In Celebration of the Radio City Rockettes’ Opening Night in Partnership with Madison Square Garden Entertainment",
+    "date" : "2022-11-18T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
