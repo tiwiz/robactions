@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCYSQQA5.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUM9QAP.jpg?itok=jMONvfXQ",
     "color" : "Teal",
@@ -50,5 +50,5 @@
     "date" : "2022-11-18T00:00:00Z",
     "colorHex" : [ "#FF0000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
