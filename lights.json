@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red and Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCa3fQAD.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUM9QAP.jpg?itok=jMONvfXQ",
     "color" : "Teal",
@@ -50,12 +50,6 @@
     "date" : "2022-11-18T00:00:00Z",
     "colorHex" : [ "#FF0000", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCaedQAD.jpg?itok=MyIdaRAE",
-    "color" : "Lavender",
-    "reason" : "In Partnership with the National Hockey League in Honor of the Hockey Fights Cancer Campaign",
-    "date" : "2022-11-19T00:00:00Z",
-    "colorHex" : [ "#E6E6FA" ]
-  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCaD5QAL.jpg?itok=2gmfCUIv",
     "color" : "Purple and Red",
     "reason" : "In Partnership with the Lupus Research Alliance in Honor of the Lupus Research Alliance Breaking Through Gala",
@@ -74,5 +68,5 @@
     "date" : "2022-11-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#008000" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
