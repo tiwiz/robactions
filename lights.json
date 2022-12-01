@@ -67,6 +67,12 @@
     "reason" : "In Honor of Thanksgiving",
     "date" : "2022-11-24T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbWUQA1.jpg?itok=0pqMPtMa",
+    "color" : "Red, White and Blue Sparkle",
+    "reason" : "In Celebration of Team USA Advancing to the Knockout Stages in the 2022 World Cup",
+    "date" : "2022-11-29T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
