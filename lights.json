@@ -2,77 +2,101 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCUM9QAP.jpg?itok=jMONvfXQ",
-    "color" : "Teal",
-    "reason" : "In Partnership with Alzheimer’s Foundation of America in Honor of the Light the World in Teal Campaign",
-    "date" : "2022-11-03T00:00:00Z",
-    "colorHex" : [ "#008080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCZ8DQAX.jpg?itok=Gws1BZgZ",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Election Day",
-    "date" : "2022-11-08T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYSLQA5.jpg?itok=jhPGbm7L",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Team USA’s World Cup Roster Reveal in Partnership with U.S. Soccer",
-    "date" : "2022-11-09T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCZb2QAH.jpg?itok=ftkV92TX",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Veteran's Day",
-    "date" : "2022-11-11T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYkyQAH.jpg?itok=lA-_FSTG",
-    "color" : "Blue, Yellow and Red",
-    "reason" : "In Celebration of the Big Apple Circus’ 45th Anniversary",
-    "date" : "2022-11-12T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYSQQA5.jpg?itok=n-d6WzLM",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYKeQAP.jpg?itok=ZOccIDa2",
     "color" : "Blue",
-    "reason" : "In Partnership with Chief Executives for Corporate Purpose in Honor of CECP 17th Annual Board of Boards",
-    "date" : "2022-11-14T00:00:00Z",
+    "reason" : "In Partnership with the Andrea Bocelli Foundation in Honor of the “Voices of” Celebration",
+    "date" : "2022-12-12T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYspQAH.jpg?itok=LqR49Fux",
-    "color" : "Starbucks Green",
-    "reason" : "In Celebration of Starbucks Reserve’s Grand Opening at the Empire State Building",
-    "date" : "2022-11-15T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCb2lQAD.jpg?itok=CTM_Nxr7",
+    "color" : "Pink",
+    "reason" : "In Partnership with Netflix, Shop the Scenes, and Garden of Dreams Foundation – In celebration of Emily in Paris’ Season 3 & Launch of Shop the Scenes Donation to Garden of Dreams Foundation",
+    "date" : "2022-12-13T00:00:00Z",
+    "colorHex" : [ "#FFC0CB" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbQtQAL.jpg?itok=XwXWx3g0",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-18T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbQyQAL.jpg?itok=BY5nMhaZ",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-19T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbR3QAL.jpg?itok=TUi-KqK_",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-20T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbR8QAL_0.jpg?itok=Dp3G2eJX",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-21T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRDQA1.jpg?itok=jPT3s_-J",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-22T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRIQA1.jpg?itok=mzSSfit8",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of Chanukkah",
+    "date" : "2022-12-23T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRNQA1.jpg?itok=fD8P8ocN",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-24T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRSQA1.jpg?itok=9C0uyEIX",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-25T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRXQA1.jpg?itok=JiFJ79jh",
+    "color" : "Blue and White with a Flickering Candle in the Mast",
+    "reason" : "In Celebration of the Last Night of Chanukkah",
+    "date" : "2022-12-26T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRcQAL.jpg?itok=DuQyQdB0",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-27T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRhQAL.jpg?itok=6BFSO-O2",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-28T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRYQA1.jpg?itok=R7LXYObB",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-29T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRZQA1.jpg?itok=QB7wJ4Hx",
+    "color" : "Green and Red-and-White Candy Cane",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2022-12-30T00:00:00Z",
+    "colorHex" : [ "#008000", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRmQAL.jpg?itok=5n7z7FPG",
+    "color" : "Festive Multi-Color Sparkling",
+    "reason" : "In Celebration of New Year’s Eve",
+    "date" : "2022-12-31T00:00:00Z",
     "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCa3fQAD.jpg?itok=CxO9-X1p",
-    "color" : "Red and Green",
-    "reason" : "In Celebration of the Radio City Rockettes’ Opening Night in Partnership with Madison Square Garden Entertainment",
-    "date" : "2022-11-18T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCaD5QAL.jpg?itok=2gmfCUIv",
-    "color" : "Purple and Red",
-    "reason" : "In Partnership with the Lupus Research Alliance in Honor of the Lupus Research Alliance Breaking Through Gala",
-    "date" : "2022-11-21T00:00:00Z",
-    "colorHex" : [ "#800080", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCaeiQAD.jpg?itok=fF529JiQ",
-    "color" : "Festive Fall Colors",
-    "reason" : "In Honor of Thanksgiving",
-    "date" : "2022-11-23T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCaesQAD.jpg?itok=tv0toZnw",
-    "color" : "Festive Fall Colors",
-    "reason" : "In Honor of Thanksgiving",
-    "date" : "2022-11-24T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbWUQA1.jpg?itok=0pqMPtMa",
-    "color" : "Red, White and Blue Sparkle",
-    "reason" : "In Celebration of Team USA Advancing to the Knockout Stages in the 2022 World Cup",
-    "date" : "2022-11-29T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
