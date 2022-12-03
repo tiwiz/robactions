@@ -2,6 +2,18 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbfLQAT.jpg?itok=Jy9Si8hM",
+    "color" : "Rotation of Countries' Flags Playing in Round 16 of the World Cup",
+    "reason" : "In Celebration of Round 16 of the FIFA 2022 World Cup",
+    "date" : "2022-12-02T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRrQAL.jpg?itok=5Vxkukgs",
+    "color" : "Gold",
+    "reason" : "In Honor of the Maestro Cares Foundation's 10th Anniversary",
+    "date" : "2022-12-05T00:00:00Z",
+    "colorHex" : [ "#FFD700" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYKeQAP.jpg?itok=ZOccIDa2",
     "color" : "Blue",
     "reason" : "In Partnership with the Andrea Bocelli Foundation in Honor of the “Voices of” Celebration",
