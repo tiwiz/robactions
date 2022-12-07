@@ -14,6 +14,12 @@
     "date" : "2022-12-05T00:00:00Z",
     "colorHex" : [ "#FFD700" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbzkQAD.jpg?itok=qLKQ7jN9",
+    "color" : "Red, Blue and Yellow with Orange Sparkles",
+    "reason" : "In Recognition of the Retirement of Empire State Realty Trust's Executive Vice President and General Counsel, Thomas N. Keltner, Jr.",
+    "date" : "2022-12-06T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYKeQAP.jpg?itok=ZOccIDa2",
     "color" : "Blue",
     "reason" : "In Partnership with the Andrea Bocelli Foundation in Honor of the “Voices of” Celebration",
@@ -44,7 +50,7 @@
     "date" : "2022-12-20T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbR8QAL_0.jpg?itok=Dp3G2eJX",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbR8QAL_1.jpg?itok=2XnPA0zz",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Chanukkah",
     "date" : "2022-12-21T00:00:00Z",
@@ -84,12 +90,6 @@
     "color" : "Green and Red-and-White Candy Cane",
     "reason" : "In Celebration of Christmas",
     "date" : "2022-12-27T00:00:00Z",
-    "colorHex" : [ "#008000", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRhQAL.jpg?itok=6BFSO-O2",
-    "color" : "Green and Red-and-White Candy Cane",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2022-12-28T00:00:00Z",
     "colorHex" : [ "#008000", "#FF0000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRYQA1.jpg?itok=R7LXYObB",
