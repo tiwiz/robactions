@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCYKeQAP.jpg",
+  "todayColor" : "Pink COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCb2lQAD.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbfLQAT.jpg?itok=Jy9Si8hM",
     "color" : "Rotation of Countries' Flags Playing in Round 16 of the World Cup",
@@ -20,11 +20,11 @@
     "date" : "2022-12-06T00:00:00Z",
     "colorHex" : [ "#FF0000", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYKeQAP.jpg?itok=ZOccIDa2",
-    "color" : "Blue",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCYKeQAP_0.jpg?itok=AeNkYxE_",
+    "color" : "Blue and White",
     "reason" : "In Partnership with the Andrea Bocelli Foundation in Honor of the “Voices of” Celebration",
     "date" : "2022-12-12T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "colorHex" : [ "#0000FF", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCb2lQAD.jpg?itok=CTM_Nxr7",
     "color" : "Pink",
@@ -92,6 +92,12 @@
     "date" : "2022-12-27T00:00:00Z",
     "colorHex" : [ "#008000", "#FF0000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCcP6QAL.jpg?itok=EmhpiNI8",
+    "color" : "Split Lights",
+    "reason" : "In Partnership with the New York Yankees in Celebration of the 2022 Pinstripe Bowl",
+    "date" : "2022-12-28T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbRYQA1.jpg?itok=R7LXYObB",
     "color" : "Green and Red-and-White Candy Cane",
     "reason" : "In Celebration of Christmas",
@@ -110,5 +116,5 @@
     "date" : "2022-12-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFC0CB" ]
 }
