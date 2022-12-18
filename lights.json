@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCbQtQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbfLQAT.jpg?itok=Jy9Si8hM",
     "color" : "Rotation of Countries' Flags Playing in Round 16 of the World Cup",
@@ -116,5 +116,5 @@
     "date" : "2022-12-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
