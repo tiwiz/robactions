@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCbRXQA1.jpg",
+  "todayColor" : "Green and Red-and-White Candy Cane COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCbRcQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCbfLQAT.jpg?itok=Jy9Si8hM",
     "color" : "Rotation of Countries' Flags Playing in Round 16 of the World Cup",
@@ -116,5 +116,5 @@
     "date" : "2022-12-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#008000", "#FF0000" ]
 }
