@@ -1,5 +1,17 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/01/1672619320121_76.jpg",
+    "description" : "Image from Jan 01, 2023 at 7:28 PM",
+    "timestamp" : "1672619321"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/01/1672619307263_75.jpg",
+    "description" : "Image from Jan 01, 2023 at 7:28 PM",
+    "timestamp" : "1672619307"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/01/1672618836935_38.jpg",
+    "description" : "Image from Jan 01, 2023 at 7:20 PM",
+    "timestamp" : "1672618836"
+  }, {
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/12/1672453215407_22.jpg",
     "description" : "Image from Dec 30, 2022 at 9:20 PM",
     "timestamp" : "1672453216"
@@ -87,18 +99,6 @@
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/12/1671758577203_14.jpg",
     "description" : "Image from Dec 22, 2022 at 8:22 PM",
     "timestamp" : "1671758577"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/12/1671661380305_52.jpg",
-    "description" : "Image from Dec 21, 2022 at 5:22 PM",
-    "timestamp" : "1671661380"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/12/1671661032995_82.jpg",
-    "description" : "Image from Dec 21, 2022 at 5:17 PM",
-    "timestamp" : "1671661032"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2022/12/1671660962840_89.jpg",
-    "description" : "Image from Dec 21, 2022 at 5:16 PM",
-    "timestamp" : "1671660963"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
