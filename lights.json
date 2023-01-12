@@ -7,6 +7,24 @@
     "reason" : "In Honor of the 2023 College Football Playoff National Championship",
     "date" : "2023-01-09T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCe3bQAD.jpg?itok=bd0C6IYC",
+    "color" : "Blue",
+    "reason" : "In Honor of New York Giants “Big Blue Friday” and Clinching a Spot in the NFL Playoffs",
+    "date" : "2023-01-13T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeS7QAL.jpg?itok=G5jjYt_0",
+    "color" : "Red, Black and Green",
+    "reason" : "In Honor of Martin Luther King Jr. Day",
+    "date" : "2023-01-16T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeSCQA1.jpg?itok=GIG4pei9",
+    "color" : "Red",
+    "reason" : "In Celebration of Lunar New Year",
+    "date" : "2023-01-20T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
