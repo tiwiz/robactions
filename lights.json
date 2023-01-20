@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCeSCQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCcexQAD.jpg?itok=jPXnAPoh",
     "color" : "Split Lights",
@@ -25,6 +25,12 @@
     "reason" : "In Celebration of Lunar New Year",
     "date" : "2023-01-20T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCevNQAT.jpg?itok=h2L4GRY5",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders’ Alumni Weekend",
+    "date" : "2023-01-21T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000" ]
 }
