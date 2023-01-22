@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCevNQAT.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCcexQAD.jpg?itok=jPXnAPoh",
     "color" : "Split Lights",
@@ -32,5 +32,5 @@
     "date" : "2023-01-21T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
