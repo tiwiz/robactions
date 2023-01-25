@@ -31,6 +31,12 @@
     "reason" : "In Celebration of the New York Islanders’ Alumni Weekend",
     "date" : "2023-01-21T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfI9QAL.jpg?itok=RLh-jh15",
+    "color" : "City View Blue",
+    "reason" : "In Celebration of the Reveal of the New Empire State Building Observatory Host Uniforms with Designer Peyman Umay",
+    "date" : "2023-01-24T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
