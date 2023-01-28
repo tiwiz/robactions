@@ -37,6 +37,18 @@
     "reason" : "In Celebration of the Reveal of the New Empire State Building Observatory Host Uniforms with Designer Peyman Umay",
     "date" : "2023-01-24T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfU6QAL.jpg?itok=mHIWuhML",
+    "color" : "Yellow",
+    "reason" : "In Commemoration of International Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
+    "date" : "2023-01-27T00:00:00Z",
+    "colorHex" : [ "#FFFF00" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfVJQA1.jpg?itok=J0fQzGzp",
+    "color" : "Colors of the Winning Teams for Both AFC and NFC",
+    "reason" : "Lighting in Celebration of the NFL Conference Championship Games",
+    "date" : "2023-01-29T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
