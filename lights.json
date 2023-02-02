@@ -2,53 +2,29 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCcexQAD.jpg?itok=jPXnAPoh",
-    "color" : "Split Lights",
-    "reason" : "In Honor of the 2023 College Football Playoff National Championship",
-    "date" : "2023-01-09T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQmQAL.jpg?itok=e8t-sAsO",
+    "color" : "Pink Heartbeat Lighting",
+    "reason" : "In Celebration of Valentine's Day",
+    "date" : "2023-02-14T00:00:00Z",
     "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCe3bQAD.jpg?itok=bd0C6IYC",
-    "color" : "Blue",
-    "reason" : "In Honor of New York Giants “Big Blue Friday” and Clinching a Spot in the NFL Playoffs",
-    "date" : "2023-01-13T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQrQAL.jpg?itok=GSZkTYem",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of President's Day",
+    "date" : "2023-02-20T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeS7QAL.jpg?itok=G5jjYt_0",
-    "color" : "Red, Black and Green",
-    "reason" : "In Honor of Martin Luther King Jr. Day",
-    "date" : "2023-01-16T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfIOQA1.jpg?itok=DW6vwKDc",
+    "color" : "Blue and Green",
+    "reason" : "In Partnership with National Eating Disorders Association in Honor of National Eating Disorders Awareness Week",
+    "date" : "2023-02-27T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeSCQA1.jpg?itok=GIG4pei9",
-    "color" : "Red",
-    "reason" : "In Celebration of Lunar New Year",
-    "date" : "2023-01-20T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCevNQAT.jpg?itok=h2L4GRY5",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Islanders’ Alumni Weekend",
-    "date" : "2023-01-21T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfI9QAL.jpg?itok=RLh-jh15",
-    "color" : "City View Blue",
-    "reason" : "In Celebration of the Reveal of the New Empire State Building Observatory Host Uniforms with Designer Peyman Umay",
-    "date" : "2023-01-24T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfU6QAL.jpg?itok=mHIWuhML",
-    "color" : "Yellow",
-    "reason" : "In Commemoration of International Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
-    "date" : "2023-01-27T00:00:00Z",
-    "colorHex" : [ "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfVJQA1.jpg?itok=J0fQzGzp",
-    "color" : "Colors of the Winning Teams for Both AFC and NFC",
-    "reason" : "Lighting in Celebration of the NFL Conference Championship Games",
-    "date" : "2023-01-29T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL.jpg?itok=rXRpy0Z-",
+    "color" : "Pink, Green, Blue and Purple",
+    "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
+    "date" : "2023-02-28T00:00:00Z",
+    "colorHex" : [ "#FFC0CB", "#008000", "#0000FF", "#800080" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
