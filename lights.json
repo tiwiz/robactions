@@ -2,6 +2,12 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQwQAL.jpg?itok=SAQvvg6n",
+    "color" : "Virtual Scoreboard Lighting",
+    "reason" : "In Celebration of Super Bowl LVII",
+    "date" : "2023-02-12T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQmQAL.jpg?itok=e8t-sAsO",
     "color" : "Pink Heartbeat Lighting",
     "reason" : "In Celebration of Valentine's Day",
