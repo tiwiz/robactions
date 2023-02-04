@@ -26,11 +26,11 @@
     "date" : "2023-02-27T00:00:00Z",
     "colorHex" : [ "#0000FF", "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL.jpg?itok=rXRpy0Z-",
-    "color" : "Pink, Green, Blue and Purple",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL_0.jpg?itok=hql4BaSM",
+    "color" : "Purple, Green, Blue and Pink",
     "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
     "date" : "2023-02-28T00:00:00Z",
-    "colorHex" : [ "#FFC0CB", "#008000", "#0000FF", "#800080" ]
+    "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
