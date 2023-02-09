@@ -1,7 +1,13 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Gold and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCgpMQAT.jpg",
   "calendar" : [ {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgpMQAT.jpg?itok=tScOOFzY",
+    "color" : "Gold and Blue",
+    "reason" : "In Partnership with IMG to Kick Off New York Fashion Week",
+    "date" : "2023-02-09T00:00:00Z",
+    "colorHex" : [ "#FFD700", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQwQAL.jpg?itok=SAQvvg6n",
     "color" : "Virtual Scoreboard Lighting",
     "reason" : "In Celebration of Super Bowl LVII",
@@ -20,6 +26,12 @@
     "date" : "2023-02-20T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgoiQAD.jpg?itok=HauGQWeB",
+    "color" : "Red, Black and Green",
+    "reason" : "In Partnership with the Fashion For All Foundation in Celebration of Black History Month and Hip-Hop’s 50th Anniversary",
+    "date" : "2023-02-24T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfIOQA1.jpg?itok=DW6vwKDc",
     "color" : "Blue and Green",
     "reason" : "In Partnership with National Eating Disorders Association in Honor of National Eating Disorders Awareness Week",
@@ -32,5 +44,5 @@
     "date" : "2023-02-28T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFD700", "#0000FF" ]
 }
