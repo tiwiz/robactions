@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Pink Heartbeat Lighting COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCgQmQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgpMQAT.jpg?itok=tScOOFzY",
     "color" : "Gold and Blue",
@@ -8,7 +8,7 @@
     "date" : "2023-02-09T00:00:00Z",
     "colorHex" : [ "#FFD700", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCh53QAD.jpg?itok=CJtdXNp5",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCh53QAD_0.jpg?itok=7UkxiOO2",
     "color" : "Headline Blue, White and Icy Blue with an Hourly Red, White and Blue Sparkle",
     "reason" : "In Partnership with Bud Light to Celebrate and Support NFL Salute to Service",
     "date" : "2023-02-11T00:00:00Z",
@@ -50,5 +50,5 @@
     "date" : "2023-02-28T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
