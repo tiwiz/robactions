@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Dynamic Light Show COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CChTyQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgpMQAT.jpg?itok=tScOOFzY",
     "color" : "Gold and Blue",
@@ -24,6 +24,12 @@
     "color" : "Pink Heartbeat Lighting",
     "reason" : "In Celebration of Valentine's Day",
     "date" : "2023-02-14T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChTyQAL.jpg?itok=HgVgI90U",
+    "color" : "Dynamic Light Show",
+    "reason" : "8:00 pm: Music-to-Light Show in Partnership with iHeart Radio and P!NK set to P!NK’s new single, “Never Gonna Not Dance Again”",
+    "date" : "2023-02-17T00:00:00Z",
     "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQrQAL.jpg?itok=GSZkTYem",
@@ -50,5 +56,5 @@
     "date" : "2023-02-28T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
