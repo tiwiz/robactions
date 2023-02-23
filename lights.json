@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Yellow and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCiCqQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgpMQAT.jpg?itok=tScOOFzY",
     "color" : "Gold and Blue",
@@ -38,6 +38,12 @@
     "date" : "2023-02-20T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiCqQAL.jpg?itok=JkAMgMdx",
+    "color" : "Yellow and Blue",
+    "reason" : "In Solidarity with Ukraine",
+    "date" : "2023-02-23T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgoiQAD_0.jpg?itok=5XbBciqD",
     "color" : "Red, Black and Green",
     "reason" : "In Partnership with the Fashion For All Foundation in Celebration of Black History Month and Hip-Hop’s 50th Anniversary",
@@ -56,5 +62,5 @@
     "date" : "2023-02-28T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFFF00", "#0000FF" ]
 }
