@@ -1,5 +1,9 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/02/1677373697412_20.jpg",
+    "description" : "Image from Feb 25, 2023 at 8:08 PM",
+    "timestamp" : "1677373697"
+  }, {
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/02/1677296945740_23.jpg",
     "description" : "Image from Feb 24, 2023 at 10:48 PM",
     "timestamp" : "1677296945"
@@ -95,10 +99,6 @@
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/02/1675895342981_62.jpg",
     "description" : "Image from Feb 08, 2023 at 5:28 PM",
     "timestamp" : "1675895343"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/02/1675809752175_28.jpg",
-    "description" : "Image from Feb 07, 2023 at 5:42 PM",
-    "timestamp" : "1675809752"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
