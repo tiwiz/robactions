@@ -2,65 +2,35 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgpMQAT.jpg?itok=tScOOFzY",
-    "color" : "Gold and Blue",
-    "reason" : "In Partnership with IMG to Kick Off New York Fashion Week",
-    "date" : "2023-02-09T00:00:00Z",
-    "colorHex" : [ "#FFD700", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
+    "color" : "Red and White",
+    "reason" : "6:30 p.m. – 7:30 p.m.: In Celebration of STV’s Relocation to the Empire State Building",
+    "date" : "2023-03-01T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCh53QAD_0.jpg?itok=7UkxiOO2",
-    "color" : "Headline Blue, White and Icy Blue with an Hourly Red, White and Blue Sparkle",
-    "reason" : "In Partnership with Bud Light to Celebrate and Support NFL Salute to Service",
-    "date" : "2023-02-11T00:00:00Z",
-    "colorHex" : [ "#FFFFFF", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQwQAL_0.jpg?itok=8MZuJtjy",
-    "color" : "Split Lights & Virtual Scoreboard Lighting",
-    "reason" : "In Celebration of Super Bowl LVII",
-    "date" : "2023-02-12T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQmQAL.jpg?itok=e8t-sAsO",
-    "color" : "Pink Heartbeat Lighting",
-    "reason" : "In Celebration of Valentine's Day",
-    "date" : "2023-02-14T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChTyQAL.jpg?itok=HgVgI90U",
-    "color" : "Dynamic Light Show",
-    "reason" : "8:00 pm: Music-to-Light Show in Partnership with iHeart Radio and P!NK set to P!NK’s new single, “Never Gonna Not Dance Again”",
-    "date" : "2023-02-17T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgQrQAL.jpg?itok=GSZkTYem",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgMbQAL.jpg?itok=UVTMcUww",
     "color" : "Red, White and Blue",
-    "reason" : "In Honor of President's Day",
-    "date" : "2023-02-20T00:00:00Z",
+    "reason" : "In Partnership with Major League Baseball in Celebration of Team USA in the World Baseball Classic",
+    "date" : "2023-03-09T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiCqQAL.jpg?itok=JkAMgMdx",
-    "color" : "Yellow and Blue",
-    "reason" : "In Solidarity with Ukraine",
-    "date" : "2023-02-23T00:00:00Z",
-    "colorHex" : [ "#FFFF00", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiKzQAL.jpg?itok=i2KAy6tv",
+    "color" : "Light Blue",
+    "reason" : "In Honor of NYCFC’s Home Opener",
+    "date" : "2023-03-11T00:00:00Z",
+    "colorHex" : [ "#ADD8E6" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgoiQAD_0.jpg?itok=5XbBciqD",
-    "color" : "Red, Black and Green",
-    "reason" : "In Partnership with the Fashion For All Foundation in Celebration of Black History Month and Hip-Hop’s 50th Anniversary",
-    "date" : "2023-02-24T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgMgQAL.jpg?itok=EMWkx8A2",
+    "color" : "Cyan",
+    "reason" : "In Partnership with U.S. Environmental Protection Agency’s ENERGY STAR Program for Commercial Buildings in Celebration of ENERGY STAR for Commercial Buildings and Industrial Plants",
+    "date" : "2023-03-16T00:00:00Z",
+    "colorHex" : [ "#00FFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCfIOQA1.jpg?itok=DW6vwKDc",
-    "color" : "Blue and Green",
-    "reason" : "In Partnership with National Eating Disorders Association in Honor of National Eating Disorders Awareness Week",
-    "date" : "2023-02-27T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL_0.jpg?itok=hql4BaSM",
-    "color" : "Purple, Green, Blue and Pink",
-    "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
-    "date" : "2023-02-28T00:00:00Z",
-    "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiD0QAL.jpg?itok=Odb5-wGl",
+    "color" : "Green Fades with the Irish Flag Rotating in the Mast",
+    "reason" : "In Partnership with Slainte Whiskey and BlueCheck Ukraine in Celebration of St. Patrick’s Day",
+    "date" : "2023-03-17T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
