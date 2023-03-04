@@ -8,6 +8,12 @@
     "date" : "2023-03-01T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkFsQAL.jpg?itok=6p6RYwNb",
+    "color" : "Red",
+    "reason" : "In Celebration of TIME's 100th Anniversary",
+    "date" : "2023-03-03T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgMbQAL.jpg?itok=UVTMcUww",
     "color" : "Red, White and Blue",
     "reason" : "In Partnership with Major League Baseball in Celebration of Team USA in the World Baseball Classic",
