@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCgMbQAL.jpg",
+  "todayColor" : "BLUE, RED & WHITE COLOR",
+  "picture" : "/sites/default/files/2020-10/Blue%20Red%20White.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
     "color" : "Red and White",
@@ -44,5 +44,5 @@
     "date" : "2023-03-17T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  "colorHex" : [ "#0000FF", "#FF0000", "#FFFFFF" ]
 }
