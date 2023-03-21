@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Cyan COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCgMgQAL.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
     "color" : "Red and White",
@@ -49,6 +49,24 @@
     "reason" : "In Partnership with Slainte Whiskey and BlueCheck Ukraine in Celebration of St. Patrick’s Day",
     "date" : "2023-03-17T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChrJQAT.jpg?itok=VquLgwXY",
+    "color" : "Dark from 8:30 p.m.- 9:30 p.m. EST",
+    "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
+    "date" : "2023-03-25T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBuQAL.jpg?itok=sQqYlvPb",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the Food Bank for NYC's 40th Anniversary",
+    "date" : "2023-03-29T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiCbQAL.jpg?itok=8n53Lh01",
+    "color" : "Blue",
+    "reason" : "In Partnership with NYC & Co. in Honor of Global Meetings Industry Day",
+    "date" : "2023-03-30T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ "#00FFFF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
