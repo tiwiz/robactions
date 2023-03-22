@@ -50,13 +50,25 @@
     "date" : "2023-03-17T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsGPQA1.jpg?itok=jJRFUhL_",
+    "color" : "Red",
+    "reason" : "To Celebrate the Kick Off of the We Love NYC Campaign in Partnership with Partnerships for NYC",
+    "date" : "2023-03-20T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsZKQA1.jpg?itok=aZTmd7pF",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of Team USA in the World Baseball Classic Finals",
+    "date" : "2023-03-21T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChrJQAT.jpg?itok=VquLgwXY",
     "color" : "Dark from 8:30 p.m.- 9:30 p.m. EST",
     "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
     "date" : "2023-03-25T00:00:00Z",
     "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBuQAL.jpg?itok=sQqYlvPb",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBuQAL_0.jpg?itok=XiZtiKfj",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the Food Bank for NYC's 40th Anniversary",
     "date" : "2023-03-29T00:00:00Z",
