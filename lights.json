@@ -62,6 +62,12 @@
     "date" : "2023-03-21T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsZPQA1.jpg?itok=X6mL4QGn",
+    "color" : "Blue",
+    "reason" : "In Celebration of March Madness at Madison Square Garden in Partnership with NCAA Men’s Basketball",
+    "date" : "2023-03-23T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChrJQAT.jpg?itok=VquLgwXY",
     "color" : "Dark from 8:30 p.m.- 9:30 p.m. EST",
     "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
