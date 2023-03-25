@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCsZPQA1.jpg",
+  "todayColor" : "Dark from 8:30 p.m.- 9:30 p.m. EST COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CChrJQAT.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
     "color" : "Red and White",
@@ -68,6 +68,12 @@
     "date" : "2023-03-23T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCspPQAT.jpg?itok=Shz2bPMU",
+    "color" : "Signature White with the 50th Anniversary Prism Spectrum Rotating in the Mast",
+    "reason" : "In Celebration of the 50th Anniversary of Pink Floyd’s album “Dark Side of the Moon”",
+    "date" : "2023-03-24T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChrJQAT.jpg?itok=VquLgwXY",
     "color" : "Dark from 8:30 p.m.- 9:30 p.m. EST",
     "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
@@ -86,5 +92,5 @@
     "date" : "2023-03-30T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ ]
 }
