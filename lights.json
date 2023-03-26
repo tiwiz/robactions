@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Dark from 8:30 p.m.- 9:30 p.m. EST COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CChrJQAT.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
     "color" : "Red and White",
@@ -80,6 +80,12 @@
     "date" : "2023-03-25T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCstTQAT.jpg?itok=6lUruGQD",
+    "color" : "Split Lights",
+    "reason" : "In Celebration of the Elite Eight Game at Madison Square Garden in Partnership with NCAA Men’s Basketball. Following the game, ESB will light in the winner’s colors for the remainder of the evening.",
+    "date" : "2023-03-25T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBuQAL_0.jpg?itok=XiZtiKfj",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the Food Bank for NYC's 40th Anniversary",
@@ -92,5 +98,5 @@
     "date" : "2023-03-30T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
