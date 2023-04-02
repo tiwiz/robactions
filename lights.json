@@ -1,102 +1,48 @@
 {
-  "todayColor" : "Blue & White Pinstripes COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCtCEQA1.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBzQAL.jpg?itok=68Eo02Ai",
-    "color" : "Red and White",
-    "reason" : "6:30 p.m. – 7:30 p.m.: In Celebration of STV’s Relocation to the Empire State Building",
-    "date" : "2023-03-01T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkFsQAL.jpg?itok=6p6RYwNb",
-    "color" : "Red",
-    "reason" : "In Celebration of TIME's 100th Anniversary",
-    "date" : "2023-03-03T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CClX3QAL.jpg?itok=ysYIxpqa",
-    "color" : "Red and White",
-    "reason" : "In Honor of the 1 Month Anniversary of the February 6th Earthquake",
-    "date" : "2023-03-06T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgMbQAL.jpg?itok=UVTMcUww",
-    "color" : "Red, White and Blue",
-    "reason" : "In Partnership with Major League Baseball in Celebration of Team USA in the World Baseball Classic",
-    "date" : "2023-03-09T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiCvQAL_0.jpg?itok=zBlkLnxE",
-    "color" : "Apricot and Neon Magenta",
-    "reason" : "In Partnership with Republic Records, TWICE and Musicians On Call to Celebrate the Healing Power of Music",
-    "date" : "2023-03-10T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiKzQAL.jpg?itok=i2KAy6tv",
-    "color" : "Light Blue",
-    "reason" : "In Honor of NYCFC’s Home Opener",
-    "date" : "2023-03-11T00:00:00Z",
-    "colorHex" : [ "#ADD8E6" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCgMgQAL.jpg?itok=EMWkx8A2",
-    "color" : "Cyan",
-    "reason" : "In Partnership with U.S. Environmental Protection Agency’s ENERGY STAR Program for Commercial Buildings in Celebration of ENERGY STAR for Commercial Buildings and Industrial Plants",
-    "date" : "2023-03-16T00:00:00Z",
-    "colorHex" : [ "#00FFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiD0QAL.jpg?itok=Odb5-wGl",
-    "color" : "Green Fades with the Irish Flag Rotating in the Mast",
-    "reason" : "In Partnership with Slainte Whiskey and BlueCheck Ukraine in Celebration of St. Patrick’s Day",
-    "date" : "2023-03-17T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsGPQA1.jpg?itok=jJRFUhL_",
-    "color" : "Red",
-    "reason" : "To Celebrate the Kick Off of the We Love NYC Campaign in Partnership with Partnerships for NYC",
-    "date" : "2023-03-20T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsZKQA1.jpg?itok=aZTmd7pF",
-    "color" : "Red, White and Blue",
-    "reason" : "In Celebration of Team USA in the World Baseball Classic Finals",
-    "date" : "2023-03-21T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsZPQA1.jpg?itok=X6mL4QGn",
-    "color" : "Blue",
-    "reason" : "In Celebration of March Madness at Madison Square Garden in Partnership with NCAA Men’s Basketball",
-    "date" : "2023-03-23T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
+    "color" : "Blue & White Pinstripes",
+    "reason" : "In celebration of the New York Yankees’ Home Opening Weekend",
+    "date" : "2023-04-01T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCspPQAT.jpg?itok=Shz2bPMU",
-    "color" : "Signature White with the 50th Anniversary Prism Spectrum Rotating in the Mast",
-    "reason" : "In Celebration of the 50th Anniversary of Pink Floyd’s album “Dark Side of the Moon”",
-    "date" : "2023-03-24T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChrJQAT.jpg?itok=VquLgwXY",
-    "color" : "Dark from 8:30 p.m.- 9:30 p.m. EST",
-    "reason" : "In Observance of Earth Hour in Partnership with the World Wildlife Fund",
-    "date" : "2023-03-25T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCstTQAT.jpg?itok=6lUruGQD",
-    "color" : "Split Lights",
-    "reason" : "In Celebration of the Elite Eight Game at Madison Square Garden in Partnership with NCAA Men’s Basketball. Following the game, ESB will light in the winner’s colors for the remainder of the evening.",
-    "date" : "2023-03-25T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCkBuQAL_0.jpg?itok=XiZtiKfj",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCpxIQAT.jpg?itok=nezhPq7-",
     "color" : "Blue and Orange",
-    "reason" : "In Celebration of the Food Bank for NYC's 40th Anniversary",
-    "date" : "2023-03-29T00:00:00Z",
+    "reason" : "In Celebration of the New York Mets’ Home Opener",
+    "date" : "2023-04-05T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiCbQAL.jpg?itok=8n53Lh01",
-    "color" : "Blue",
-    "reason" : "In Partnership with NYC & Co. in Honor of Global Meetings Industry Day",
-    "date" : "2023-03-30T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsVVQA1.jpg?itok=rsYjinBR",
+    "color" : "Pastel Shades",
+    "reason" : "In Celebration of Easter",
+    "date" : "2023-04-09T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiGsQAL.jpg?itok=KjAlGGk1",
+    "color" : "Orange",
+    "reason" : "In Celebration of the 2023 WNBA Draft",
+    "date" : "2023-04-10T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1.jpg?itok=Xek87EGi",
+    "color" : "Green",
+    "reason" : "In Honor of Eid Al Fitr",
+    "date" : "2023-04-21T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCOQA1.jpg?itok=6oHjQmg_",
+    "color" : "Green",
+    "reason" : "In Celebration of Earth Day",
+    "date" : "2023-04-22T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCTQA1.jpg?itok=SWaqNmXx",
+    "color" : "Orange",
+    "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
+    "date" : "2023-04-25T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
