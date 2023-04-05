@@ -1,12 +1,24 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCpxIQAT.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
     "reason" : "In celebration of the New York Yankees’ Home Opening Weekend",
     "date" : "2023-04-01T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtP4QAL.jpg?itok=F0lYaWQy",
+    "color" : "Purple and Gold",
+    "reason" : "In Celebration of LSU Women's Basketball Team Winning the NCAA Women's Basketball National Championship Game",
+    "date" : "2023-04-02T00:00:00Z",
+    "colorHex" : [ "#800080", "#FFD700" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtOzQAL.jpg?itok=YfvahnMP",
+    "color" : "Signature White Followed by Colors of the Winning Team of the NCAA Men's Championship Game",
+    "reason" : "In Celebration of the Winning Team of the NCAA Men's Championship Game",
+    "date" : "2023-04-03T00:00:00Z",
+    "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCpxIQAT.jpg?itok=nezhPq7-",
     "color" : "Blue and Orange",
@@ -44,5 +56,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
