@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCpxIQAT.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -38,12 +38,6 @@
     "date" : "2023-04-10T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1.jpg?itok=Xek87EGi",
-    "color" : "Green",
-    "reason" : "In Honor of Eid Al Fitr",
-    "date" : "2023-04-21T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCOQA1.jpg?itok=6oHjQmg_",
     "color" : "Green",
     "reason" : "In Celebration of Earth Day",
@@ -56,5 +50,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
