@@ -23,7 +23,7 @@
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCpxIQAT.jpg?itok=nezhPq7-",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the New York Mets’ Home Opener",
-    "date" : "2023-04-05T00:00:00Z",
+    "date" : "2023-04-06T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsVVQA1.jpg?itok=rsYjinBR",
@@ -37,6 +37,18 @@
     "reason" : "In Celebration of the 2023 WNBA Draft",
     "date" : "2023-04-10T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCJQA1.jpg?itok=xZhtPTLd",
+    "color" : "Blue and White",
+    "reason" : "In Partnership with Scottish Government and The National Tartan Day New York Committee in Celebration of NYC Tartan Week",
+    "date" : "2023-04-14T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1_0.jpg?itok=PKRndz6E",
+    "color" : "Green",
+    "reason" : "In Honor of Eid Al Fitr",
+    "date" : "2023-04-20T00:00:00Z",
+    "colorHex" : [ "#008000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCOQA1.jpg?itok=6oHjQmg_",
     "color" : "Green",
