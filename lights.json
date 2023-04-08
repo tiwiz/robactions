@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Pastel Shades COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCvYYQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -25,6 +25,12 @@
     "reason" : "In Celebration of the New York Mets’ Home Opener",
     "date" : "2023-04-06T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvYYQA1.jpg?itok=TnqBzPrM",
+    "color" : "Pastel Shades",
+    "reason" : "In Celebration of Easter",
+    "date" : "2023-04-08T00:00:00Z",
+    "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsVVQA1.jpg?itok=rsYjinBR",
     "color" : "Pastel Shades",
@@ -62,5 +68,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
