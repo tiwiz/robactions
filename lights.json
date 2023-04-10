@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Pastel Shades COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCsVVQA1.jpg",
+  "todayColor" : "Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCiGsQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -68,5 +68,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFA500" ]
 }
