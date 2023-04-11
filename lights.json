@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCiGsQAL.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -44,6 +44,12 @@
     "date" : "2023-04-10T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvksQAD.jpg?itok=Yf_HmA2A",
+    "color" : "Red, White and Blue",
+    "reason" : "In Partnership with the United States Football League in Celebration of the Season 2 Kick Off",
+    "date" : "2023-04-12T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCJQA1.jpg?itok=xZhtPTLd",
     "color" : "Blue and White",
     "reason" : "In Partnership with Scottish Government and The National Tartan Day New York Committee in Celebration of NYC Tartan Week",
@@ -68,5 +74,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
