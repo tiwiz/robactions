@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and White COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCtCJQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -56,6 +56,12 @@
     "date" : "2023-04-14T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxFQAT.jpg?itok=3rpHwswr",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks’ First Playoff Game",
+    "date" : "2023-04-15T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1_0.jpg?itok=PKRndz6E",
     "color" : "Green",
     "reason" : "In Honor of Eid Al Fitr",
@@ -74,5 +80,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFFFFF" ]
 }
