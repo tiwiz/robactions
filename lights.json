@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCwF5QAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -62,6 +62,24 @@
     "date" : "2023-04-15T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwF0QAL.jpg?itok=jrG3fKRk",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders’ First Playoff Game",
+    "date" : "2023-04-17T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwF5QAL.jpg?itok=U57MDEFS",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of the New York Rangers’ First Playoff Game",
+    "date" : "2023-04-18T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwEvQAL.jpg?itok=pYKnqAts",
+    "color" : "Blue",
+    "reason" : "In Partnership with the Barbra Sinatra Children’s Foundation in Honor of Childhood Abuse Prevention Month",
+    "date" : "2023-04-19T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1_0.jpg?itok=PKRndz6E",
     "color" : "Green",
     "reason" : "In Honor of Eid Al Fitr",
@@ -80,5 +98,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
