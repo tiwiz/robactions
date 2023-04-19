@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, White and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCwF5QAL.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCwEvQAL.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -86,6 +86,12 @@
     "date" : "2023-04-20T00:00:00Z",
     "colorHex" : [ "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwFAQA1_0.jpg?itok=-51SPo-W",
+    "color" : "Lime Green, Purple and White",
+    "reason" : "In Partnership with Feld Motor Sports in Celebration of Monster Energy AMA Supercross Championship",
+    "date" : "2023-04-21T00:00:00Z",
+    "colorHex" : [ "#32CD32", "#800080", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCOQA1.jpg?itok=6oHjQmg_",
     "color" : "Green",
     "reason" : "In Celebration of Earth Day",
@@ -98,5 +104,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  "colorHex" : [ "#0000FF" ]
 }
