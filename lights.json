@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCwEvQAL.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCtCKQA1_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -76,7 +76,7 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwEvQAL.jpg?itok=pYKnqAts",
     "color" : "Blue",
-    "reason" : "In Partnership with the Barbra Sinatra Children’s Foundation in Honor of Childhood Abuse Prevention Month",
+    "reason" : "In Partnership with the Barbara Sinatra Children’s Center Foundation in Honor of Child Abuse Prevention Month",
     "date" : "2023-04-19T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
@@ -104,5 +104,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#008000" ]
 }
