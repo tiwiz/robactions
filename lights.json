@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCtCKQA1_0.jpg",
+  "todayColor" : "Lime Green, Purple and White COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCwFAQA1_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -104,5 +104,5 @@
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   } ],
-  "colorHex" : [ "#008000" ]
+  "colorHex" : [ "#32CD32", "#800080", "#FFFFFF" ]
 }
