@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Lime Green, Purple and White COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCwFAQA1_0.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCtCOQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -103,6 +103,12 @@
     "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
     "date" : "2023-04-25T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhnMWQAZ.jpg?itok=Q2pdxTfl",
+    "color" : "Green, White and Light Blue",
+    "reason" : "In Honor of the Business of Women’s Sports Summit",
+    "date" : "2023-04-26T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFFFF", "#ADD8E6" ]
   } ],
-  "colorHex" : [ "#32CD32", "#800080", "#FFFFFF" ]
+  "colorHex" : [ "#008000" ]
 }
