@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCtCTQA1.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
     "color" : "Blue & White Pinstripes",
@@ -110,5 +110,5 @@
     "date" : "2023-04-26T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFFFF", "#ADD8E6" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFA500" ]
 }
