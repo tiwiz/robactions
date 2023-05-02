@@ -1,114 +1,48 @@
 {
-  "todayColor" : "Multi-Color Sparkle COLOR",
-  "picture" : "/sites/default/files/a1r4P00000CCvxKQAT_0.jpg",
+  "todayColor" : "Blue and Purple COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCvxPQAT.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCEQA1.jpg?itok=gUut2RDa",
-    "color" : "Blue & White Pinstripes",
-    "reason" : "In celebration of the New York Yankees’ Home Opening Weekend",
-    "date" : "2023-04-01T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
+    "color" : "Multi-Color Sparkle",
+    "reason" : "In Celebration of Empire State Building’s 92nd Birthday",
+    "date" : "2023-05-01T00:00:00Z",
+    "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtP4QAL.jpg?itok=F0lYaWQy",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxPQAT.jpg?itok=F1cvSJIt",
+    "color" : "Blue and Purple",
+    "reason" : "In Honor of Police Memorial Day",
+    "date" : "2023-05-02T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#800080" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhnv7QAB.jpg?itok=GdYZwnxw",
+    "color" : "Gold",
+    "reason" : "In Honor of Asian Pacific American Heritage Month",
+    "date" : "2023-05-03T00:00:00Z",
+    "colorHex" : [ "#FFD700" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhnvMQAR.jpg?itok=tNM19oYT",
+    "color" : "Blue, Red and White",
+    "reason" : "In Honor of the Coronation of King Charles III",
+    "date" : "2023-05-06T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FF0000", "#FFFFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxUQAT.jpg?itok=EmlTBJWH",
     "color" : "Purple and Gold",
-    "reason" : "In Celebration of LSU Women's Basketball Team Winning the NCAA Women's Basketball National Championship Game",
-    "date" : "2023-04-02T00:00:00Z",
+    "reason" : "In Honor of the 2023 Westminster Kennel Club Dog Show",
+    "date" : "2023-05-09T00:00:00Z",
     "colorHex" : [ "#800080", "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtOzQAL.jpg?itok=YfvahnMP",
-    "color" : "Signature White Followed by Colors of the Winning Team of the NCAA Men's Championship Game",
-    "reason" : "In Celebration of the Winning Team of the NCAA Men's Championship Game",
-    "date" : "2023-04-03T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCpxIQAT.jpg?itok=nezhPq7-",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Mets’ Home Opener",
-    "date" : "2023-04-06T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvYYQA1.jpg?itok=TnqBzPrM",
-    "color" : "Pastel Shades",
-    "reason" : "In Celebration of Easter",
-    "date" : "2023-04-08T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsVVQA1.jpg?itok=rsYjinBR",
-    "color" : "Pastel Shades",
-    "reason" : "In Celebration of Easter",
-    "date" : "2023-04-09T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCiGsQAL.jpg?itok=KjAlGGk1",
-    "color" : "Orange",
-    "reason" : "In Celebration of the 2023 WNBA Draft",
-    "date" : "2023-04-10T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvksQAD.jpg?itok=Yf_HmA2A",
-    "color" : "Red, White and Blue",
-    "reason" : "In Partnership with the United States Football League in Celebration of the Season 2 Kick Off",
-    "date" : "2023-04-12T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCJQA1.jpg?itok=xZhtPTLd",
-    "color" : "Blue and White",
-    "reason" : "In Partnership with Scottish Government and The National Tartan Day New York Committee in Celebration of NYC Tartan Week",
-    "date" : "2023-04-14T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxFQAT.jpg?itok=3rpHwswr",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Knicks’ First Playoff Game",
-    "date" : "2023-04-15T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwF0QAL.jpg?itok=jrG3fKRk",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Islanders’ First Playoff Game",
-    "date" : "2023-04-17T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwF5QAL.jpg?itok=U57MDEFS",
-    "color" : "Red, White and Blue",
-    "reason" : "In Celebration of the New York Rangers’ First Playoff Game",
-    "date" : "2023-04-18T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwEvQAL.jpg?itok=pYKnqAts",
-    "color" : "Blue",
-    "reason" : "In Partnership with the Barbara Sinatra Children’s Center Foundation in Honor of Child Abuse Prevention Month",
-    "date" : "2023-04-19T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCKQA1_0.jpg?itok=PKRndz6E",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxZQAT.jpg?itok=DVz-UEvO",
     "color" : "Green",
-    "reason" : "In Honor of Eid Al Fitr",
-    "date" : "2023-04-20T00:00:00Z",
+    "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
+    "date" : "2023-05-11T00:00:00Z",
     "colorHex" : [ "#008000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCwFAQA1_0.jpg?itok=-51SPo-W",
-    "color" : "Lime Green, Purple and White",
-    "reason" : "In Partnership with Feld Motor Sports in Celebration of Monster Energy AMA Supercross Championship",
-    "date" : "2023-04-21T00:00:00Z",
-    "colorHex" : [ "#32CD32", "#800080", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCOQA1.jpg?itok=6oHjQmg_",
-    "color" : "Green",
-    "reason" : "In Celebration of Earth Day",
-    "date" : "2023-04-22T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtCTQA1.jpg?itok=SWaqNmXx",
-    "color" : "Orange",
-    "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
-    "date" : "2023-04-25T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhnMWQAZ.jpg?itok=Q2pdxTfl",
-    "color" : "Green, White and Light Blue",
-    "reason" : "In Honor of the Business of Women’s Sports Summit",
-    "date" : "2023-04-26T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFFFF", "#ADD8E6" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhnMbQAJ.jpg?itok=iZuOPFcX",
+    "color" : "Gold, Light Blue and Blue",
+    "reason" : "In Celebration of PACE University’s Commencement",
+    "date" : "2023-05-12T00:00:00Z",
+    "colorHex" : [ "#FFD700", "#ADD8E6", "#0000FF" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#0000FF", "#800080" ]
 }
