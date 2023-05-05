@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Rainbow COLOR",
-  "picture" : "/sites/default/files/a1r4P00000FhoGwQAJ.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
     "color" : "Multi-Color Sparkle",
@@ -44,13 +44,7 @@
     "date" : "2023-05-09T00:00:00Z",
     "colorHex" : [ "#800080", "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxZQAT.jpg?itok=DVz-UEvO",
-    "color" : "Green",
-    "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
-    "date" : "2023-05-11T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtBzQAL.jpg?itok=kz9eXeNM",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtBzQAL_0.jpg?itok=MW2ZBhcZ",
     "color" : "Green",
     "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
     "date" : "2023-05-11T00:00:00Z",
@@ -122,5 +116,5 @@
     "date" : "2023-05-29T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
