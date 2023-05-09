@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Yellow COLOR",
-  "picture" : "/sites/default/files/a1r4P00000C9ZWnQAN.jpg",
+  "todayColor" : "Purple and Gold COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCvxUQAT.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
     "color" : "Multi-Color Sparkle",
@@ -116,5 +116,5 @@
     "date" : "2023-05-29T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFFF00" ]
+  "colorHex" : [ "#800080", "#FFD700" ]
 }
