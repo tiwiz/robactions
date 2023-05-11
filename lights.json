@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "/sites/default/files/a1r4P00000CCtBzQAL_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
     "color" : "Multi-Color Sparkle",
@@ -44,6 +44,12 @@
     "date" : "2023-05-09T00:00:00Z",
     "colorHex" : [ "#800080", "#FFD700" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhop5QAB.jpg?itok=IETng4aI",
+    "color" : "Red",
+    "reason" : "In Celebration of National Travel and Tourism Week in Partnership with the U.S. Travel Association",
+    "date" : "2023-05-10T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtBzQAL_0.jpg?itok=MW2ZBhcZ",
     "color" : "Green",
     "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
@@ -86,6 +92,12 @@
     "date" : "2023-05-18T00:00:00Z",
     "colorHex" : [ "#008080" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvsuQAD.jpg?itok=CPPUKnDl",
+    "color" : "Yellow, Blue and White with a Red Siren",
+    "reason" : "In Honor of National EMS Week 2023 in Partnership with the FDNY",
+    "date" : "2023-05-19T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtSyQAL.jpg?itok=R38cCKKy",
     "color" : "Seafoam Green",
     "reason" : "In Celebration of the New York Liberty Home Opener",
@@ -116,5 +128,5 @@
     "date" : "2023-05-29T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000" ]
 }
