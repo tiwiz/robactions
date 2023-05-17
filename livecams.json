@@ -1,5 +1,13 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/05/1684294842769_86.jpg",
+    "description" : "",
+    "timestamp" : "1684294842"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/05/1684294842402_66.jpg",
+    "description" : "",
+    "timestamp" : "1684294842"
+  }, {
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/05/1684117448858_67.jpg",
     "description" : "Image from May 14, 2023 at 10:23 PM",
     "timestamp" : "1684117448"
@@ -91,14 +99,6 @@
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/04/1680401550635_4.jpg",
     "description" : "Image from Apr 01, 2023 at 10:12 PM",
     "timestamp" : "1680401550"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/03/1680317411541_94.jpg",
-    "description" : "Image from Mar 31, 2023 at 10:50 PM",
-    "timestamp" : "1680317411"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/03/1680043366870_45.jpg",
-    "description" : "Image from Mar 28, 2023 at 6:42 PM",
-    "timestamp" : "1680043366"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
