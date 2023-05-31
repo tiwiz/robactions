@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Veuve Clicquot Yellow COLOR",
+  "picture" : "/sites/default/files/a1r4P00000FhsKHQAZ.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
     "color" : "Multi-Color Sparkle",
@@ -127,6 +127,12 @@
     "reason" : "In Honor of Memorial Day",
     "date" : "2023-05-29T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhsKHQAZ.jpg?itok=NT7gMx9A",
+    "color" : "Veuve Clicquot Yellow",
+    "reason" : "In Honor of the Return of the Veuve Clicquot Polo Classic",
+    "date" : "2023-05-31T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
