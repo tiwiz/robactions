@@ -1,138 +1,24 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Orange COLOR",
+  "picture" : "/sites/default/files/a1r4P00000FhoWYQAZ.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxKQAT_0.jpg?itok=8hSZ3HJM",
-    "color" : "Multi-Color Sparkle",
-    "reason" : "In Celebration of Empire State Building’s 92nd Birthday",
-    "date" : "2023-05-01T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
+    "color" : "Orange",
+    "reason" : "In Partnership with Everytown for Gun Safety in Honor of Gun Violence Awareness Day 2023",
+    "date" : "2023-06-02T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoQqQAJ.jpg?itok=j6P9sZhq",
+    "color" : "NYPD Blue",
+    "reason" : "In Honor of the 2023 New York City Police Foundation Annual Gala",
+    "date" : "2023-06-08T00:00:00Z",
     "colorHex" : [ ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxPQAT.jpg?itok=F1cvSJIt",
-    "color" : "Blue and Purple",
-    "reason" : "In Honor of Police Memorial Day",
-    "date" : "2023-05-02T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhnv7QAB_0.jpg?itok=oek59IX0",
-    "color" : "Gold",
-    "reason" : "In Partnership with Gold House in Honor of Asian American and Pacific Islander Heritage Month",
-    "date" : "2023-05-03T00:00:00Z",
-    "colorHex" : [ "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoGwQAJ.jpg?itok=MuK24BZA",
-    "color" : "Rainbow",
-    "reason" : "In Partnership with RuPaul’s Drag Race and the American Civil Liberties Union Ahead of the Season 8 Premiere",
-    "date" : "2023-05-04T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2023-05/a1r4P00000FhnvMQAR_0.jpg?itok=a__WTnKl",
-    "color" : "Blue, Red and White",
-    "reason" : "In Honor of the Coronation of King Charles III",
-    "date" : "2023-05-06T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2023-05/EU%20Day.jpg?itok=-RCYzrUM",
-    "color" : "Blue and Yellow",
-    "reason" : "In Honor of EU Day",
-    "date" : "2023-05-08T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvxUQAT.jpg?itok=EmlTBJWH",
-    "color" : "Purple and Gold",
-    "reason" : "In Honor of the 2023 Westminster Kennel Club Dog Show",
-    "date" : "2023-05-09T00:00:00Z",
-    "colorHex" : [ "#800080", "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhop5QAB.jpg?itok=IETng4aI",
-    "color" : "Red",
-    "reason" : "In Celebration of National Travel and Tourism Week in Partnership with the U.S. Travel Association",
-    "date" : "2023-05-10T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtBzQAL_0.jpg?itok=MW2ZBhcZ",
-    "color" : "Green",
-    "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
-    "date" : "2023-05-11T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhnMbQAJ.jpg?itok=iZuOPFcX",
-    "color" : "Gold, Light Blue and Blue",
-    "reason" : "In Celebration of PACE University’s Commencement",
-    "date" : "2023-05-12T00:00:00Z",
-    "colorHex" : [ "#FFD700", "#ADD8E6", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCt5kQAD.jpg?itok=rNLfHTrq",
-    "color" : "Green and Blue",
-    "reason" : "In Partnership with the Children’s Tumor Foundation in Honor of World NF Day",
-    "date" : "2023-05-14T00:00:00Z",
-    "colorHex" : [ "#008000", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvTjQAL.jpg?itok=Rn7koDHT",
-    "color" : "Green Sparkle",
-    "reason" : "In Partnership with Robin Hood in Honor of the 2023 Annual Benefit",
-    "date" : "2023-05-15T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCpGzQAL.jpg?itok=9JX5GE89",
-    "color" : "Dynamic Purple and White",
-    "reason" : "In Honor of New York University Commencement",
-    "date" : "2023-05-16T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCsGKQA1.jpg?itok=w5C1EgQp",
-    "color" : "Columbia Blue and White",
-    "reason" : "In Honor of Columbia University Commencement",
-    "date" : "2023-05-17T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvkiQAD.jpg?itok=mUk-Iqoy",
-    "color" : "Teal",
-    "reason" : "In Partnership with FARE in Honor of Food Allergy Awareness Week",
-    "date" : "2023-05-18T00:00:00Z",
-    "colorHex" : [ "#008080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCtSyQAL.jpg?itok=R38cCKKy",
-    "color" : "Seafoam Green",
-    "reason" : "In Celebration of the New York Liberty Home Opener",
-    "date" : "2023-05-20T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCvsuQAD.jpg?itok=CPPUKnDl",
-    "color" : "Yellow, White and Blue with a Red Siren",
-    "reason" : "In Honor of National EMS Week 2023 in Partnership with the FDNY",
-    "date" : "2023-05-21T00:00:00Z",
-    "colorHex" : [ "#FFFF00", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CChNvQAL.jpg?itok=O-wRSZ2p",
-    "color" : "Purple, Blue and Green",
-    "reason" : "In Celebration of the Museum of the City of New York's Centennial Gala",
-    "date" : "2023-05-24T00:00:00Z",
-    "colorHex" : [ "#800080", "#0000FF", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoLPQAZ.jpg?itok=MhYi-BxU",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day",
-    "date" : "2023-05-27T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoLUQAZ.jpg?itok=S3_5S6X5",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day",
-    "date" : "2023-05-28T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoLZQAZ.jpg?itok=XUdnz92_",
-    "color" : "Red, White and Blue",
-    "reason" : "In Honor of Memorial Day",
-    "date" : "2023-05-29T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhsKHQAZ.jpg?itok=NT7gMx9A",
-    "color" : "Veuve Clicquot Yellow",
-    "reason" : "In Honor of the Return of the Veuve Clicquot Polo Classic",
-    "date" : "2023-05-31T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs8UQAR.jpg?itok=aQ5roKok",
+    "color" : "Red, Black and Green",
+    "reason" : "In Honor of Juneteenth",
+    "date" : "2023-06-19T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFA500" ]
 }
