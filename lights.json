@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000FhoWYQAZ.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
     "color" : "Orange",
@@ -20,5 +20,5 @@
     "date" : "2023-06-19T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
