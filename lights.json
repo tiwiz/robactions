@@ -1,6 +1,6 @@
 {
-  "todayColor" : "NYPD Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000FhoQqQAJ.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
     "color" : "Orange",
@@ -19,6 +19,12 @@
     "reason" : "In Honor of Juneteenth",
     "date" : "2023-06-19T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs4LQAR.jpg?itok=RP1YziVx",
+    "color" : "Rainbow",
+    "reason" : "In Honor of PRIDE in Partnership with Stonewall Inn Gives Back Initiative and the Trevor Project",
+    "date" : "2023-06-25T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFFFFF" ]
 }
