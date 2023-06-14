@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Split Lights: Blue & Orange for New York Mets and Pinstripes for New York Yankees COLOR",
+  "picture" : "/sites/default/files/a1r4P00000FhtWuQAJ_0.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
     "color" : "Orange",
@@ -12,6 +12,18 @@
     "color" : "NYPD Blue",
     "reason" : "In Honor of the 2023 New York City Police Foundation Annual Gala",
     "date" : "2023-06-08T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWpQAJ.jpg?itok=JX7sn5rC",
+    "color" : "Split Lights: Blue & Orange for New York Mets and Pinstripes for New York Yankees",
+    "reason" : "In Celebration of the 2023 Subway Series",
+    "date" : "2023-06-13T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWuQAJ_0.jpg?itok=LjYZ7DEM",
+    "color" : "Split Lights: Blue & Orange for New York Mets and Pinstripes for New York Yankees",
+    "reason" : "In Celebration of the 2023 Subway Series",
+    "date" : "2023-06-14T00:00:00Z",
     "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs8UQAR.jpg?itok=aQ5roKok",
@@ -26,5 +38,5 @@
     "date" : "2023-06-25T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
