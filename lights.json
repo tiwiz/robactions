@@ -34,8 +34,14 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs4LQAR.jpg?itok=RP1YziVx",
     "color" : "Rainbow",
-    "reason" : "In Honor of PRIDE in Partnership with Stonewall Inn Gives Back Initiative and the Trevor Project",
+    "reason" : "In Celebration of New York City Pride",
     "date" : "2023-06-25T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtXEQAZ.jpg?itok=mdYpHmDa",
+    "color" : "Lavender with a Red Heart Rotating in the Mast",
+    "reason" : "In Celebration of the 30th Anniversary of Sleepless in Seattle",
+    "date" : "2023-06-30T00:00:00Z",
     "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
