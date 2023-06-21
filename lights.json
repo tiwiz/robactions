@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Pink COLOR",
+  "picture" : "/sites/default/files/a1r4P00000Fhu5xQAB.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
     "color" : "Orange",
@@ -32,6 +32,18 @@
     "date" : "2023-06-19T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhu5sQAB.jpg?itok=HEbV2Gz9",
+    "color" : "Tripadvisor Green",
+    "reason" : "In Celebration of the Empire State Building Observatory Being Named #1 Attraction in the U.S. by Tripadvisor Travelers for the Second Consecutive Year in 2023 Travelers’ Choice Best of the Best",
+    "date" : "2023-06-20T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhu5xQAB.jpg?itok=nHa9mDpM",
+    "color" : "Pink",
+    "reason" : "In Celebration of the 25th Anniversary Year of Sex and the City and the Season 2 Premiere of ‘And Just Like That…’",
+    "date" : "2023-06-21T00:00:00Z",
+    "colorHex" : [ "#FFC0CB" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs4LQAR.jpg?itok=RP1YziVx",
     "color" : "Rainbow",
     "reason" : "In Celebration of New York City Pride",
@@ -44,5 +56,5 @@
     "date" : "2023-06-30T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFC0CB" ]
 }
