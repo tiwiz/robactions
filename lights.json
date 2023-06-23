@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Pink COLOR",
-  "picture" : "/sites/default/files/a1r4P00000Fhu5xQAB.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
     "color" : "Orange",
@@ -44,6 +44,12 @@
     "date" : "2023-06-21T00:00:00Z",
     "colorHex" : [ "#FFC0CB" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2023-06/India%20Day%202.jpeg?itok=eHkRQVmH",
+    "color" : "Green, White and Orange",
+    "reason" : "In Partnership with the Indian Federation Associations to Mark Historic State Visit of Prime Minister Narenda Modi to the United States Hosted by President Biden",
+    "date" : "2023-06-22T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs4LQAR.jpg?itok=RP1YziVx",
     "color" : "Rainbow",
     "reason" : "In Celebration of New York City Pride",
@@ -56,5 +62,5 @@
     "date" : "2023-06-30T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFC0CB" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
