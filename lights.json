@@ -1,66 +1,30 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000FhtWzQAJ.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoWYQAZ.jpg?itok=6trphTEl",
-    "color" : "Orange",
-    "reason" : "In Partnership with Everytown for Gun Safety in Honor of Gun Violence Awareness Day 2023",
-    "date" : "2023-06-02T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWzQAJ.jpg?itok=kg-B2pmH",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of Fourth of July",
+    "date" : "2023-07-02T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhoQqQAJ.jpg?itok=j6P9sZhq",
-    "color" : "NYPD Blue",
-    "reason" : "In Honor of the 2023 New York City Police Foundation Annual Gala",
-    "date" : "2023-06-08T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtX4QAJ.jpg?itok=Dhr8p12m",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of Fourth of July",
+    "date" : "2023-07-03T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWpQAJ.jpg?itok=JX7sn5rC",
-    "color" : "Split Lights: Blue & Orange for New York Mets and Pinstripes for New York Yankees",
-    "reason" : "In Celebration of the 2023 Subway Series",
-    "date" : "2023-06-13T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtX9QAJ.jpg?itok=aAQweizX",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of Fourth of July",
+    "date" : "2023-07-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWuQAJ_0.jpg?itok=LjYZ7DEM",
-    "color" : "Split Lights: Blue & Orange for New York Mets and Pinstripes for New York Yankees",
-    "reason" : "In Celebration of the 2023 Subway Series",
-    "date" : "2023-06-14T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs8UQAR.jpg?itok=aQ5roKok",
-    "color" : "Red, Black and Green",
-    "reason" : "In Honor of Juneteenth",
-    "date" : "2023-06-19T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhu5sQAB.jpg?itok=HEbV2Gz9",
-    "color" : "Tripadvisor Green",
-    "reason" : "In Celebration of the Empire State Building Observatory Being Named #1 Attraction in the U.S. by Tripadvisor Travelers for the Second Consecutive Year in 2023 Travelers’ Choice Best of the Best",
-    "date" : "2023-06-20T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhu5xQAB.jpg?itok=nHa9mDpM",
-    "color" : "Pink",
-    "reason" : "In Celebration of the 25th Anniversary Year of Sex and the City and the Season 2 Premiere of ‘And Just Like That…’",
-    "date" : "2023-06-21T00:00:00Z",
-    "colorHex" : [ "#FFC0CB" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhuFNQAZ_0.jpg?itok=ndleh_BA",
-    "color" : "Green, White and Orange",
-    "reason" : "In Partnership with the Federation of Indian Associations to Mark Historic State Visit of Prime Minister Narendra Modi to the United States Hosted by President Biden",
-    "date" : "2023-06-22T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhs4LQAR.jpg?itok=RP1YziVx",
-    "color" : "Rainbow",
-    "reason" : "In Celebration of New York City Pride",
-    "date" : "2023-06-25T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtXEQAZ.jpg?itok=mdYpHmDa",
-    "color" : "Lavender with a Red Heart Rotating in the Mast",
-    "reason" : "In Celebration of the 30th Anniversary of Sleepless in Seattle",
-    "date" : "2023-06-30T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtbYQAR.jpg?itok=-QXcrqwM",
+    "color" : "Gold, Black and Aquamarine",
+    "reason" : "In Partnership with The Bahamas Consulate General in New York to Celebrate the 50th Anniversary of Independence",
+    "date" : "2023-07-10T00:00:00Z",
+    "colorHex" : [ "#FFD700", "#000000", "#7FFFD4" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
