@@ -25,6 +25,12 @@
     "reason" : "In Partnership with The Bahamas Consulate General in New York to Celebrate the 50th Anniversary of Independence",
     "date" : "2023-07-10T00:00:00Z",
     "colorHex" : [ "#FFD700", "#000000", "#7FFFD4" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2022-11/tower_lights-blue.jpg?itok=4qvCM8fO",
+    "color" : "All Light Blue",
+    "reason" : "Bluey and Bingo Light Up the Empire State Building",
+    "date" : "2023-07-12T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
