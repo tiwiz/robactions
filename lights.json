@@ -26,11 +26,11 @@
     "date" : "2023-07-10T00:00:00Z",
     "colorHex" : [ "#FFD700", "#000000", "#7FFFD4" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2022-11/tower_lights-blue.jpg?itok=4qvCM8fO",
-    "color" : "All Light Blue",
-    "reason" : "Bluey and Bingo Light Up the Empire State Building",
-    "date" : "2023-07-12T00:00:00Z",
-    "colorHex" : [ ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhuLPQAZ.jpg?itok=ib3-kQtz",
+    "color" : "Blue, Red and Yellow",
+    "reason" : "In Partnership with the Consulate General of Colombia in New York in Celebration of Colombian Independence Day",
+    "date" : "2023-07-20T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FF0000", "#FFFF00" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
