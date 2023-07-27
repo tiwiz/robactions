@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Split Lights: Blue and White Pinstripes for the New York Yankees and Orange and Blue for the New York Mets COLOR",
-  "picture" : "/sites/default/files/a1r4P00000FhvYtQAJ.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWzQAJ.jpg?itok=kg-B2pmH",
     "color" : "Red, White and Blue",
@@ -67,6 +67,12 @@
     "reason" : "In Honor of the New York City Subway Series",
     "date" : "2023-07-26T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhwb8QAB.jpg?itok=jCuv_pUj",
+    "color" : "Purple and Blue",
+    "reason" : "In Partnership with the Premier League in Celebration of the Summer Series",
+    "date" : "2023-07-28T00:00:00Z",
+    "colorHex" : [ "#800080", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
