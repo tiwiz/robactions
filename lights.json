@@ -2,77 +2,23 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtWzQAJ.jpg?itok=kg-B2pmH",
-    "color" : "Red, White and Blue",
-    "reason" : "In Celebration of Fourth of July",
-    "date" : "2023-07-02T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvC0QAJ.jpg?itok=aCd0uGTO",
+    "color" : "Blue",
+    "reason" : "In Celebration of WABC’s 75th Anniversary",
+    "date" : "2023-08-10T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtX4QAJ.jpg?itok=Dhr8p12m",
-    "color" : "Red, White and Blue",
-    "reason" : "In Celebration of Fourth of July",
-    "date" : "2023-07-03T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhw8lQAB.jpg?itok=pPd3bFD4",
+    "color" : "Gold",
+    "reason" : "In Partnership with Universal Music Group in Celebration of the 50th Anniversary of Hip-Hop",
+    "date" : "2023-08-11T00:00:00Z",
+    "colorHex" : [ "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtX9QAJ.jpg?itok=aAQweizX",
-    "color" : "Red, White and Blue",
-    "reason" : "In Celebration of Fourth of July",
-    "date" : "2023-07-04T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhtbYQAR.jpg?itok=-QXcrqwM",
-    "color" : "Gold, Black and Aquamarine",
-    "reason" : "In Partnership with The Bahamas Consulate General in New York to Celebrate the 50th Anniversary of Independence",
-    "date" : "2023-07-10T00:00:00Z",
-    "colorHex" : [ "#FFD700", "#000000", "#7FFFD4" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvdvQAB.jpg?itok=_ZrCXjk1",
-    "color" : "Blue, White and Red",
-    "reason" : "In Partnership with The Consulate General of France in New York in Celebration of Bastille Day",
-    "date" : "2023-07-14T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFFFF", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvYeQAJ.jpg?itok=5wuLqh5l",
-    "color" : "White, Green and Purple",
-    "reason" : "In Celebration of the Wimbledon Championship",
-    "date" : "2023-07-15T00:00:00Z",
-    "colorHex" : [ "#FFFFFF", "#008000", "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvYoQAJ.jpg?itok=TD-Y4wsp",
-    "color" : "Tie Dye",
-    "reason" : "In Honor of Dead & Company’s Final Show",
-    "date" : "2023-07-16T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2023-07/82ea173c-c754-43bb-bc30-8fe945dc49b8.jpg?itok=q73qnWfr",
-    "color" : "Yellow, Blue and Red",
-    "reason" : "In Partnership with Expedia Group in Celebration of the Launch of One Key",
-    "date" : "2023-07-18T00:00:00Z",
-    "colorHex" : [ "#FFFF00", "#0000FF", "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/2023-07/red%20blue%20yellow.jpg?itok=Gsx5AduF",
-    "color" : "Red, Blue and Yellow",
-    "reason" : "In Partnership with the Consulate General of Colombia in New York in Celebration of Colombian Independence Day",
-    "date" : "2023-07-20T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#0000FF", "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhwNpQAJ.jpg?itok=-1gbc0g4",
-    "color" : "Split Lights: Blue and White Pinstripes for the New York Yankees and Orange and Blue for the New York Mets",
-    "reason" : "In Honor of the New York City Subway Series",
-    "date" : "2023-07-25T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvYtQAJ.jpg?itok=ogYcOOne",
-    "color" : "Split Lights: Blue and White Pinstripes for the New York Yankees and Orange and Blue for the New York Mets",
-    "reason" : "In Honor of the New York City Subway Series",
-    "date" : "2023-07-26T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhwb8QAB.jpg?itok=jCuv_pUj",
-    "color" : "Purple and Blue",
-    "reason" : "In Partnership with the Premier League in Celebration of the Summer Series",
-    "date" : "2023-07-28T00:00:00Z",
-    "colorHex" : [ "#800080", "#0000FF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhwIeQAJ.jpg?itok=FKt3R4UH",
+    "color" : "Green, White and Orange",
+    "reason" : "In Partnership with the Federation of Indian Associations in Celebration of India Day",
+    "date" : "2023-08-15T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
