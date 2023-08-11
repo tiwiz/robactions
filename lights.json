@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000FhvC0QAJ.jpg",
+  "todayColor" : "Gold COLOR",
+  "picture" : "/sites/default/files/a1r4P00000Fhw8lQAB.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvC0QAJ.jpg?itok=aCd0uGTO",
     "color" : "Blue",
@@ -20,5 +20,5 @@
     "date" : "2023-08-15T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFD700" ]
 }
