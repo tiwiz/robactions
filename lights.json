@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Gold COLOR",
-  "picture" : "/sites/default/files/a1r4P00000Fhw8lQAB.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvC0QAJ.jpg?itok=aCd0uGTO",
     "color" : "Blue",
@@ -19,6 +19,12 @@
     "reason" : "In Partnership with the Federation of Indian Associations in Celebration of India Day",
     "date" : "2023-08-15T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSwoQAH.jpg?itok=i_P9MAWV",
+    "color" : "Blue",
+    "reason" : "9:00 p.m. - 10:00 p.m.: In Celebration of Percy Jackson's Birthday",
+    "date" : "2023-08-18T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFD700" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
