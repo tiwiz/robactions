@@ -1,36 +1,60 @@
 {
-  "todayColor" : "Yellow and Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxW3nQAF.jpg",
+  "todayColor" : "Red, White and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000JxWNLQA3.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhvC0QAJ.jpg?itok=aCd0uGTO",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW3nQAF.jpg?itok=zYHmRyM3",
+    "color" : "Yellow and Green",
+    "reason" : "In Partnership with NYC Emergency Management to Mark the 20th Anniversary of CERT & Ready NY",
+    "date" : "2023-09-01T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWNLQA3.jpg?itok=-PEy5Y2Q",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day Weekend",
+    "date" : "2023-09-02T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWNMQA3.jpg?itok=0QXSAjpH",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day Weekend",
+    "date" : "2023-09-03T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWNQQA3.jpg?itok=g3Xg3BhB",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Labor Day Weekend",
+    "date" : "2023-09-04T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWZyQAN.jpg?itok=OLQJ-ra_",
+    "color" : "Blue, White and Green",
+    "reason" : "In Celebration of EXTRA TV’s 30th Anniversary",
+    "date" : "2023-09-06T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWY2QAN.jpg?itok=qB5v2HV6",
+    "color" : "Green, Yellow and Blue",
+    "reason" : "In Celebration of Brazilian Independence Day in Partnership with the Consulate General of Brazil in New York",
+    "date" : "2023-09-07T00:00:00Z",
+    "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWNVQA3.jpg?itok=1VFTrwyz",
     "color" : "Blue",
-    "reason" : "In Celebration of WABC’s 75th Anniversary",
-    "date" : "2023-08-10T00:00:00Z",
+    "reason" : "In Celebration of the New York Giants Home Opener",
+    "date" : "2023-09-10T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Fhw8lQAB.jpg?itok=pPd3bFD4",
-    "color" : "Gold",
-    "reason" : "In Partnership with Universal Music Group in Celebration of the 50th Anniversary of Hip-Hop",
-    "date" : "2023-08-11T00:00:00Z",
-    "colorHex" : [ "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhwIeQAJ.jpg?itok=FKt3R4UH",
-    "color" : "Green, White and Orange",
-    "reason" : "In Partnership with the Federation of Indian Associations in Celebration of India Day",
-    "date" : "2023-08-15T00:00:00Z",
-    "colorHex" : [ "#008000", "#FFFFFF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSwoQAH.jpg?itok=i_P9MAWV",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhsvhQAB.jpg?itok=J9jHGu5Z",
     "color" : "Blue",
-    "reason" : "9:00 p.m. - 10:00 p.m.: In Celebration of Percy Jackson's Birthday",
-    "date" : "2023-08-18T00:00:00Z",
+    "reason" : "In Partnership with 911 Memorial & Museum in Honor of the Citywide Commemoration: Tribute in Lights",
+    "date" : "2023-09-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW8HQAV.jpg?itok=7mHpTtQ-",
-    "color" : "Blue and Yellow",
-    "reason" : "To Mark the 2023 US Open Tennis Championships",
-    "date" : "2023-08-28T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFFF00" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWa3QAF.jpg?itok=Dqtuv-II",
+    "color" : "Rotation of Countries' Flags that Celebrate Hispanic Heritage Month",
+    "reason" : "In Honor of Hispanic Heritage Month",
+    "date" : "2023-09-21T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFF00", "#008000" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
