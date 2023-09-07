@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue, White and Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWZyQAN.jpg",
+  "todayColor" : "Green, Yellow and Blue COLOR",
+  "picture" : "/sites/default/files/a1r4P00000JxWY2QAN.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW3nQAF.jpg?itok=zYHmRyM3",
     "color" : "Yellow and Green",
@@ -38,6 +38,12 @@
     "date" : "2023-09-07T00:00:00Z",
     "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWQsQAN.jpg?itok=LdC9UZpq",
+    "color" : "Orange",
+    "reason" : "In Partnership with WME to Kick Off New York Fashion Week",
+    "date" : "2023-09-08T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWNVQA3.jpg?itok=1VFTrwyz",
     "color" : "Blue",
     "reason" : "In Celebration of the New York Giants Home Opener",
@@ -56,5 +62,5 @@
     "date" : "2023-09-21T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFFFFF", "#008000" ]
+  "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
 }
