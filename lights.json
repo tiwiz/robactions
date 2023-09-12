@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Green, Yellow and Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWY2QAN.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW3nQAF.jpg?itok=zYHmRyM3",
     "color" : "Yellow and Green",
@@ -56,11 +56,17 @@
     "date" : "2023-09-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWd7QAF.jpg?itok=SalELV7t",
+    "color" : "Red, White and Green",
+    "reason" : "In Celebration of Mexican Independence Day in Partnership with the Consulate General of Mexico in New York",
+    "date" : "2023-09-15T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWa3QAF.jpg?itok=Dqtuv-II",
     "color" : "Rotation of Countries' Flags that Celebrate Hispanic Heritage Month",
     "reason" : "In Honor of Hispanic Heritage Month",
     "date" : "2023-09-21T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#008000", "#FFFF00", "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
