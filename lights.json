@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Red, White and Green COLOR",
+  "picture" : "/sites/default/files/a1r4P00000JxWd7QAF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW3nQAF.jpg?itok=zYHmRyM3",
     "color" : "Yellow and Green",
@@ -62,11 +62,35 @@
     "date" : "2023-09-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWg1QAF.jpg?itok=M_lqoN5C",
+    "color" : "Dark Blue and Cyan",
+    "reason" : "In Partnership with iHeartMedia in Celebration of a New Vaccine",
+    "date" : "2023-09-16T00:00:00Z",
+    "colorHex" : [ "#00008B", "#00FFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWhdQAF.jpg?itok=bTdGSiNS",
+    "color" : "Blue",
+    "reason" : "In Partnership with Clinton Global Initiative in Celebration of Climate Week",
+    "date" : "2023-09-18T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWa3QAF.jpg?itok=Dqtuv-II",
     "color" : "Rotation of Countries' Flags that Celebrate Hispanic Heritage Month",
     "reason" : "In Honor of Hispanic Heritage Month",
     "date" : "2023-09-21T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW7xQAF.jpg?itok=lNQk_EXe",
+    "color" : "Red, Yellow, Blue",
+    "reason" : "In Partnership with CBS in Celebration of Survivor’s 45th Season",
+    "date" : "2023-09-26T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFF00", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWXTQA3.jpg?itok=PzVr9XM5",
+    "color" : "Red, Green, Yellow and Blue",
+    "reason" : "Celebrating 25 Years of Harry Potter",
+    "date" : "2023-09-27T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#008000", "#FFFF00", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
 }
