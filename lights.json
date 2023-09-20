@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWhdQAF.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxW3nQAF.jpg?itok=zYHmRyM3",
     "color" : "Yellow and Green",
@@ -56,6 +56,12 @@
     "date" : "2023-09-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000FhwIyQAJ.jpg?itok=ODx3gJep",
+    "color" : "Green",
+    "reason" : "In Partnership with Penguin Random House and Greenlights Grant Initiative to Celebrate 100 Weeks of Greenlights on the NYT Bestseller List",
+    "date" : "2023-09-12T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWd7QAF.jpg?itok=SalELV7t",
     "color" : "Red, White and Green",
     "reason" : "In Celebration of Mexican Independence Day in Partnership with the Consulate General of Mexico in New York",
@@ -92,5 +98,5 @@
     "date" : "2023-09-27T00:00:00Z",
     "colorHex" : [ "#FF0000", "#008000", "#FFFF00", "#0000FF" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
