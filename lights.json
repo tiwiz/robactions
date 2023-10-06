@@ -13,6 +13,36 @@
     "reason" : "In Honor of the Annual Empire State Building Run-Up Sponsored by MyFitnessPal",
     "date" : "2023-10-04T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxX5cQAF.jpg?itok=QR6DjwF7",
+    "color" : "Blue and Red",
+    "reason" : "In Partnership with NY Police and Fire Widows’ and Children’s Benefit Fund in Honor of Answer the Call Day",
+    "date" : "2023-10-08T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFIQA3.jpg?itok=8IAQRdFb",
+    "color" : "Red, White and Green",
+    "reason" : "In Honor of Indigenous Peoples’ Day",
+    "date" : "2023-10-09T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWPVQA3.jpg?itok=vxxwyywE",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders’ Home Opener",
+    "date" : "2023-10-14T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFNQA3.jpg?itok=z85xiNcz",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of the New York Rangers’ Home Opener",
+    "date" : "2023-10-16T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFSQA3.jpg?itok=dZc0BaHA",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks’ Home Opener",
+    "date" : "2023-10-25T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
