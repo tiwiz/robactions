@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Black and Yellow COLOR",
+  "picture" : "/sites/default/files/a1r4P00000JxXGLQA3.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSVJQA5.jpg?itok=oQ6FtUXd",
     "color" : "Light Pink & Dark Pink with Dynamic Pink Ribbon Scrolling in the Mast",
@@ -14,6 +14,12 @@
     "date" : "2023-10-04T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXGLQA3.jpg?itok=hKsK12VO",
+    "color" : "Black and Yellow",
+    "reason" : "In Partnership with Borussia Dortmund (BVB) in Honor of Street Soccer USA",
+    "date" : "2023-10-07T00:00:00Z",
+    "colorHex" : [ "#000000", "#FFFF00" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxX5cQAF.jpg?itok=QR6DjwF7",
     "color" : "Blue and Red",
     "reason" : "In Partnership with NY Police and Fire Widows’ and Children’s Benefit Fund in Honor of Answer the Call Day",
@@ -25,6 +31,12 @@
     "reason" : "In Honor of Indigenous Peoples’ Day",
     "date" : "2023-10-09T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWpyQAF.jpg?itok=g_PLJFtE",
+    "color" : "Blue",
+    "reason" : "In Partnership with New York City Ballet in Honor of the 75th Anniversary",
+    "date" : "2023-10-11T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWPVQA3.jpg?itok=vxxwyywE",
     "color" : "Blue and Orange",
@@ -38,11 +50,17 @@
     "date" : "2023-10-16T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxX5XQAV.jpg?itok=33lKrIhH",
+    "color" : "Orange",
+    "reason" : "In Celebration of ATEEZ’s 5th Anniversary",
+    "date" : "2023-10-24T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFSQA3.jpg?itok=dZc0BaHA",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the New York Knicks’ Home Opener",
     "date" : "2023-10-25T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#000000", "#FFFF00" ]
 }
