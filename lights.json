@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWpyQAF.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSVJQA5.jpg?itok=oQ6FtUXd",
     "color" : "Light Pink & Dark Pink with Dynamic Pink Ribbon Scrolling in the Mast",
@@ -20,6 +20,12 @@
     "date" : "2023-10-07T00:00:00Z",
     "colorHex" : [ "#000000", "#FFFF00" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXYtQAN.jpg?itok=oOCTbnZR",
+    "color" : "Blue and White",
+    "reason" : "Colors of the Israeli Flag",
+    "date" : "2023-10-07T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxX5cQAF.jpg?itok=QR6DjwF7",
     "color" : "Blue and Red",
     "reason" : "In Partnership with NY Police and Fire Widows’ and Children’s Benefit Fund in Honor of Answer the Call Day",
@@ -37,6 +43,18 @@
     "reason" : "In Partnership with New York City Ballet in Honor of the 75th Anniversary",
     "date" : "2023-10-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXYyQAN.jpg?itok=jrVNjqtS",
+    "color" : "Black and Yellow",
+    "reason" : "In Partnership with FOX Sports in Celebration of NFL on FOX’s 30th Anniversary",
+    "date" : "2023-10-13T00:00:00Z",
+    "colorHex" : [ "#000000", "#FFFF00" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXZ3QAN.jpg?itok=RrhB4Ilt",
+    "color" : "Blue and White",
+    "reason" : "10 p.m. to sunrise: Colors of the Israeli Flag",
+    "date" : "2023-10-13T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWPVQA3.jpg?itok=vxxwyywE",
     "color" : "Blue and Orange",
@@ -62,5 +80,5 @@
     "date" : "2023-10-25T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
