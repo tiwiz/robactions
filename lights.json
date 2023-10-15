@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Orange COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWPVQA3.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSVJQA5.jpg?itok=oQ6FtUXd",
     "color" : "Light Pink & Dark Pink with Dynamic Pink Ribbon Scrolling in the Mast",
@@ -74,5 +74,5 @@
     "date" : "2023-10-25T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
