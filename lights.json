@@ -68,17 +68,29 @@
     "date" : "2023-10-18T00:00:00Z",
     "colorHex" : [ "#800080" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxX5XQAV_0.jpg?itok=TKCVZhR7",
-    "color" : "Orange",
-    "reason" : "In Celebration of ATEEZ’s 5th Anniversary",
-    "date" : "2023-10-24T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFSQA3.jpg?itok=dZc0BaHA",
     "color" : "Blue and Orange",
     "reason" : "In Celebration of the New York Knicks’ Home Opener",
     "date" : "2023-10-25T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWPQQA3.jpg?itok=h85DdBrb",
+    "color" : "Blue and Yellow",
+    "reason" : "In Partnership with Afterschool Alliance in Honor of the Lights on Afterschool Campaign",
+    "date" : "2023-10-26T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFF00" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxWQnQAN.jpg?itok=AlcEfb6n",
+    "color" : "Green",
+    "reason" : "In Celebration of WICKED's 20th Anniversary",
+    "date" : "2023-10-30T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkiaLQAR.jpg?itok=jZwlrYtK",
+    "color" : "Spooky LED Lighting Effects Featuring Pumpkins, Witches and Ghosts in the Mast Along with Flashing Lights",
+    "reason" : "In Celebration of Halloween",
+    "date" : "2023-10-31T00:00:00Z",
+    "colorHex" : [ ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
