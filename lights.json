@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Yellow COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxWPQQA3.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JTSVJQA5.jpg?itok=oQ6FtUXd",
     "color" : "Light Pink & Dark Pink with Dynamic Pink Ribbon Scrolling in the Mast",
@@ -34,7 +34,7 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXFIQA3.jpg?itok=8IAQRdFb",
     "color" : "Red, White and Green",
-    "reason" : "In Honor of Indigenous Peoples’ Day",
+    "reason" : "In Honor of Italian Heritage Day/Indigenous Peoples’ Day",
     "date" : "2023-10-09T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#008000" ]
   }, {
@@ -92,5 +92,5 @@
     "date" : "2023-10-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFFF00" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
