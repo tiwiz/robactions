@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green and Yellow COLOR",
+  "picture" : "/sites/default/files/a1r4P00000JxWbfQAF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -22,7 +22,7 @@
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkiaGQAR_0.jpg?itok=DGc6t0I1",
     "color" : "Yellow and Black",
-    "reason" : "In Partnership with Iconic Artists Group in Celebration of the 30th Anniversary of Wu-Tang Clan’s Debut Album",
+    "reason" : "",
     "date" : "2023-11-09T00:00:00Z",
     "colorHex" : [ "#FFFF00", "#000000" ]
   }, {
@@ -50,5 +50,5 @@
     "date" : "2023-11-17T00:00:00Z",
     "colorHex" : [ "#FF0000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000", "#FFFF00" ]
 }
