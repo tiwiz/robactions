@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Yellow COLOR",
+  "picture" : "/sites/default/files/a1r4P00000Bkig4QAB.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -56,6 +56,12 @@
     "date" : "2023-11-16T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFF00" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000WF3xYAG.jpg?itok=UPHgfSPX",
+    "color" : "Light Blue",
+    "reason" : "7:00 pm – 8:00 pm: In Celebration of Gotham FC Winning the NWSL Championship",
+    "date" : "2023-11-16T00:00:00Z",
+    "colorHex" : [ "#ADD8E6" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000JxXT0QAN.jpg?itok=ANRzzg0K",
     "color" : "Red and Green",
     "reason" : "In Partnership with Madison Square Garden Entertainment in Celebration of the Radio City Rockettes’ Christmas Spectacular Opening Night",
@@ -80,11 +86,17 @@
     "date" : "2023-11-20T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFD700", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000WF5ZYAW.jpg?itok=fN8BjGhC",
+    "color" : "Blue",
+    "reason" : "In Celebration of NFL on FOX’s 30th Anniversary",
+    "date" : "2023-11-22T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000UKqvYAG.jpg?itok=B6UpwNdF",
     "color" : "Fall Fades",
     "reason" : "In Honor of Thanksgiving",
     "date" : "2023-11-23T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFFF00" ]
 }
