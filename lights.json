@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red and Green COLOR",
-  "picture" : "/sites/default/files/a1r4P00000JxXT0QAN.jpg",
+  "todayColor" : "Split Lights: Red, White and Blue & Red COLOR",
+  "picture" : "/sites/default/files/a1rVV000000TlI5YAK.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -98,5 +98,5 @@
     "date" : "2023-11-23T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#008000" ]
+  "colorHex" : [ "#FFFFFF", "#0000FF", "#FF0000" ]
 }
