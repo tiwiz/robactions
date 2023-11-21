@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue, Gold and White COLOR",
-  "picture" : "/sites/default/files/a1r4P00000BkicRQAR.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -81,10 +81,10 @@
     "colorHex" : [ "#FF0000", "#800080" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkicRQAR.jpg?itok=AY8R7kJ0",
-    "color" : "Blue, Gold and White",
+    "color" : "Blue, Orange and White",
     "reason" : "In Partnership with NBC Entertainment in Honor of The National Dog Show",
     "date" : "2023-11-20T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFD700", "#FFFFFF" ]
+    "colorHex" : [ "#0000FF", "#FFA500", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000WF5ZYAW.jpg?itok=fN8BjGhC",
     "color" : "Blue",
@@ -98,5 +98,5 @@
     "date" : "2023-11-23T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFD700", "#FFFFFF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
