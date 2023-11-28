@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue & Orange or Red COLOR",
+  "picture" : "/sites/default/files/a1rVV000000rEWHYA2.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -97,6 +97,12 @@
     "reason" : "In Honor of Thanksgiving",
     "date" : "2023-11-23T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000rEWHYA2.jpg?itok=kpV-Srhb",
+    "color" : "Blue & Orange or Red",
+    "reason" : "Lights will shine for winner of New York Islanders vs. New Jersey Devils for 1 hour following the game",
+    "date" : "2023-11-28T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
