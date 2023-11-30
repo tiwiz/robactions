@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Silver with Red, Purple, Blue and Green Stripes COLOR",
+  "picture" : "/sites/default/files/a1r4P00000BkiafQAB.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -103,6 +103,12 @@
     "reason" : "Lights will shine for winner of New York Islanders vs. New Jersey Devils for 1 hour following the game",
     "date" : "2023-11-28T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkiafQAB.jpg?itok=mEue894W",
+    "color" : "Silver with Red, Purple, Blue and Green Stripes",
+    "reason" : "In Honor of the KISS End of the Road World Tour",
+    "date" : "2023-11-30T00:00:00Z",
+    "colorHex" : [ "#800080", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#800080", "#0000FF" ]
 }
