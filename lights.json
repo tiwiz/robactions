@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Silver with Red, Purple, Blue and Green Stripes COLOR",
-  "picture" : "/sites/default/files/a1r4P00000BkiafQAB.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000BkifBQAR.jpg?itok=VkC44nby",
     "color" : "Red and White",
@@ -110,5 +110,5 @@
     "date" : "2023-11-30T00:00:00Z",
     "colorHex" : [ "#800080", "#0000FF" ]
   } ],
-  "colorHex" : [ "#800080", "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
