@@ -49,6 +49,30 @@
     "reason" : "In Celebration of Hanukkah",
     "date" : "2023-12-14T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zO9YAI.jpg?itok=1DfQN95f",
+    "color" : "Split Lights: White and Black & Blue and Orange",
+    "reason" : "To Celebrate New York Nets vs. New York Knicks. The Empire State Building will light in the winner's colors for the remainder of the night.",
+    "date" : "2023-12-20T00:00:00Z",
+    "colorHex" : [ "#000000", "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zQ1YAI.jpg?itok=v7nb-RL1",
+    "color" : "Red & Green with a Candy Cane in the Mast",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2023-12-24T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zRdYAI.jpg?itok=tj3uYEvJ",
+    "color" : "Red & Green with a Candy Cane in the Mast",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2023-12-25T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zTFYAY.jpg?itok=tUSMqmVV",
+    "color" : "Red & Green with a Candy Cane in the Mast",
+    "reason" : "In Celebration of Christmas",
+    "date" : "2023-12-26T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
