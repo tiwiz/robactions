@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
+  "picture" : "/sites/default/files/a1rVV000000r6s5YAA.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -8,17 +8,23 @@
     "date" : "2023-12-07T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6qTYAQ.jpg?itok=KTb5PUBY",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6qTYAQ_0.jpg?itok=I5RWDC7M",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Hanukkah",
     "date" : "2023-12-08T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6orYAA.jpg?itok=iyVbS8iS",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6orYAA_0.jpg?itok=X3jKFh7Q",
     "color" : "Blue and White with a Flickering Candle in the Mast",
     "reason" : "In Celebration of Hanukkah",
     "date" : "2023-12-09T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000010RhBYAU.jpg?itok=lfhlF_rM",
+    "color" : "Sky Blue and Electric Blue",
+    "reason" : "In Celebration of Manchester City’s Treble Trophy Tour",
+    "date" : "2023-12-09T00:00:00Z",
+    "colorHex" : [ "#87CEEB" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6yXYAQ.jpg?itok=GGUGPp8y",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -74,5 +80,5 @@
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
