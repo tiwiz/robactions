@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Sky Blue and Electric Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV0000010RhBYAU.jpg",
+  "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
+  "picture" : "/sites/default/files/a1rVV000000r6yXYAQ.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -74,5 +74,5 @@
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#87CEEB" ]
+  "colorHex" : [ "#0000FF" ]
 }
