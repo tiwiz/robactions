@@ -1,6 +1,6 @@
 {
   "todayColor" : "Blue and White with a Flickering Candle in the Mast COLOR",
-  "picture" : "/sites/default/files/a1rVV000000r74zYAA.jpg",
+  "picture" : "/sites/default/files/a1rVV000000r76bYAA.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -32,11 +32,11 @@
     "date" : "2023-12-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r74zYAA.jpg?itok=ci17n34s",
-    "color" : "Blue and White with a Flickering Candle in the Mast",
-    "reason" : "In Celebration of Hanukkah",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000vo9lYAA.jpg?itok=Yq175Dgl",
+    "color" : "Purple",
+    "reason" : "In Celebration of ‘The Color Purple’ Premiere",
     "date" : "2023-12-12T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "colorHex" : [ "#800080" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r76bYAA.jpg?itok=6quIFvkb",
     "color" : "Blue and White with a Flickering Candle in the Mast",
