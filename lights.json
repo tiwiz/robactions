@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Burgundy and White COLOR",
+  "picture" : "/sites/default/files/a1rVV000001aLrlYAE.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -49,6 +49,12 @@
     "reason" : "In Celebration of Hanukkah",
     "date" : "2023-12-14T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001aLrlYAE.jpg?itok=M2LHSejw",
+    "color" : "Burgundy and White",
+    "reason" : "To Celebrate Qatar National Day",
+    "date" : "2023-12-18T00:00:00Z",
+    "colorHex" : [ "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zO9YAI.jpg?itok=1DfQN95f",
     "color" : "Split Lights: White and Black & Blue and Orange",
