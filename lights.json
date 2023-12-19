@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Burgundy and White COLOR",
-  "picture" : "/sites/default/files/a1rVV000001aLrlYAE.jpg",
+  "todayColor" : "Yellow and Blue COLOR",
+  "picture" : "/sites/default/files/a1rVV000001PxcDYAS.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -56,11 +56,23 @@
     "date" : "2023-12-18T00:00:00Z",
     "colorHex" : [ "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001PxcDYAS.jpg?itok=Vp9ndUyq",
+    "color" : "Yellow and Blue",
+    "reason" : "To Support Ukraine and Honor the Work of the Lubetzky Family Foundation",
+    "date" : "2023-12-19T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zO9YAI.jpg?itok=1DfQN95f",
     "color" : "Split Lights: White and Black & Blue and Orange",
     "reason" : "To Celebrate New York Nets vs. New York Knicks. The Empire State Building will light in the winner's colors for the remainder of the night.",
     "date" : "2023-12-20T00:00:00Z",
     "colorHex" : [ "#000000", "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001B3WfYAK.jpg?itok=yTETXTPP",
+    "color" : "Blue",
+    "reason" : "In Celebration of the Percy Jackson Series Premiere",
+    "date" : "2023-12-20T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000016zQ1YAI.jpg?itok=v7nb-RL1",
     "color" : "Red & Green with a Candy Cane in the Mast",
@@ -80,5 +92,5 @@
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FFFF00", "#0000FF" ]
 }
