@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Yellow and Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV000001PxcDYAS.jpg",
+  "todayColor" : "Split Lights: White and Black & Blue and Orange COLOR",
+  "picture" : "/sites/default/files/a1rVV0000016zO9YAI.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -56,9 +56,9 @@
     "date" : "2023-12-18T00:00:00Z",
     "colorHex" : [ "#FFFFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001PxcDYAS.jpg?itok=Vp9ndUyq",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001PxcDYAS_0.jpg?itok=7U1mPNBx",
     "color" : "Yellow and Blue",
-    "reason" : "To Support Ukraine and Honor the Work of the Lubetzky Family Foundation",
+    "reason" : "To Support Ukraine and Honor the Work of BlueCheck Ukraine and Builders Ukraine",
     "date" : "2023-12-19T00:00:00Z",
     "colorHex" : [ "#FFFF00", "#0000FF" ]
   }, {
@@ -92,5 +92,5 @@
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#FFFF00", "#0000FF" ]
+  "colorHex" : [ "#000000", "#0000FF", "#FFA500" ]
 }
