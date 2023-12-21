@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Split Lights: White and Black & Blue and Orange COLOR",
-  "picture" : "/sites/default/files/a1rVV0000016zO9YAI.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000000r6s5YAA.jpg?itok=tGhQokpS",
     "color" : "Blue and White with a Flickering Candle in the Mast",
@@ -92,5 +92,5 @@
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   } ],
-  "colorHex" : [ "#000000", "#0000FF", "#FFA500" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
