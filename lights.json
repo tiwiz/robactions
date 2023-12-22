@@ -91,6 +91,12 @@
     "reason" : "In Celebration of Christmas",
     "date" : "2023-12-26T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000Bkif1QAB.jpg?itok=gXAEW4B0",
+    "color" : "Split Lights: Red for Rutgers and Green and Orange for University of Miami",
+    "reason" : "In Celebration of the 2023 Bad Boy Mowers Pinstripe Bowl",
+    "date" : "2023-12-27T00:00:00Z",
+    "colorHex" : [ "#008000" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
