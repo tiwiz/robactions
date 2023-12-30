@@ -1,5 +1,21 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703913607814_28.jpg",
+    "description" : "Image from Dec 30, 2023 at 12:20 AM",
+    "timestamp" : "1703913607"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703913590680_25.jpg",
+    "description" : "Image from Dec 30, 2023 at 12:19 AM",
+    "timestamp" : "1703913591"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703913573132_20.jpg",
+    "description" : "Image from Dec 30, 2023 at 12:19 AM",
+    "timestamp" : "1703913573"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703913558459_53.jpg",
+    "description" : "Image from Dec 30, 2023 at 12:19 AM",
+    "timestamp" : "1703913558"
+  }, {
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703517474664_57.jpg",
     "description" : "",
     "timestamp" : "1703517474"
@@ -83,22 +99,6 @@
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/11/1700702544829_33.jpg",
     "description" : "Image from Nov 22, 2023 at 8:22 PM",
     "timestamp" : "1700702544"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/11/1700701515512_96.jpg",
-    "description" : "Image from Nov 22, 2023 at 8:05 PM",
-    "timestamp" : "1700701515"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/11/1700701500771_19.jpg",
-    "description" : "Image from Nov 22, 2023 at 8:04 PM",
-    "timestamp" : "1700701500"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/11/1700432210326_75.jpg",
-    "description" : "",
-    "timestamp" : "1700432210"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/11/1700368584886_33.jpg",
-    "description" : "Image from Nov 18, 2023 at 11:36 PM",
-    "timestamp" : "1700368585"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
