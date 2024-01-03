@@ -1,5 +1,17 @@
 {
   "images" : [ {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2024/01/1704248262108_97.jpg",
+    "description" : "Image from Jan 02, 2024 at 9:17 PM",
+    "timestamp" : "1704248262"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2024/01/1704248236531_5.jpg",
+    "description" : "Image from Jan 02, 2024 at 9:17 PM",
+    "timestamp" : "1704248237"
+  }, {
+    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2024/01/1704248228433_22.jpg",
+    "description" : "Image from Jan 02, 2024 at 9:17 PM",
+    "timestamp" : "1704248228"
+  }, {
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2024/01/1704158925422_75.jpg",
     "description" : "Image from Jan 01, 2024 at 8:28 PM",
     "timestamp" : "1704158925"
@@ -87,18 +99,6 @@
     "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703306163181_19.jpg",
     "description" : "Image from Dec 22, 2023 at 11:36 PM",
     "timestamp" : "1703306163"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1703306144298_97.jpg",
-    "description" : "Image from Dec 22, 2023 at 11:35 PM",
-    "timestamp" : "1703306144"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1702774895611_14.jpg",
-    "description" : "Image from Dec 16, 2023 at 8:01 PM",
-    "timestamp" : "1702774895"
-  }, {
-    "image" : "https://static.earthcam.com//hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2023/12/1702774878760_22.jpg",
-    "description" : "Image from Dec 16, 2023 at 8:01 PM",
-    "timestamp" : "1702774878"
   }, {
     "image" : "https://static.earthcam.com/hof/publicpages/208d600d317dc6ae2fb4bd0ca3d4746c/2021/05/1621850397778_86.jpg",
     "description" : "Image from May 24, 2021 at 5:59 AM  Temp: 62°F, RH: 53.40%, Dew Point: 45 °F",
