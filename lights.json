@@ -1,6 +1,6 @@
 {
   "todayColor" : "Red & Green with a Candy Cane in the Mast COLOR",
-  "picture" : "/sites/default/files/a1rVV000001tbG5YAI.jpg",
+  "picture" : "/sites/default/files/a1rVV000001tg9JYAQ.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb1ZYAQ.jpg?itok=GGBDbU7K",
     "color" : "Red & Green with a Candy Cane in the Mast",
@@ -43,6 +43,12 @@
     "reason" : "In honor of the College Football Playoff National Championship in Partnership with College Football Playoff. The building will light in the winning team’s colors at the end of the game for the remainder of the night.",
     "date" : "2024-01-08T00:00:00Z",
     "colorHex" : [ "#800080" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001u52rYAA.jpg?itok=zplpO9t-",
+    "color" : "White and Teal",
+    "reason" : "In Partnership with Professional Women’s Hockey League in Celebration of the New York Team’s Season Opener Game at UBS Arena",
+    "date" : "2024-01-09T00:00:00Z",
+    "colorHex" : [ "#FFFFFF", "#008080" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001nOGjYAM.jpg?itok=lPGybx82",
     "color" : "Pink",
