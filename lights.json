@@ -1,6 +1,6 @@
 {
-  "todayColor" : "White and Teal COLOR",
-  "picture" : "/sites/default/files/a1rVV000001u52rYAA.jpg",
+  "todayColor" : "Pink COLOR",
+  "picture" : "/sites/default/files/a1rVV000001nOGjYAM.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb1ZYAQ.jpg?itok=GGBDbU7K",
     "color" : "Red & Green with a Candy Cane in the Mast",
@@ -62,5 +62,5 @@
     "date" : "2024-01-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
   } ],
-  "colorHex" : [ "#FFFFFF", "#008080" ]
+  "colorHex" : [ "#FFC0CB" ]
 }
