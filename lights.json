@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Pink COLOR",
-  "picture" : "/sites/default/files/a1rVV000001nOGjYAM.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb1ZYAQ.jpg?itok=GGBDbU7K",
     "color" : "Red & Green with a Candy Cane in the Mast",
@@ -38,8 +38,8 @@
     "date" : "2024-01-06T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001NZFpYAO.jpg?itok=9F9AOomY",
-    "color" : "Split Lights: Blue and Yellow for University of Michigan & Purple and Gold for University of Washington",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001NZFpYAO_0.jpg?itok=UCkmqaW4",
+    "color" : "Split Lights: Blue and Maize for University of Michigan & Purple and Gold for University of Washington",
     "reason" : "In honor of the College Football Playoff National Championship in Partnership with College Football Playoff. The building will light in the winning team’s colors at the end of the game for the remainder of the night.",
     "date" : "2024-01-08T00:00:00Z",
     "colorHex" : [ "#800080" ]
@@ -61,6 +61,12 @@
     "reason" : "In Honor of Martin Luther King Jr. Day",
     "date" : "2024-01-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001Uqa5YAC.jpg?itok=EeBFArSE",
+    "color" : "Yellow",
+    "reason" : "In Honor of Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
+    "date" : "2024-01-27T00:00:00Z",
+    "colorHex" : [ "#FFFF00" ]
   } ],
-  "colorHex" : [ "#FFC0CB" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
