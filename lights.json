@@ -62,6 +62,12 @@
     "date" : "2024-01-15T00:00:00Z",
     "colorHex" : [ "#FF0000", "#000000", "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002KCGnYAO.jpg?itok=v73AoFLx",
+    "color" : "Split Lights: Blue and Orange for New York Knicks & White and Black for Brooklyn Nets",
+    "reason" : "In Celebration of the Knicks vs. Nets Game. The Empire State Building will light in the winning team’s colors at the end of the game for the remainder of the night",
+    "date" : "2024-01-23T00:00:00Z",
+    "colorHex" : [ "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001Uqa5YAC.jpg?itok=EeBFArSE",
     "color" : "Yellow",
     "reason" : "In Honor of Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
