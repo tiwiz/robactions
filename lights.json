@@ -73,6 +73,12 @@
     "reason" : "In Honor of Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
     "date" : "2024-01-27T00:00:00Z",
     "colorHex" : [ "#FFFF00" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002eYBVYA2.jpg?itok=ShCFidKA",
+    "color" : "Red, Gold and White for the Kansas City Chiefs or Purple and Gold for the Baltimore Ravens",
+    "reason" : "In Celebration of the Winner of the NFC Conference Championship Game",
+    "date" : "2024-01-28T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFD700" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
