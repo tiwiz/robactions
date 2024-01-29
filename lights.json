@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Red, Gold and White for the Kansas City Chiefs or Purple and Gold for the Baltimore Ravens COLOR",
-  "picture" : "/sites/default/files/a1rVV000002eYBVYA2.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb1ZYAQ.jpg?itok=GGBDbU7K",
     "color" : "Red & Green with a Candy Cane in the Mast",
@@ -74,11 +74,17 @@
     "date" : "2024-01-27T00:00:00Z",
     "colorHex" : [ "#FFFF00" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002eYBVYA2.jpg?itok=ShCFidKA",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002igiLYAQ.jpg?itok=roJZtPiM",
     "color" : "Red, Gold and White for the Kansas City Chiefs or Purple and Gold for the Baltimore Ravens",
-    "reason" : "In Celebration of the Winner of the NFC Conference Championship Game",
+    "reason" : "In Celebration of the Winner of the AFC Conference Championship Game",
     "date" : "2024-01-28T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFD700" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002igjxYAA.jpg?itok=U4RZgtgY",
+    "color" : "Light Blue for the Detroit Lions or Red and Gold for the San Francisco 49ers",
+    "reason" : "In Celebration of the Winner of the NFC Conference Championship Game",
+    "date" : "2024-01-28T00:00:00Z",
+    "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FF0000", "#FFD700" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
