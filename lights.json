@@ -2,89 +2,47 @@
   "todayColor" : "Signature White Color",
   "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb1ZYAQ.jpg?itok=GGBDbU7K",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-01T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
+    "color" : "Red",
+    "reason" : "In Honor of the American Heart Association Wear Red Campaign",
+    "date" : "2024-02-02T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb4nYAA.jpg?itok=i9rUBGOq",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-02T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002KQ8TYAW.jpg?itok=Ml-9FYG_",
+    "color" : "Red",
+    "reason" : "In Celebration of Lunar New Year",
+    "date" : "2024-02-08T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tb6PYAQ.jpg?itok=cHYQqdoa",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-03T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tbCrYAI.jpg?itok=ou2tbT7f",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-04T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tbG5YAI.jpg?itok=8yBdS3Uy",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-05T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001tg9JYAQ.jpg?itok=wfgKmkO0",
-    "color" : "Red & Green with a Candy Cane in the Mast",
-    "reason" : "In Celebration of Christmas",
-    "date" : "2024-01-06T00:00:00Z",
-    "colorHex" : [ "#FF0000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001NZFpYAO_0.jpg?itok=UCkmqaW4",
-    "color" : "Split Lights: Blue and Maize for University of Michigan & Purple and Gold for University of Washington",
-    "reason" : "In honor of the College Football Playoff National Championship in Partnership with College Football Playoff. The building will light in the winning team’s colors at the end of the game for the remainder of the night.",
-    "date" : "2024-01-08T00:00:00Z",
-    "colorHex" : [ "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001u52rYAA.jpg?itok=zplpO9t-",
-    "color" : "White and Teal",
-    "reason" : "In Partnership with Professional Women’s Hockey League in Celebration of the New York Team’s Season Opener Game at UBS Arena",
-    "date" : "2024-01-09T00:00:00Z",
-    "colorHex" : [ "#FFFFFF", "#008080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001nOGjYAM.jpg?itok=lPGybx82",
-    "color" : "Pink",
-    "reason" : "In Celebration of the Mean Girls Movie Premiere in Partnership with Paramount and Girls Inc.",
-    "date" : "2024-01-10T00:00:00Z",
-    "colorHex" : [ "#FFC0CB" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001vS73YAE.jpg?itok=yIho7U5U",
-    "color" : "Red, Black and Green",
-    "reason" : "In Honor of Martin Luther King Jr. Day",
-    "date" : "2024-01-15T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002KCGnYAO.jpg?itok=v73AoFLx",
-    "color" : "Split Lights: Blue and Orange for New York Knicks & White and Black for Brooklyn Nets",
-    "reason" : "In Celebration of the Knicks vs. Nets Game. The Empire State Building will light in the winning team’s colors at the end of the game for the remainder of the night",
-    "date" : "2024-01-23T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000001Uqa5YAC.jpg?itok=EeBFArSE",
-    "color" : "Yellow",
-    "reason" : "In Honor of Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity",
-    "date" : "2024-01-27T00:00:00Z",
-    "colorHex" : [ "#FFFF00" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002igiLYAQ.jpg?itok=roJZtPiM",
-    "color" : "Red, Gold and White for the Kansas City Chiefs or Purple and Gold for the Baltimore Ravens",
-    "reason" : "In Celebration of the Winner of the AFC Conference Championship Game",
-    "date" : "2024-01-28T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFD700" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002igjxYAA.jpg?itok=U4RZgtgY",
-    "color" : "Light Blue for the Detroit Lions or Red and Gold for the San Francisco 49ers",
-    "reason" : "In Celebration of the Winner of the NFC Conference Championship Game",
-    "date" : "2024-01-28T00:00:00Z",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLADYA4.jpg?itok=zQcWC-QN",
+    "color" : "Pink Heartbeat",
+    "reason" : "In Celebration of Valentine's Day",
+    "date" : "2024-02-14T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002ozwnYAA.jpg?itok=tiQ1BKCN",
+    "color" : "Split Lights: Red, White and Blue for the New York Rangers & Blue and Orange for the New York Islanders",
+    "reason" : "In Celebration of the New York Rangers vs. New York Islanders Game. The Empire State Building will light in the winner’s colors at the end of the game.",
+    "date" : "2024-02-18T00:00:00Z",
+    "colorHex" : [ "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OL5OYAW.jpg?itok=M9TZEgF6",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of President's Day",
+    "date" : "2024-02-19T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002ACWbYAO.jpg?itok=UWgGveX9",
+    "color" : "Red",
+    "reason" : "In Celebration of Ringling Bros. and Barnum & Bailey’s World Premiere",
+    "date" : "2024-02-20T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002p085YAA.jpg?itok=kM--h0wx",
+    "color" : "Split Lights: Red, White and Blue for the New York Rangers and Red for the New Jersey Devils",
+    "reason" : "In Celebration of the New York Rangers vs. New Jersey Devils Game. The Empire State Building will light in the winner's colors at the end of the game.",
+    "date" : "2024-02-22T00:00:00Z",
+    "colorHex" : [ "#FFFFFF" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
