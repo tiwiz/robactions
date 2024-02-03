@@ -1,12 +1,18 @@
 {
-  "todayColor" : "Red COLOR",
-  "picture" : "/sites/default/files/a1rVV000002RSlRYAW.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
     "reason" : "In Honor of the American Heart Association Wear Red Campaign",
     "date" : "2024-02-02T00:00:00Z",
     "colorHex" : [ "#FF0000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002wLEDYA2.jpg?itok=v9Cd3DXB",
+    "color" : "Navy Blue and Teal",
+    "reason" : "In Celebration of FIFA World Cup 26 Schedule Announcement",
+    "date" : "2024-02-04T00:00:00Z",
+    "colorHex" : [ "#008080" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002KQ8TYAW.jpg?itok=Ml-9FYG_",
     "color" : "Red",
@@ -56,5 +62,5 @@
     "date" : "2024-02-24T00:00:00Z",
     "colorHex" : [ "#FFFF00", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FF0000" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
