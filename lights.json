@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Virtual Scoreboard COLOR",
+  "picture" : "/sites/default/files/a1rVV000002rrZhYAI.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
@@ -62,5 +62,5 @@
     "date" : "2024-02-24T00:00:00Z",
     "colorHex" : [ "#FFFF00", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
