@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Split Lights: Red, White and Blue for the New York Rangers & Blue and Orange for the New York Islanders COLOR",
-  "picture" : "/sites/default/files/a1rVV000002ozwnYAA.jpg",
+  "todayColor" : "Red, White and Blue COLOR",
+  "picture" : "/sites/default/files/a1rVV000002OL5OYAW.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
@@ -68,5 +68,5 @@
     "date" : "2024-02-27T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFF00" ]
   } ],
-  "colorHex" : [ "#FFFFFF", "#0000FF" ]
+  "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
 }
