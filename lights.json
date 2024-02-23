@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Split Lights: Red, White and Blue for the New York Rangers and Red for the New Jersey Devils COLOR",
-  "picture" : "/sites/default/files/a1rVV000002p085YAA.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
@@ -68,11 +68,11 @@
     "date" : "2024-02-27T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFF00" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002c3VBYAY-1708533464.jpg?itok=34epSWG-",
-    "color" : "Rocket Pharma - 2/29/2024",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL_0.jpg?itok=hql4BaSM",
+    "color" : "Purple, Green, Blue and Pink",
     "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
     "date" : "2024-02-29T00:00:00Z",
-    "colorHex" : [ ]
+    "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
   "colorHex" : [ "#FFFFFF" ]
 }
