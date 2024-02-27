@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue and Yellow COLOR",
+  "picture" : "/sites/default/files/a1rVV000002CBkvYAG.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
@@ -51,16 +51,22 @@
     "colorHex" : [ "#FF0000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002p085YAA.jpg?itok=kM--h0wx",
-    "color" : "Split Lights: Red, White and Blue for the New York Rangers and Red for the New Jersey Devils",
-    "reason" : "In Celebration of the New York Rangers vs. New Jersey Devils Game. The Empire State Building will light in the winner's colors at the end of the game.",
+    "color" : "Red, White and Blue for the New York Rangers or Red for the New Jersey Devils",
+    "reason" : "In Celebration of the New York Rangers vs. New Jersey Devils Game. The Empire State Building will shine in the winner's colors following the game.",
     "date" : "2024-02-22T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002rscDYAQ.jpg?itok=Bf_aqsNq",
     "color" : "Yellow and Blue",
     "reason" : "In Support of Ukraine",
     "date" : "2024-02-24T00:00:00Z",
     "colorHex" : [ "#FFFF00", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000004Ig05YAC-1708984776.jpg?itok=Tlnk_xsp",
+    "color" : "Red",
+    "reason" : "In Partnership with NBC Entertainment in Celebration of the Premiere of \"The Voice\" Season 25",
+    "date" : "2024-02-26T00:00:00Z",
+    "colorHex" : [ "#FF0000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002CBkvYAG.jpg?itok=Ypp-eFhg",
     "color" : "Blue and Yellow",
@@ -74,5 +80,5 @@
     "date" : "2024-02-29T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF", "#FFFF00" ]
 }
