@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Yellow COLOR",
-  "picture" : "/sites/default/files/a1rVV000002CBkvYAG.jpg",
+  "todayColor" : "Red, Black and Green COLOR",
+  "picture" : "/sites/default/files/a1rVV000004RSYzYAO-1709064887.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002RSlRYAW.jpg?itok=iBNfLNDk",
     "color" : "Red",
@@ -74,11 +74,17 @@
     "date" : "2024-02-27T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFF00" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000004RSYzYAO-1709064887.jpg?itok=DT2YiwJx",
+    "color" : "Red, Black and Green",
+    "reason" : "In Honor of Black History Month",
+    "date" : "2024-02-28T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#000000", "#008000" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1r4P00000CCeVwQAL_0.jpg?itok=hql4BaSM",
     "color" : "Purple, Green, Blue and Pink",
     "reason" : "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day",
     "date" : "2024-02-29T00:00:00Z",
     "colorHex" : [ "#800080", "#008000", "#0000FF", "#FFC0CB" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFFF00" ]
+  "colorHex" : [ "#FF0000", "#000000", "#008000" ]
 }
