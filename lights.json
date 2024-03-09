@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Light Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV000004Y0WLYA0-1709144264.jpg",
+  "todayColor" : "Red, Yellow, White, and Blue COLOR",
+  "picture" : "/sites/default/files/a1rVV000002qIfdYAE-1709147867.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000004Y0WLYA0-1709144264.jpg?itok=yPKkjFTW",
     "color" : "Light Blue",
@@ -38,5 +38,5 @@
     "date" : "2024-03-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#ADD8E6" ]
+  "colorHex" : [ "#FF0000", "#FFFF00", "#FFFFFF", "#0000FF" ]
 }
