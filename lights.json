@@ -14,6 +14,12 @@
     "date" : "2024-03-09T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFF00", "#FFFFFF", "#0000FF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000005AiXxYAK-1710172840.jpg?itok=vwfnqUX5",
+    "color" : "Red, White and Blue for New York Rangers or Red for New Jersey Devils",
+    "reason" : "Empire State Building will Light for the Winning Team following the Rangers vs. Devils Game for the Remainder of the Night",
+    "date" : "2024-03-11T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLQLYA4.jpg?itok=i5LhpHIb",
     "color" : "Green Fades with the Irish Flag Rotating in the Mast",
     "reason" : "In Celebration of St. Patrick's Day",
