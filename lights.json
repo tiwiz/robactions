@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green, Yellow and White COLOR",
+  "picture" : "/sites/default/files/a1rVV000005KVxdYAG-1710273776.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000004Y0WLYA0-1709144264.jpg?itok=yPKkjFTW",
     "color" : "Light Blue",
@@ -32,6 +32,12 @@
     "date" : "2024-03-17T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000005O6EHYA0-1710353158.jpg?itok=QWjVy7Dn",
+    "color" : "Blue and Pink",
+    "reason" : "In Partnership with the International Cricket Council in Celebration of the Start of the Trophy Tour",
+    "date" : "2024-03-18T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFC0CB" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLWnYAO.jpg?itok=RYFTsvMs",
     "color" : "Dark from 8:30 p.m.-9:30 p.m. EST",
     "reason" : "In Observance of Earth Hour",
@@ -50,5 +56,5 @@
     "date" : "2024-03-31T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000", "#FFFF00", "#FFFFFF" ]
 }
