@@ -44,6 +44,12 @@
     "date" : "2024-03-18T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFC0CB" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000005zZ4PYAU-1711053252.jpg?itok=tFMKhbzw",
+    "color" : "Empire Takeover",
+    "reason" : "STAR WARS Takes Over the Empire State Building",
+    "date" : "2024-03-21T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLWnYAO.jpg?itok=RYFTsvMs",
     "color" : "Dark from 8:30 p.m.-9:30 p.m. EST",
     "reason" : "In Observance of Earth Hour",
