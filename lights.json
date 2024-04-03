@@ -1,12 +1,12 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV000006Y56fYAC-1712005158.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006Y56fYAC-1712005158.jpg?itok=-wL0bgNl",
-    "color" : "Blue",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
+    "color" : "Blue, Teal, Purple and Pink",
     "reason" : "In Partnership with Autism Speaks in Honor of Autism Awareness Day",
     "date" : "2024-04-02T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "colorHex" : [ "#0000FF", "#008080", "#800080", "#FFC0CB" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LqxpYAC-1711640691.jpg?itok=u7Blt7f7",
     "color" : "White and Navy Blue Pinstripes",
@@ -56,5 +56,5 @@
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
