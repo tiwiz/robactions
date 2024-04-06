@@ -1,6 +1,6 @@
 {
-  "todayColor" : "White and Navy Blue Pinstripes COLOR",
-  "picture" : "/sites/default/files/a1rVV000006LqxpYAC-1711640691.jpg",
+  "todayColor" : "Teal and Green COLOR",
+  "picture" : "/sites/default/files/a1rVV000006p5lNYAQ-1712337082.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
     "color" : "Blue, Teal, Purple and Pink",
@@ -20,11 +20,11 @@
     "date" : "2024-04-05T00:00:00Z",
     "colorHex" : [ "#FFFFFF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006IqzBYAS-1711572144.jpg?itok=2b0cj9iN",
-    "color" : "Teal",
-    "reason" : "In Partnership with The Joyful Heart Foundation and NBC Entertainment in Honor of Sexual Assault Awareness Month & Season 25 of Law & Order: SVU",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006p5lNYAQ-1712337082.jpg?itok=IQVDl9pf",
+    "color" : "Teal and Green",
+    "reason" : "In Partnership with the Joyful Heart Foundation in Honor of Sexual Assault Awareness Month and in Celebration of Season 25 of Law & Order: SVU",
     "date" : "2024-04-06T00:00:00Z",
-    "colorHex" : [ "#008080" ]
+    "colorHex" : [ "#008080", "#008000" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrKPYA0-1711640691.jpg?itok=6IgVNogy",
     "color" : "Green",
@@ -68,5 +68,5 @@
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008080", "#008000" ]
 }
