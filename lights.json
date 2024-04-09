@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Green COLOR",
+  "picture" : "/sites/default/files/a1rVV000006LrKPYA0-1711640691.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
     "color" : "Blue, Teal, Purple and Pink",
@@ -25,6 +25,12 @@
     "reason" : "In Partnership with the Joyful Heart Foundation in Honor of Sexual Assault Awareness Month and in Celebration of Season 25 of Law & Order: SVU",
     "date" : "2024-04-06T00:00:00Z",
     "colorHex" : [ "#008080", "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006tPITYA2-1712578731.jpg?itok=lY1IlZLk",
+    "color" : "Pink and Purple",
+    "reason" : "In Celebration of the 5-Year Anniversary of TODAY with Hoda & Jenna",
+    "date" : "2024-04-08T00:00:00Z",
+    "colorHex" : [ "#FFC0CB", "#800080" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrKPYA0-1711640691.jpg?itok=6IgVNogy",
     "color" : "Green",
@@ -68,5 +74,5 @@
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#008000" ]
 }
