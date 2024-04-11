@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Blue COLOR",
+  "picture" : "/sites/default/files/a1rVV000006Lrp3YAC-1711640691.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
     "color" : "Blue, Teal, Purple and Pink",
@@ -38,6 +38,12 @@
     "date" : "2024-04-09T00:00:00Z",
     "colorHex" : [ "#008000" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006z5IfYAI-1712755554.jpg?itok=CIfa63EB",
+    "color" : "Orange, Yellow and Blue",
+    "reason" : "In Partnership with the Cesar Millan Foundation in Celebration of New Season Premiere of “Better Human, Better Dog”",
+    "date" : "2024-04-10T00:00:00Z",
+    "colorHex" : [ "#FFA500", "#FFFF00", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006Lrp3YAC-1711640691.jpg?itok=RdDVkP5x",
     "color" : "Blue",
     "reason" : "In Partnership with The Michael J. Fox Foundation in Honor of World Parkinson’s Day",
@@ -74,5 +80,5 @@
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#0000FF" ]
 }
