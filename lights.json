@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Progyny COLOR",
+  "picture" : "/sites/default/files/a1rVV000006LqOMYA0-1711640691.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
     "color" : "Blue, Teal, Purple and Pink",
@@ -86,5 +86,5 @@
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ ]
 }
