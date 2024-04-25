@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Progyny COLOR",
-  "picture" : "/sites/default/files/a1rVV000006LqOMYA0-1711640691.jpg",
+  "todayColor" : "Blue and Orange COLOR",
+  "picture" : "/sites/default/files/a1rVV000007pKFBYA2-1713982354.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
     "color" : "Blue, Teal, Purple and Pink",
@@ -32,6 +32,12 @@
     "date" : "2024-04-08T00:00:00Z",
     "colorHex" : [ "#FFC0CB", "#800080" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIN3YAM-1713982354.jpg?itok=oJROOf3S",
+    "color" : "White Sparkle",
+    "reason" : "From 2:10 to 4:40 p.m. the Empire State Building will Sparkle During the Total Solar Eclipse",
+    "date" : "2024-04-08T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrKPYA0-1711640691.jpg?itok=6IgVNogy",
     "color" : "Green",
     "reason" : "In Celebration of Eid al-Fitr",
@@ -49,6 +55,18 @@
     "reason" : "In Partnership with The Michael J. Fox Foundation in Honor of World Parkinson’s Day",
     "date" : "2024-04-11T00:00:00Z",
     "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pH7dYAE-1713982354.jpg?itok=2k9tYL1b",
+    "color" : "White & Black for Brooklyn Nets or Blue & Orange for New York Knicks",
+    "reason" : "Empire State Building will Light for the Winning Team Following the Nets vs. Knicks Game for Remainder of the Night",
+    "date" : "2024-04-12T00:00:00Z",
+    "colorHex" : [ "#FFFFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIEzYAM-1713982354.jpg?itok=P6mXJSFV",
+    "color" : "Red, White & Blue for New York Rangers or Blue & Orange for New York Islanders",
+    "reason" : "Empire State Building will Light for the Winner of the New York Rangers vs. New York Islanders Game",
+    "date" : "2024-04-13T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF" ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrvVYAS-1711640691.jpg?itok=OBMChbuj",
     "color" : "Light Blue",
@@ -74,6 +92,24 @@
     "date" : "2024-04-18T00:00:00Z",
     "colorHex" : [ ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIWjYAM-1713982354.jpg?itok=1n1ymn5c",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Knicks’ Home Playoff Game",
+    "date" : "2024-04-20T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pHkMYAU-1713982354.jpg?itok=kJshhyli",
+    "color" : "Blue and White Pinstripes",
+    "reason" : "From 8-9 p.m. in Honor of John Sterling's Retirement",
+    "date" : "2024-04-20T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pJivYAE-1713982354.jpg?itok=JxKX_bOQ",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of the New York Rangers’ Home Playoff Game",
+    "date" : "2024-04-21T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLdFYAW.jpg?itok=9lusmUHl",
     "color" : "Green",
     "reason" : "In Celebration of Earth Day",
@@ -85,6 +121,12 @@
     "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
     "date" : "2024-04-24T00:00:00Z",
     "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pKFBYA2-1713982354.jpg?itok=TBHgYjaY",
+    "color" : "Blue and Orange",
+    "reason" : "In Celebration of the New York Islanders’ Home Playoff Game",
+    "date" : "2024-04-25T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFA500" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#0000FF", "#FFA500" ]
 }
