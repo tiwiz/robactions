@@ -1,132 +1,42 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Purple and Blue COLOR",
+  "picture" : "/sites/default/files/a1rVV0000083Z4fYAE-1714407984.jpg",
   "calendar" : [ {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006bmv3YAA-1712077365.jpg?itok=K5bQO723",
-    "color" : "Blue, Teal, Purple and Pink",
-    "reason" : "In Partnership with Autism Speaks in Honor of Autism Awareness Day",
-    "date" : "2024-04-02T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#008080", "#800080", "#FFC0CB" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
+    "color" : "Purple and Blue",
+    "reason" : "In Honor of Police Memorial Day",
+    "date" : "2024-05-01T00:00:00Z",
+    "colorHex" : [ "#800080", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006lWNZYA2-1712243285.jpg?itok=nyOQ_JRC",
-    "color" : "Red, White and Blue or Red",
-    "reason" : "The Empire State Building will light for the winner of the New York Rangers v. New Jersey Devils game",
-    "date" : "2024-04-03T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007sFR4YAM-1714065264.jpg?itok=3PFuKK66",
+    "color" : "Blue, Red, Pink and Yellow",
+    "reason" : "In Celebration of the Women’s Sports Foundation’s 50th Anniversary",
+    "date" : "2024-05-02T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FF0000", "#FFC0CB", "#FFFF00" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LqxpYAC-1711640691.jpg?itok=u7Blt7f7",
-    "color" : "White and Navy Blue Pinstripes",
-    "reason" : "In Celebration of the New York Yankees’ Home Opener",
-    "date" : "2024-04-05T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007VG1GYAW-1713451902.jpg?itok=4JyNmbcW",
+    "color" : "Gold",
+    "reason" : "In Partnership with Gold House in Celebration of AAPI Month",
+    "date" : "2024-05-03T00:00:00Z",
+    "colorHex" : [ "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006p5lNYAQ-1712337082.jpg?itok=IQVDl9pf",
-    "color" : "Teal and Green",
-    "reason" : "In Partnership with the Joyful Heart Foundation in Honor of Sexual Assault Awareness Month and in Celebration of Season 25 of Law & Order: SVU",
-    "date" : "2024-04-06T00:00:00Z",
-    "colorHex" : [ "#008080", "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006tPITYA2-1712578731.jpg?itok=lY1IlZLk",
-    "color" : "Pink and Purple",
-    "reason" : "In Celebration of the 5-Year Anniversary of TODAY with Hoda & Jenna",
-    "date" : "2024-04-08T00:00:00Z",
-    "colorHex" : [ "#FFC0CB", "#800080" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIN3YAM-1713982354.jpg?itok=oJROOf3S",
-    "color" : "White Sparkle",
-    "reason" : "From 2:10 to 4:40 p.m. the Empire State Building will Sparkle During the Total Solar Eclipse",
-    "date" : "2024-04-08T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrKPYA0-1711640691.jpg?itok=6IgVNogy",
-    "color" : "Green",
-    "reason" : "In Celebration of Eid al-Fitr",
-    "date" : "2024-04-09T00:00:00Z",
-    "colorHex" : [ "#008000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006z5IfYAI-1712755554.jpg?itok=CIfa63EB",
-    "color" : "Orange, Yellow and Blue",
-    "reason" : "In Partnership with the Cesar Millan Foundation in Celebration of New Season Premiere of “Better Human, Better Dog”",
-    "date" : "2024-04-10T00:00:00Z",
-    "colorHex" : [ "#FFA500", "#FFFF00", "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006Lrp3YAC-1711640691.jpg?itok=RdDVkP5x",
-    "color" : "Blue",
-    "reason" : "In Partnership with The Michael J. Fox Foundation in Honor of World Parkinson’s Day",
-    "date" : "2024-04-11T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pH7dYAE-1713982354.jpg?itok=2k9tYL1b",
-    "color" : "White & Black for Brooklyn Nets or Blue & Orange for New York Knicks",
-    "reason" : "Empire State Building will Light for the Winning Team Following the Nets vs. Knicks Game for Remainder of the Night",
-    "date" : "2024-04-12T00:00:00Z",
-    "colorHex" : [ "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIEzYAM-1713982354.jpg?itok=P6mXJSFV",
-    "color" : "Red, White & Blue for New York Rangers or Blue & Orange for New York Islanders",
-    "reason" : "Empire State Building will Light for the Winner of the New York Rangers vs. New York Islanders Game",
-    "date" : "2024-04-13T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrvVYAS-1711640691.jpg?itok=OBMChbuj",
-    "color" : "Light Blue",
-    "reason" : "In Celebration of Gotham FC’s Home Opener",
-    "date" : "2024-04-14T00:00:00Z",
-    "colorHex" : [ "#ADD8E6" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LrttYAC-1711640691.jpg?itok=GllTwW8Z",
-    "color" : "Orange",
-    "reason" : "In Celebration of the WNBA Draft",
-    "date" : "2024-04-15T00:00:00Z",
-    "colorHex" : [ "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006lWdhYAE-1712243285.jpg?itok=2H-y2zep",
-    "color" : "Red, White and Blue Sparkle",
-    "reason" : "In Partnership with the United States Olympics and Paralympics Committee in Celebration of 100 Days Out from Summer Olympics",
-    "date" : "2024-04-17T00:00:00Z",
-    "colorHex" : [ "#FF0000", "#FFFFFF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007VRpVYAW-1713451902.jpg?itok=EDytCRPo",
-    "color" : "Green Sparkle",
-    "reason" : "In Partnership with the U.S. Department of Energy in Celebration of First Ever Federal Blueprint to Decarbonize America’s Buildings Sector",
-    "date" : "2024-04-18T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pIWjYAM-1713982354.jpg?itok=1n1ymn5c",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Knicks’ Home Playoff Game",
-    "date" : "2024-04-20T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pHkMYAU-1713982354.jpg?itok=kJshhyli",
-    "color" : "Blue and White Pinstripes",
-    "reason" : "From 8-9 p.m. in Honor of John Sterling's Retirement",
-    "date" : "2024-04-20T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pJivYAE-1713982354.jpg?itok=JxKX_bOQ",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLi5YAG.jpg?itok=VdGwS_By",
     "color" : "Red, White and Blue",
-    "reason" : "In Celebration of the New York Rangers’ Home Playoff Game",
-    "date" : "2024-04-21T00:00:00Z",
+    "reason" : "In Honor of Memorial Day",
+    "date" : "2024-05-25T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLdFYAW.jpg?itok=9lusmUHl",
-    "color" : "Green",
-    "reason" : "In Celebration of Earth Day",
-    "date" : "2024-04-22T00:00:00Z",
-    "colorHex" : [ "#008000" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLjhYAG.jpg?itok=uPen9k_v",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Memorial Day",
+    "date" : "2024-05-26T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000006LqOMYA0-1711640691.jpg?itok=UURVqC--",
-    "color" : "Progyny",
-    "reason" : "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week",
-    "date" : "2024-04-24T00:00:00Z",
-    "colorHex" : [ ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000007pKFBYA2-1713982354.jpg?itok=TBHgYjaY",
-    "color" : "Blue and Orange",
-    "reason" : "In Celebration of the New York Islanders’ Home Playoff Game",
-    "date" : "2024-04-25T00:00:00Z",
-    "colorHex" : [ "#0000FF", "#FFA500" ]
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLlJYAW.jpg?itok=AqCsc434",
+    "color" : "Red, White and Blue",
+    "reason" : "In Honor of Memorial Day",
+    "date" : "2024-05-27T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#800080", "#0000FF" ]
 }
