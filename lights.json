@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Purple and Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV0000083Z4fYAE-1714407984.jpg",
+  "todayColor" : "Blue, Red, Pink and Yellow COLOR",
+  "picture" : "/sites/default/files/a1rVV000007sFR4YAM-1714065264.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
     "color" : "Purple and Blue",
@@ -38,5 +38,5 @@
     "date" : "2024-05-27T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#800080", "#0000FF" ]
+  "colorHex" : [ "#0000FF", "#FF0000", "#FFC0CB", "#FFFF00" ]
 }
