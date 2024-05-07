@@ -20,6 +20,18 @@
     "date" : "2024-05-03T00:00:00Z",
     "colorHex" : [ "#FFD700" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008RZbNYAW-1715010465.jpg?itok=7lujFGNi",
+    "color" : "Blue, Pink, Green and White",
+    "reason" : "In Partnership with Outward Bound in Celebration of The Big Rappel",
+    "date" : "2024-05-06T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFC0CB", "#008000", "#FFFFFF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008SNzZYAW-1715017671.jpg?itok=KllezeeM",
+    "color" : "Blue and Yellow",
+    "reason" : "In Honor of EU Day",
+    "date" : "2024-05-09T00:00:00Z",
+    "colorHex" : [ "#0000FF", "#FFFF00" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLi5YAG.jpg?itok=VdGwS_By",
     "color" : "Red, White and Blue",
     "reason" : "In Honor of Memorial Day",
