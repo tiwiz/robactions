@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Signature White Color",
-  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
+  "todayColor" : "Magenta, Yellow and Cyan COLOR",
+  "picture" : "/sites/default/files/a1rVV000008YGDpYAO-1715115147.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
     "color" : "Purple and Blue",
@@ -26,6 +26,18 @@
     "date" : "2024-05-06T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFC0CB", "#008000", "#FFFFFF" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008VKnRYAW-1715089905.jpg?itok=JiuudjVO",
+    "color" : "Green",
+    "reason" : "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign",
+    "date" : "2024-05-07T00:00:00Z",
+    "colorHex" : [ "#008000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008YGDpYAO-1715115147.jpg?itok=6YJNruCq",
+    "color" : "Magenta, Yellow and Cyan",
+    "reason" : "In Partnership with The Kids Mental Health Foundation in Honor of Children’s Mental Health Awareness Day",
+    "date" : "2024-05-08T00:00:00Z",
+    "colorHex" : [ "#FF00FF", "#FFFF00", "#00FFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008SNzZYAW-1715017671.jpg?itok=KllezeeM",
     "color" : "Blue and Yellow",
     "reason" : "In Honor of EU Day",
@@ -50,5 +62,5 @@
     "date" : "2024-05-27T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#FFFFFF" ]
+  "colorHex" : [ "#FF00FF", "#FFFF00", "#00FFFF" ]
 }
