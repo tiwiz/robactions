@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue and Yellow COLOR",
-  "picture" : "/sites/default/files/a1rVV000008SNzZYAW-1715017671.jpg",
+  "todayColor" : "Signature White Color",
+  "picture" : "/sites/default/files/2020-01/thumbnail5M2VW4ZF.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
     "color" : "Purple and Blue",
@@ -44,6 +44,54 @@
     "date" : "2024-05-09T00:00:00Z",
     "colorHex" : [ "#0000FF", "#FFFF00" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNHhYAM-1715266725.jpg?itok=NjFTsfp1",
+    "color" : "Green Sparkle",
+    "reason" : "In Partnership with the Robin Hood Foundation in Celebration of the 2024 Benefit",
+    "date" : "2024-05-13T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNMXYA2-1715266725.jpg?itok=90ay00QP",
+    "color" : "Purple and Gold",
+    "reason" : "In Partnership with The Westminster Kennel Club in Honor of the 2024 Westminster Kennel Club Dog Show",
+    "date" : "2024-05-14T00:00:00Z",
+    "colorHex" : [ "#800080", "#FFD700" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNO9YAM-1715266725.jpg?itok=FX39A49U",
+    "color" : "Blue",
+    "reason" : "In Celebration of Columbia University’s 2024 Graduates",
+    "date" : "2024-05-15T00:00:00Z",
+    "colorHex" : [ "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNPlYAM-1715270327.jpg?itok=Qu5WyPnA",
+    "color" : "Dynamic Purple & White Light Show",
+    "reason" : "In Celebration of New York University’s 2024 Commencement",
+    "date" : "2024-05-16T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNRNYA2-1715270327.jpg?itok=GWXXurIn",
+    "color" : "Orange",
+    "reason" : "In Partnership with JBL and NAMM in Celebration of JBL Fest",
+    "date" : "2024-05-16T00:00:00Z",
+    "colorHex" : [ "#FFA500" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNftYAE-1715270327.jpg?itok=jigRmiC8",
+    "color" : "Maroon",
+    "reason" : "In Celebration of Fordham University’s 2024 Commencement",
+    "date" : "2024-05-18T00:00:00Z",
+    "colorHex" : [ "#800000" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hQvVYAU-1715270327.jpg?itok=QOcyGH-T",
+    "color" : "Seafoam",
+    "reason" : "9:00 - 10:00 p.m.: In Celebration of New York Liberty's Home Opener",
+    "date" : "2024-05-18T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNhVYAU-1715270327.jpg?itok=kaxWR00b",
+    "color" : "Yellow, White and Blue with a Red Siren in the Mast",
+    "reason" : "In Honor of EMS Week in Partnership with the FDNY",
+    "date" : "2024-05-19T00:00:00Z",
+    "colorHex" : [ "#FFFF00", "#FFFFFF" ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000002OLi5YAG.jpg?itok=VdGwS_By",
     "color" : "Red, White and Blue",
     "reason" : "In Honor of Memorial Day",
@@ -61,6 +109,12 @@
     "reason" : "In Honor of Memorial Day",
     "date" : "2024-05-27T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
+  }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNj7YAE-1715270327.jpg?itok=YzpzOm7n",
+    "color" : "Red, White and Blue",
+    "reason" : "In Celebration of the French Open",
+    "date" : "2024-05-28T00:00:00Z",
+    "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#0000FF", "#FFFF00" ]
+  "colorHex" : [ "#FFFFFF" ]
 }
