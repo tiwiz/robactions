@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Blue COLOR",
-  "picture" : "/sites/default/files/a1rVV000008hNO9YAM-1715266725.jpg",
+  "todayColor" : "Dynamic Purple & White Light Show COLOR",
+  "picture" : "/sites/default/files/a1rVV000008hNPlYAM-1715270327.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
     "color" : "Purple and Blue",
@@ -56,11 +56,11 @@
     "date" : "2024-05-14T00:00:00Z",
     "colorHex" : [ "#800080", "#FFD700" ]
   }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNO9YAM-1715266725.jpg?itok=FX39A49U",
-    "color" : "Blue",
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000091D9KYAU-1715804401.jpg?itok=iQMMCB5d",
+    "color" : "Columbia Blue",
     "reason" : "In Celebration of Columbia University’s 2024 Graduates",
     "date" : "2024-05-15T00:00:00Z",
-    "colorHex" : [ "#0000FF" ]
+    "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNPlYAM-1715270327.jpg?itok=Qu5WyPnA",
     "color" : "Dynamic Purple & White Light Show",
@@ -116,5 +116,5 @@
     "date" : "2024-05-28T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ "#0000FF" ]
+  "colorHex" : [ ]
 }
