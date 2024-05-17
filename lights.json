@@ -1,6 +1,6 @@
 {
-  "todayColor" : "Dynamic Purple & White Light Show COLOR",
-  "picture" : "/sites/default/files/a1rVV000008hNPlYAM-1715270327.jpg",
+  "todayColor" : "Orange COLOR",
+  "picture" : "/sites/default/files/a1rVV000008nXkbYAE-1715360477.jpg",
   "calendar" : [ {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000083Z4fYAE-1714407984.jpg?itok=z_WsG4AR",
     "color" : "Purple and Blue",
@@ -74,17 +74,17 @@
     "date" : "2024-05-17T00:00:00Z",
     "colorHex" : [ "#FFA500" ]
   }, {
+    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV0000095labYAA-1715883852.jpg?itok=TlhLK4rg",
+    "color" : "Seafoam",
+    "reason" : "10:00 pm – 11:00 pm: In Celebration of the New York Liberty’s Home Opener",
+    "date" : "2024-05-17T00:00:00Z",
+    "colorHex" : [ ]
+  }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNftYAE-1715270327.jpg?itok=jigRmiC8",
     "color" : "Maroon",
     "reason" : "In Celebration of Fordham University’s 2024 Commencement",
     "date" : "2024-05-18T00:00:00Z",
     "colorHex" : [ "#800000" ]
-  }, {
-    "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hQvVYAU-1715270327.jpg?itok=QOcyGH-T",
-    "color" : "Seafoam",
-    "reason" : "9:00 - 10:00 p.m.: In Celebration of New York Liberty's Home Opener",
-    "date" : "2024-05-18T00:00:00Z",
-    "colorHex" : [ ]
   }, {
     "image" : "https://www.esbnyc.com/sites/default/files/styles/tower_lights_calendar/public/a1rVV000008hNhVYAU-1715270327.jpg?itok=kaxWR00b",
     "color" : "Yellow, White and Blue with a Red Siren in the Mast",
@@ -116,5 +116,5 @@
     "date" : "2024-05-28T00:00:00Z",
     "colorHex" : [ "#FF0000", "#FFFFFF", "#0000FF" ]
   } ],
-  "colorHex" : [ ]
+  "colorHex" : [ "#FFA500" ]
 }
